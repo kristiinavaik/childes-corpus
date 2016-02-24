@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 import re
 import time
@@ -94,14 +96,49 @@ class Participant(object):
         return 'Participant<%s>' % self
 
 
+class UtteranceComment(object):
+
+    COMMENT_RE = re.compile(r'^%(?P<type>[^:]+):\s+(?P<comment>.*)')
+
+    def __init__(self, line):
+        comment_match = self.COMMENT_RE.match(line)
+        if not comment_match:
+            raise ValueError("Invalid comment on line: %r" % line)
+        self.type = comment_match.group('type')
+        self.value = comment_match.group('comment')
+
+    @property
+    def xml_type(self):
+        xml_type = {
+            'act': 'actions',
+            'add': 'addressee',
+            'com': 'comments',
+            'err': 'errcoding',
+            'exp': 'explanation',
+            'par': 'paralinguistics',
+        }.get(self.type)
+        if self.type is None:
+            raise ValueError("Invalid UtteranceComment type %r" % self.type)
+        return xml_type
+
+
 class Utterance(object):
 
-    def __init__(self, line, comment=''):
-        self._line = line
-        self.comment = comment
+    LINE_RE = re.compile(r'^\*(?P<who>[^:]+):\s+(?P<words>.*)')
 
-    def extend_line(self, extend_line):
-        self._line = '%s %s' % (self._line, extend_line.strip())
+    def __init__(self, line):
+        self._line = line
+        self.who = ''
+        self.comments = []
+        self.words = []
+        self._parse()
+
+    def _parse(self):
+        line_match = self.LINE_RE.match(self._line)
+        if not line_match:
+            raise ValueError("Invalid utterance on line: %r" % self._line)
+        self.who = line_match.group('who')
+        self.words = line_match.group('words')
 
     def __str__(self):
         return self._line
@@ -153,7 +190,7 @@ class Chat(object):
             elif start_char == '*':
                 self.utterances.append(Utterance(line))
             elif start_char == '%':
-                self.utterances[-1].comment = line
+                self.utterances[-1].comments.append(UtteranceComment(line))
 
         self.corpus = self.participants[0].corpus
 
@@ -226,5 +263,5 @@ c = chats[-1]
 print(c)
 print('-'*50)
 print(c.create_xml())
-import ipdb
-ipdb.set_trace()
+# import ipdb
+# ipdb.set_trace()

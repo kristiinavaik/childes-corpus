@@ -29,6 +29,11 @@
     {% if chat.situation %}<comment type="Situation">{{ chat.situation }}</comment>{% endif %}
 
     {% for utterance in chat.utterances %}
-
+    <u who="{{ utterance.who }}" uID="u{{ loop.index }}">
+        <w>{{ utterance.words }}</w>
+        {% for comment in utterance.comments %}
+        <a type="{{ comment.xml_type }}">{{ comment.value }}</a>
+        {% endfor %}
+    </u>
     {% endfor %}
 </CHAT>
