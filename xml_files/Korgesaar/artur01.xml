@@ -1,0 +1,5668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      PID="11312/c-00026709-1"
+      Version="2.0.2"
+      Lang="est"
+      Corpus="Korgesaar"
+      Id="artur01"
+      Date="2010-12-21">
+  <Participants>
+    <participant
+      id="OBS"
+    name="Mother"
+      role="Observer"
+      language="est"
+      age="P34Y5M25D"
+
+      sex="female"
+
+    />
+    <participant
+      id="CHI"
+    name="Artur"
+      role="Target_Child"
+      language="est"
+      age="P1Y4M15D"
+
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">21-DEC-2010</comment>
+  <comment type="Time Duration">10:30-11:30</comment>
+  <comment type="Situation">tavaline päev kodus väikelapsega</comment>
+  <u who="OBS" uID="u0">
+    <w>oota</w>
+    <w>võta</w>
+    <w>oma</w>
+    <w>kätte</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS õpetab last kahvliga sööma.</a>
+  </u>
+  <u who="OBS" uID="u1">
+    <w>pane</w>
+    <w>niipidi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u2">
+    <w>noh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u3">
+    <w>läks</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u4">
+    <w>okei</w>
+    <w>torka</w>
+    <w>torka</w>
+    <w>ilusti</w>
+    <w>sisse</w>
+    <w>torka</w>
+    <w>nüüd</w>
+    <w>saad</w>
+    <w>suhu</w>
+    <w>panna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u5">
+    <w>ah</w>
+    <w>ah</w>
+    <w>muidugi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u6">
+    <w>amps</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <w>mis</w>
+    <w>sul</w>
+    <w>on</w>
+    <w>mis</w>
+    <w>on</w>
+    <w>noh</w>
+    <w>jahm</w>
+    <w>on</w>
+    <w>see</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u7">
+    <w>ei</w>
+    <w>taha</w>
+    <w>enam</w>
+    <w>jah</w>
+    <w>kõht</w>
+    <w>täis</w>
+    <w>pane</w>
+    <w>veel</w>
+    <w>son<replacement><w>see</w><w>on</w></replacement></w>
+    <w>nii</w>
+    <w>ästi<replacement><w>hästi</w></replacement></w>
+    <w>jahtund</w>
+    <w>Artur</w>
+    <w>näita</w>
+    <w>mis</w>
+    <w>sul</w>
+    <w>suus</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u8">
+    <w>on</w>
+    <w>sul</w>
+    <w>midagi</w>
+    <w>suus</w>
+    <w>või</w>
+    <w>näita</w>
+    <w>näita</w>
+    <w>mis</w>
+    <w>sul</w>
+    <w>suus</w>
+    <w>on</w>
+    <w>ammbad<replacement><w>hambad</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u9">
+    <w>kook</w>
+    <w>on</w>
+    <w>suus</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u10">
+    <w>pane</w>
+    <w>veel</w>
+    <w>ei</w>
+    <w>taha</w>
+    <w>veel</w>
+    <w>ei</w>
+    <w>taha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u11">
+    <w>kikumati</w>
+    <w>emme</w>
+    <w>peab</w>
+    <w>siis</w>
+    <w>ise</w>
+    <w>sööma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u12">
+    <g><w>allo</w><ga type="explanation">telefon</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u13">
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>allo</w><ga type="explanation">telefon</ga></g>
+    <w>son<replacement><w>see</w><w>on</w></replacement></w>
+    <w>lamp</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u14">
+    <g><w>omp</w><ga type="explanation">lamp</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u15">
+    <w>lamp</w>
+    <w>väike</w>
+    <w>lamp</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u16">
+    <w>siin</w>
+    <w>on</w>
+    <w>kahvel</w>
+    <w>see</w>
+    <w>on</w>
+    <w>kalapulk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u17">
+    <w>võta</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>kahvel</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI tahab tassi võtta ja suure hooga jooma hakata.</a>
+  </u>
+  <u who="OBS" uID="u18">
+    <w>tasakesi</w>
+    <w>tasa</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI hakkab toolil nihelema.</a>
+  </u>
+  <u who="OBS" uID="u19">
+    <w>lähme</w>
+    <w>ruttu</w>
+    <w>lähme</w>
+    <w>ruttu</w>
+    <w>lähme</w>
+    <w>pissi</w>
+    <w>pil</w>
+    <w>pissile-pissile-pissile</w>
+    <w>ruttu-ruttu-ruttu-ruttu</w>
+    <w>tule</w>
+    <w>siia</w>
+    <w>tule</w>
+    <w>siia</w>
+    <w>lähme</w>
+    <w>ruttu</w>
+    <w>potile</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u20">
+    <w>istu</w>
+    <w>opa<replacement><w>hopa</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u21">
+    <w>istu</w>
+    <w>istu-istu</w>
+    <w>teeme</w>
+    <w>pissu</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u22">
+    <w>koma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u23">
+    <w>ja</w>
+    <w>koh</w>
+    <w>kohe</w>
+    <w>tuleb</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u24">
+    <w>oota</w>
+    <w>istu</w>
+    <w>otse</w>
+    <w>muidu</w>
+    <w>tuleb</w>
+    <w>üle</w>
+    <w>ääre</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u25">
+    <w>seal</w>
+    <w>pole</w>
+    <w>veel</w>
+    <w>midagi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u26">
+    <w>võtame</w>
+    <w>selle</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u27">
+    <w>vaatame</w>
+    <w>kas</w>
+    <w>tuleb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u28">
+    <w>kas</w>
+    <w>tuleb</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u29">
+    <w>vaata</w>
+    <w>kas</w>
+    <w>tuleb</w>
+    <w>ka</w>
+    <w>ikka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u30">
+    <w>kohe</w>
+    <w>tuleb</w>
+    <w>kohe-kohe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u31">
+    <w>kas</w>
+    <w>tuli</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u32">
+    <w>küll</w>
+    <w>ta</w>
+    <w>tuleb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u33">
+    <w>kas</w>
+    <w>tuli</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u34">
+    <w>näita</w>
+    <w>Artur</w>
+    <w>ei</w>
+    <w>tulnud</w>
+    <w>tühi</w>
+    <w>on</w>
+    <w>aga</w>
+    <w>kuule</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>lähme</w>
+    <w>proovime</w>
+    <w>veel</w>
+    <w>seal</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>midagi</w>
+    <w>valada</w>
+    <w>präegu<replacement><w>praegu</w></replacement></w>
+    <w>oota</w>
+    <w>istu-istu</w>
+    <w>istu</w>
+    <w>peale</w>
+    <w>istu</w>
+    <w>ikka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u35">
+    <w>opsti<replacement><w>hopsti</w></replacement></w>
+    <w>nüüd</w>
+    <w>äkki</w>
+    <w>tuleb</w>
+    <w>istu</w>
+    <w>niimoodi</w>
+    <w>et</w>
+    <w>üle</w>
+    <w>ääre</w>
+    <w>ei</w>
+    <w>tule</w>
+    <w>vaata</w>
+    <w>kas</w>
+    <w>tuleb</w>
+    <w>vaata</w>
+    <w>ise</w>
+    <w>ka</w>
+    <w>siia</w>
+    <w>vaata</w>
+    <w>sinna</w>
+    <w>kas</w>
+    <w>tuleb</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI istub vastutahtmist potile tagasi ja hakkab punnitama.</a>
+  </u>
+  <u who="OBS" uID="u36">
+    <w>tuleb</w>
+    <w>kaka</w>
+    <w>tuleb</w>
+    <w>oopis<replacement><w>hoopis</w></replacement></w>
+    <w>kaka</w>
+    <w>tuleb</w>
+    <w>tubli</w>
+    <w>poiss</w>
+    <w>oled</w>
+    <w>tubli</w>
+    <w>oled</w>
+    <w>oota</w>
+    <w>tee</w>
+    <w>lõpuni</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI tahtis kohe püsti tõusta ja poti tühjaks valada.</a>
+  </u>
+  <u who="OBS" uID="u37">
+    <w>tuligi</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>saak</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u38">
+    <w>kas</w>
+    <w>tuli</w>
+    <w>ära</w>
+    <w>või</w>
+    <w>ütle</w>
+    <w>kui</w>
+    <w>valma</w>
+    <w>on</w>
+    <t type="p"></t>
+
+    <a type="comments">kuna lapsel on suulaelõhe , tahab ema rätikuga suud puhastada ja laps vehib rätiku käega minema.</a>
+  </u>
+  <u who="OBS" uID="u39">
+    <w>ei</w>
+    <w>see</w>
+    <w>on</w>
+    <w>puhas</w>
+    <w>see</w>
+    <w>ei</w>
+    <w>käind<replacement><w>käinud</w></replacement></w>
+    <w>kuskil</w>
+    <w>musta</w>
+    <w>sees</w>
+    <w>puhas</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u40">
+    <w>noh</w>
+    <w>veel</w>
+    <w>mingi</w>
+    <w>koogitükk</w>
+    <w>on</w>
+    <w>seal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u41">
+    <w>päh</w>
+    <w>päh</w>
+    <w>on</w>
+    <w>see</w>
+    <w>jah</w>
+    <w>pane</w>
+    <w>suu</w>
+    <w>kinni</w>
+    <w>said</w>
+    <w>valmis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u42">
+    <w>oled</w>
+    <w>valmis</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>ei</w>
+    <w>ole</w>
+    <t type="q"></t>
+
+    <a type="comments">CHI hakkab potiga edasi liikuma.</a>
+  </u>
+  <u who="OBS" uID="u43">
+    <w>ei</w>
+    <w>präegu<replacement><w>praegu</w></replacement></w>
+    <w>ei</w>
+    <w>sõida</w>
+    <w>näita</w>
+    <w>oi</w>
+    <w>aga</w>
+    <w>kas</w>
+    <w>piss</w>
+    <w>ka</w>
+    <w>tuleb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u44">
+    <w>tee</w>
+    <w>pissu</w>
+    <w>ka</w>
+    <w>ära</w>
+    <w>tee</w>
+    <w>pissu</w>
+    <w>ka</w>
+    <w>ära</w>
+    <w>paha</w>
+    <w>ais<replacement><w>hais</w></replacement></w>
+    <w>on</w>
+    <w>siin</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u45">
+    <w>Artur</w>
+    <w>ära</w>
+    <w>tee</w>
+    <w>nimodi</w>
+    <w>läheb</w>
+    <w>pott</w>
+    <w>ümber</w>
+    <w>tee</w>
+    <w>pissu</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u46">
+    <w>kas</w>
+    <w>tuli</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u47">
+    <w>näita</w>
+    <w>tubli</w>
+    <w>nii</w>
+    <w>tubli</w>
+    <w>oled</w>
+    <w>oled</w>
+    <w>küll</w>
+    <w>tubli</w>
+    <w>tee</w>
+    <w>ruttu</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u48">
+    <w>auh</w>
+    <w>emme</w>
+    <w>auh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u49">
+    <w>pall</w>
+    <w>on</w>
+    <w>see</w>
+    <w>tee</w>
+    <w>präegu<replacement><w>praegu</w></replacement></w>
+    <w>pissu</w>
+    <w>ära</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u50">
+    <w>auh</w>
+    <w>emme</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u51">
+    <w>pall</w>
+    <w>on</w>
+    <w>see</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS tirib CHI potiga tagasi.</a>
+  </u>
+  <u who="OBS" uID="u52">
+    <w>tule</w>
+    <w>tagasi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u53">
+    <w>kas</w>
+    <w>sa</w>
+    <w>said</w>
+    <w>valmis</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u54">
+    <w>näe</w>
+    <w>kas</w>
+    <w>piss</w>
+    <w>tuli</w>
+    <w>näita</w>
+    <w>tuli</w>
+    <w>nüüd</w>
+    <w>on</w>
+    <w>ju</w>
+    <w>valma</w>
+    <w>lähme</w>
+    <w>ruttu</w>
+    <w>peseme</w>
+    <w>pep</w>
+    <w>pepu</w>
+    <w>ära</w>
+    <w>oota-oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u55">
+    <w>noo</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS-i lause lõpust ei saa aru.</a>
+  </u>
+  <u who="OBS" uID="u56">
+    <w>noh</w>
+    <w>oi</w>
+    <w>pall</w>
+    <w>võta</w>
+    <w>sina</w>
+    <w>pall</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI võtab palli ja läheb paneb vannitoas tule kustu.</a>
+  </u>
+  <u who="OBS" uID="u57">
+    <w>emme</w>
+    <w>ei</w>
+    <w>näe</w>
+    <w>niimodi</w>
+    <w>Artur</w>
+    <w>pane</w>
+    <w>põlema</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI paneb tule põlema ja tahab selle varsti jälle ära kustutada.</a>
+  </u>
+  <u who="OBS" uID="u58">
+    <w>ära</w>
+    <w>kustuta</w>
+    <w>ära</w>
+    <w>oota</w>
+    <w>ei</w>
+    <w>kustuta</w>
+    <w>präegu<replacement><w>praegu</w></replacement></w>
+    <w>tule</w>
+    <w>laseme</w>
+    <w>vett</w>
+    <w>ka</w>
+    <w>tule</w>
+    <w>laseme</w>
+    <w>vett</w>
+    <w>nüüd</w>
+    <w>sa</w>
+    <w>ei</w>
+    <w>näe</w>
+    <w>ise</w>
+    <w>ka</w>
+    <w>mitte</w>
+    <w>midagi</w>
+    <w>tule</w>
+    <w>laseme</w>
+    <w>vett</w>
+    <w>ka</w>
+    <w>peale</w>
+    <w>siin</w>
+    <w>saab</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI kustutab tule ära ja jookseb minema.</a>
+  </u>
+  <u who="OBS" uID="u59">
+    <w>on</w>
+    <w>sul</w>
+    <w>veel</w>
+    <w>pissiäda<replacement><w>pissihäda</w></replacement></w>
+    <w>või</w>
+    <w>kus</w>
+    <w>sa</w>
+    <w>jooksed</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS paneb lapsele püksid jalga tagasi.</a>
+  </u>
+  <u who="OBS" uID="u60">
+    <w>ooda<replacement><w>oota</w></replacement></w>
+    <w>pane</w>
+    <w>jalad</w>
+    <w>sisse</w>
+    <w>pane</w>
+    <w>jalad</w>
+    <w>sisse</w>
+    <w>torka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u61">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u62">
+    <w>emme</w>
+    <w>Artur</w>
+    <w>mine</w>
+    <w>võta</w>
+    <w>nüüd</w>
+    <w>sokid</w>
+    <w>ka</w>
+    <w>sealt</w>
+    <w>võta</w>
+    <w>sokid</w>
+    <w>too</w>
+    <w>emmele</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u63">
+    <w>too</w>
+    <w>siia</w>
+    <w>emme</w>
+    <w>paneb</w>
+    <w>jalga</w>
+    <w>sulle</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI võtab sokid ja jääb seisma.</a>
+  </u>
+  <u who="OBS" uID="u64">
+    <w>too</w>
+    <w>siia</w>
+    <w>too</w>
+    <w>jalga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u65">
+    <w>kaks</w>
+    <w>ohoh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u66">
+    <w>ohoo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u67">
+    <w>tühi</w>
+    <w>muhk</w>
+    <w>oli</w>
+    <w>seal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u68">
+    <w>a<replacement><w>aga</w></replacement></w>
+    <w>kus</w>
+    <w>teine</w>
+    <w>on</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u69">
+    <w>kus</w>
+    <w>on</w>
+    <w>Maiken</w>
+    <w>pani</w>
+    <w>kotti</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>oota</w>
+    <w>vaatame</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u70">
+    <w>oota-oota</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS otsib mööda elutuba kadunud sokki taga.</a>
+  </u>
+  <u who="OBS" uID="u71">
+    <w>kus</w>
+    <w>sa</w>
+    <w>panid</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u72">
+    <w>et</w>
+    <w>võib</w>
+    <w>nagu</w>
+    <w>ühega</w>
+    <w>ka</w>
+    <w>olla</w>
+    <w>onju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u73">
+    <w>ei</w>
+    <w>kus</w>
+    <w>sokk</w>
+    <w>on</w>
+    <w>Artur</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u74">
+    <w>need</w>
+    <w>on</w>
+    <w>mängus</w>
+    <w>oot</w>
+    <w>vaatame</w>
+    <w>mänguasjakasti</w>
+    <w>siia</w>
+    <w>ka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u75">
+    <w>mh</w>
+    <w>kus</w>
+    <w>sa</w>
+    <w>panid</w>
+    <w>soki</w>
+    <w>Artur</w>
+    <w>kus</w>
+    <w>su</w>
+    <w>sokk</w>
+    <w>on</w>
+    <w>kus</w>
+    <w>sa</w>
+    <w>panid</w>
+    <w>peitu</w>
+    <w>panid</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u76">
+    <w>paneme</w>
+    <w>teised</w>
+    <w>sokid</w>
+    <w>jalga</w>
+    <w>siis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u77">
+    <w>meil</w>
+    <w>on</w>
+    <w>siin</w>
+    <w>iired</w>
+    <w>käind<replacement><w>hiired</w><w>käinud</w></replacement></w>
+    <t type="p"></t>
+
+    <a type="comments">OBS näitab tillukest auku sokivarbas ja ütleb midagi , aga lapse mänguasi laulab ja öeldut pole kuulda.</a>
+  </u>
+  <u who="OBS" uID="u78">
+    <w>vot</w>
+    <w>siis</w>
+    <w>istub</w>
+    <w>peale</w>
+    <w>kutsale</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u79">
+    <w>tahad</w>
+    <w>ma</w>
+    <w>võtan</w>
+    <w>ühe</w>
+    <w>lonksu</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS pakkus lapsele mänguasja ja läks ise kööki kohvilonksu võtma.</a>
+  </u>
+  <u who="OBS" uID="u80">
+    <w>Artur</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+    <a type="comments">CHI raputab pead.</a>
+  </u>
+  <u who="OBS" uID="u81">
+    <w>kindel</w>
+    <w>Artur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u82">
+    <w>ma</w>
+    <w>ei</w>
+    <w>räägi</w>
+    <w>präegu<replacement><w>praegu</w></replacement></w>
+    <t type="p"></t>
+
+    <a type="comments">see oli mõeldud lindistajale.</a>
+  </u>
+  <u who="OBS" uID="u83">
+    <w>see</w>
+    <w>on</w>
+    <w>tuline</w>
+    <w>tee</w>
+    <w>muuseas</w>
+    <w>kurku</w>
+    <w>võib</w>
+    <w>minna</w>
+    <t type="p"></t>
+
+    <a type="comments">lindistaja tõmbas kuuma tee kurku ja hakkas köhima.</a>
+  </u>
+  <u who="OBS" uID="u84">
+    <w>sa</w>
+    <w>tahad</w>
+    <w>veel</w>
+    <w>pissida</w>
+    <w>ei</w>
+    <w>see</w>
+    <w>on</w>
+    <w>vesi</w>
+    <w>see</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>ullu<replacement><w>hullu</w></replacement></w>
+    <w>midagi</w>
+    <w>selle</w>
+    <w>võib</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u85">
+    <w>märg</w>
+    <w>on</w>
+    <w>see</w>
+    <w>on</w>
+    <w>vesi</w>
+    <w>vesi</w>
+    <w>sellega</w>
+    <w>pole</w>
+    <w>ullu<replacement><w>hullu</w></replacement></w>
+    <w>midagi</w>
+    <w>emme</w>
+    <w>pühkis</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u86">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u87">
+    <w>vesi</w>
+    <t type="p"></t>
+
+    <a type="comments">keegi suurem laps hüüab vahele: ma olen su sõber.</a>
+  </u>
+  <u who="OBS" uID="u88">
+    <w>pane</w>
+    <w>põrandale</w>
+    <w>maha</w>
+    <w>pane</w>
+    <w>maha</w>
+    <w>keegi</w>
+    <w>saab</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>muidu</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS läheb eemale ja räägib midagi , mida pole kuulda.</a>
+  </u>
+  <u who="OBS" uID="u89">
+    <w>pane</w>
+    <w>ta</w>
+    <w>siia</w>
+    <w>siia-siia-siia</w>
+    <w>emme</w>
+    <w>valas</w>
+    <w>juba</w>
+    <w>ära</w>
+    <w>selle</w>
+    <w>see</w>
+    <w>on</w>
+    <w>tühi</w>
+    <w>no</w>
+    <w>üks</w>
+    <w>tilk</w>
+    <w>on</w>
+    <w>paneb</w>
+    <w>põlema</w>
+    <w>selle</w>
+    <w>asja</w>
+    <w>siin</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u90">
+    <w>oota</w>
+    <w>oota</w>
+    <w>oota</w>
+    <w>ootame</w>
+    <w>kui</w>
+    <w>tuli</w>
+    <w>põlema</w>
+    <w>läheb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u91">
+    <w>näe</w>
+    <w>vaata</w>
+    <w>Artur</w>
+    <w>pane</w>
+    <w>pane</w>
+    <w>kaas</w>
+    <w>üles</w>
+    <w>tõsta</w>
+    <w>ülesse<replacement><w>üles</w></replacement></w>
+    <w>tõsta</w>
+    <w>ülesse<replacement><w>üles</w></replacement></w>
+    <w>tõsta</w>
+    <w>ülesse<replacement><w>üles</w></replacement></w>
+    <w>noo</w>
+    <w>nii</w>
+    <w>nüüd</w>
+    <w>saad</w>
+    <w>selle</w>
+    <w>siia</w>
+    <w>ära</w>
+    <w>panna</w>
+    <w>võta</w>
+    <w>Artur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u92">
+    <w>vot</w>
+    <w>nii</w>
+    <w>kas</w>
+    <w>nüüd</w>
+    <w>vajutame</w>
+    <w>nuppu</w>
+    <w>ka</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u93">
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u94">
+    <w>novot</w>
+    <w>oota</w>
+    <w>ruttu</w>
+    <w>kinni</w>
+    <w>ruttu-ruttu</w>
+    <w>kinni</w>
+    <w>muidu</w>
+    <w>tulevad</w>
+    <w>batsillid</w>
+    <w>välja</w>
+    <w>ruttu</w>
+    <w>kinni</w>
+    <w>ruttu</w>
+    <w>kinni</w>
+    <w>kops</w>
+    <w>lähme</w>
+    <w>nüüd</w>
+    <w>välja</w>
+    <w>siit</w>
+    <w>tagasi</w>
+    <w>siin</w>
+    <w>teeme</w>
+    <w>piss</w>
+    <w>paneme</w>
+    <w>ruttu</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>ukse</w>
+    <w>kinni</w>
+    <w>muidu</w>
+    <w>tulevad</w>
+    <w>siit</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI käis uuesti pissil ja tõmbas vett peale. OBS ei luba enam tagasi tualetti minna ja CHI hakkab jonnima.</a>
+  </u>
+  <u who="OBS" uID="u95">
+    <w>enam</w>
+    <w>ei</w>
+    <w>lähe</w>
+    <w>sinna</w>
+    <w>emme</w>
+    <w>on</w>
+    <w>ees</w>
+    <w>emme</w>
+    <w>on</w>
+    <w>ees</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u96">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u97">
+    <w>lähme</w>
+    <w>vaatame</w>
+    <w>mis</w>
+    <w>tädil</w>
+    <w>seal</w>
+    <w>maas</w>
+    <w>on</w>
+    <w>veel</w>
+    <w>mis</w>
+    <w>ta</w>
+    <w>jättis</w>
+    <w>siia</w>
+    <w>põrandale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u98">
+    <w>anname</w>
+    <w>sulle</w>
+    <w>need</w>
+    <w>väiksed</w>
+    <w>võtmed</w>
+    <w>kas</w>
+    <w>need</w>
+    <w>sobivad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u99">
+    <w>kas</w>
+    <w>sa</w>
+    <w>neid</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u100">
+    <w>need</w>
+    <w>lähevad</w>
+    <w>jah</w>
+    <w>su</w>
+    <w>Artur</w>
+    <w>Artur</w>
+    <w>suhu</w>
+    <w>ei</w>
+    <w>tohi</w>
+    <w>panna</w>
+    <w>suhu</w>
+    <w>ei</w>
+    <w>pane</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u101">
+    <w>ma</w>
+    <w>panen</w>
+    <w>õhemad</w>
+    <w>riided</w>
+    <w>selga</w>
+    <w>varsti</w>
+    <w>näed</w>
+    <w>siia</w>
+    <w>võid</w>
+    <w>mängida</w>
+    <w>mängi</w>
+    <w>siia</w>
+    <w>auku</w>
+    <w>kui</w>
+    <w>ulatad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u102">
+    <w>lähme</w>
+    <w>kapiukse</w>
+    <w>juurde</w>
+    <w>Artur</w>
+    <w>lähme</w>
+    <w>kapiukse</w>
+    <w>keerame</w>
+    <w>lukku</w>
+    <w>ja</w>
+    <w>kinni</w>
+    <w>tule</w>
+    <w>lähme</w>
+    <w>kapiukse</w>
+    <w>juurde</w>
+    <w>tule</w>
+    <w>ma</w>
+    <w>näitan</w>
+    <w>sulle</w>
+    <w>köögikapi</w>
+    <w>juurde</w>
+    <w>saab</w>
+    <w>minna</w>
+    <w>tulämm<replacement><w>tule</w><w>lähme</w></replacement></w>
+    <w>vaatame</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u103">
+    <w>köögikapi</w>
+    <w>juures</w>
+    <w>saab</w>
+    <w>lukku</w>
+    <w>keerata</w>
+    <w>tahaks</w>
+    <w>saia</w>
+    <w>saada</w>
+    <w>lähme</w>
+    <w>sööme</w>
+    <w>saia</w>
+    <w>ka</w>
+    <w>vahepeal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u104">
+    <w>lämvaatame<replacement><w>lähme</w><w>vaatame</w></replacement></w>
+    <w>köögikappe</w>
+    <w>saab</w>
+    <w>lukku</w>
+    <w>keerata</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u105">
+    <w>vot</w>
+    <w>siia</w>
+    <w>saab</w>
+    <w>vahele</w>
+    <w>pista</w>
+    <w>näe</w>
+    <w>siia</w>
+    <w>keera-keera-keera-keera</w>
+    <w>siit</w>
+    <w>noh</w>
+    <w>kuidagi</w>
+    <w>ikka</w>
+    <w>saab</w>
+    <w>jaa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u106">
+    <w>keera-keera</w>
+    <w>ära</w>
+    <w>ehmata</w>
+    <w>mind</w>
+    <w>palun</w>
+    <w>ole</w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u107">
+    <w>no</w>
+    <w>keera</w>
+    <w>no</w>
+    <w>näe</w>
+    <w>selle</w>
+    <w>konksuga</w>
+    <w>kül</w>
+    <w>näe</w>
+    <w>ma</w>
+    <w>näitan</w>
+    <w>sulle</w>
+    <w>midagi</w>
+    <w>näe</w>
+    <w>tee</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u108">
+    <w>keera</w>
+    <w>sina</w>
+    <w>seda</w>
+    <w>keera-keera</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u109">
+    <w>keera-keera</w>
+    <w>vaata</w>
+    <w>kas</w>
+    <w>saad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u110">
+    <w>siia</w>
+    <w>vahele</w>
+    <w>saab</w>
+    <w>ka</w>
+    <w>pista</w>
+    <w>näe</w>
+    <w>siia</w>
+    <w>auku</w>
+    <w>ja</w>
+    <w>siia</w>
+    <w>auku</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS näitab CHI-le kõikvõimalikke kohti , kust võtmega keerata saaks.</a>
+  </u>
+  <u who="OBS" uID="u111">
+    <w>siia</w>
+    <w>auku</w>
+    <w>saad</w>
+    <w>ka</w>
+    <w>näe</w>
+    <w>vaata</w>
+    <w>sinna</w>
+    <w>auku</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u112">
+    <w>jah</w>
+    <w>ja</w>
+    <w>siis</w>
+    <w>see</w>
+    <w>alt</w>
+    <w>saad</w>
+    <w>siit</w>
+    <w>keerata</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>auk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u113">
+    <w>kõik</w>
+    <w>on</w>
+    <w>lukkukeeratud</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u114">
+    <w>keera</w>
+    <w>seda</w>
+    <w>auku</w>
+    <w>ka</w>
+    <w>siia</w>
+    <w>saad</w>
+    <w>võtme</w>
+    <w>vaata</w>
+    <w>väiksema</w>
+    <w>võid</w>
+    <w>pane</w>
+    <w>väike</w>
+    <w>võti</w>
+    <w>siia</w>
+    <w>Artur</w>
+    <w>näed</w>
+    <w>pane</w>
+    <w>see</w>
+    <w>võti</w>
+    <w>pane</w>
+    <w>see</w>
+    <w>võti</w>
+    <w>siia</w>
+    <w>oih</w>
+    <w>seal</w>
+    <w>saab</w>
+    <w>peaaegu</w>
+    <w>keerata</w>
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u115">
+    <w>nägidsa<replacement><w>nägid</w><w>sa</w></replacement></w>
+    <w>sinna</w>
+    <w>saab</w>
+    <w>kah</w>
+    <w>näe</w>
+    <w>siia</w>
+    <w>auku</w>
+    <w>sa</w>
+    <w>pole</w>
+    <w>proovindki</w>
+    <w>siia</w>
+    <w>auku</w>
+    <w>midagi</w>
+    <w>panna</w>
+    <w>näed</w>
+    <w>sa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u116">
+    <w>nüüd</w>
+    <w>on</w>
+    <w>kõik</w>
+    <w>lukus</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u117">
+    <w>pärast</w>
+    <w>paneme</w>
+    <w>oma</w>
+    <w>koha</w>
+    <w>peale</w>
+    <w>võtme</w>
+    <w>tagasi</w>
+    <w>eksju</w>
+    <w>Artur</w>
+    <w>oma</w>
+    <w>kohale</w>
+    <w>paneme</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <w>eksju</w>
+    <w>siis</w>
+    <w>kui</w>
+    <w>ära</w>
+    <w>saad</w>
+    <w>mängitud</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u118">
+    <w>see</w>
+    <w>peab</w>
+    <w>lukku</w>
+    <w>panema</w>
+    <w>pane</w>
+    <w>pane</w>
+    <w>lukku</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI mässab kapiuste ja võtmetega , OBS aitab , kus vaja.</a>
+  </u>
+  <u who="OBS" uID="u119">
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u120">
+    <w>oi</w>
+    <w>mis</w>
+    <w>sa</w>
+    <w>siia</w>
+    <w>oled</w>
+    <w>kriimud</w>
+    <w>teind<replacement><w>teinud</w></replacement></w>
+    <w>lausa</w>
+    <w>oota-oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u121">
+    <w>nojah</w>
+    <w>ää<replacement><w>ära</w></replacement></w>
+    <w>seal</w>
+    <w>tee</w>
+    <w>rohk</w>
+    <w>Artur</w>
+    <w>seal</w>
+    <w>on</w>
+    <w>auk</w>
+    <w>see</w>
+    <w>on</w>
+    <w>auk</w>
+    <w>tee</w>
+    <w>siin</w>
+    <w>augus</w>
+    <w>näe</w>
+    <w>siia</w>
+    <w>auku</w>
+    <w>või</w>
+    <w>siia</w>
+    <w>ei</w>
+    <w>oldki<replacement><w>olnudki</w></replacement></w>
+    <w>lukus</w>
+    <w>näe</w>
+    <w>täitsa</w>
+    <w>lahtine</w>
+    <w>uks</w>
+    <w>pane</w>
+    <w>ilusti</w>
+    <w>lukku</w>
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u122">
+    <g><w>põle</w><ga type="explanation">pole</ga></g>
+    <w>auku</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u123">
+    <w>näed</w>
+    <w>siia</w>
+    <w>saad</w>
+    <w>nüüd</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>auku</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u124">
+    <w>mis</w>
+    <w>siis</w>
+    <w>on</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u125">
+    <w>veel</w>
+    <w>mõni</w>
+    <w>uks</w>
+    <w>kuskil</w>
+    <w>on</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u126">
+    <w>onnä</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u127">
+    <w>no</w>
+    <w>pole</w>
+    <w>rohkem</w>
+    <w>ilus</w>
+    <w>onjä<replacement><w>on</w><w>ju</w></replacement></w>
+    <w>on</w>
+    <w>jah</w>
+    <w>ilus</w>
+    <w>oota</w>
+    <w>oota</w>
+    <w>oota-oota</w>
+    <w>ot</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u128">
+    <w>kinni</w>
+    <w>jäi</w>
+    <w>tõmba</w>
+    <w>keera</w>
+    <w>välja</w>
+    <w>voh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u129">
+    <w>vaata</w>
+    <w>kas</w>
+    <w>veel</w>
+    <w>kuskil</w>
+    <w>uks</w>
+    <w>on</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u130">
+    <w>ei</w>
+    <w>tohi</w>
+    <w>ei</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>saab</w>
+    <w>siis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u131">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u132">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u133">
+    <w>vaata</w>
+    <w>Artur</w>
+    <w>ilus</w>
+    <w>laul</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u134">
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>laul</w>
+    <w>on</w>
+    <w>no</w>
+    <w>Artur</w>
+    <w>kuule</w>
+    <w>kuule</w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>laul</w>
+    <w>on</w>
+    <g><w>musa</w><ga type="explanation">muusika</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u135">
+    <w>aah</w>
+    <w>kus</w>
+    <w>panid</w>
+    <w>vaata</w>
+    <w>sa</w>
+    <w>saad</w>
+    <w>siia</w>
+    <w>ka</w>
+    <w>panna</w>
+    <w>selle</w>
+    <w>Artur</w>
+    <w>tule</w>
+    <w>ma</w>
+    <w>näitan</w>
+    <w>sulle</w>
+    <w>kuidas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u136">
+    <w>panen</w>
+    <w>su</w>
+    <w>kinni</w>
+    <w>siia</w>
+    <w>panen</w>
+    <w>su</w>
+    <w>nööriga</w>
+    <w>kinni</w>
+    <w>siia</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u137">
+    <w>pane</w>
+    <w>näitan</w>
+    <w>sulle</w>
+    <w>anna</w>
+    <w>ma</w>
+    <w>proovin</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS teeb lapsele kaelapaelast võtmepaela.</a>
+  </u>
+  <u who="OBS" uID="u138">
+    <w>mhmh</w>
+    <w>paneme</w>
+    <w>nööri</w>
+    <w>siit</w>
+    <w>läbi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u139">
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>on</w>
+    <w>Artur</w>
+    <w>Ar</w>
+    <w>Artur</w>
+    <w>katki</w>
+    <w>läheb</w>
+    <w>sahtel</w>
+    <w>lase</w>
+    <w>lahti</w>
+    <w>lase</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u140">
+    <w>mhmh</w>
+    <w>paneme</w>
+    <w>selle</w>
+    <w>emmel</w>
+    <w>peitu</w>
+    <w>peidus</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI avastas köögisahtlist piimavurri ja tahab sellega mängida.</a>
+  </u>
+  <u who="OBS" uID="u141">
+    <w>unustasin</w>
+    <w>et</w>
+    <w>tehnika</w>
+    <w>meile</w>
+    <w>meeldib</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u142">
+    <w>meil</w>
+    <w>on</w>
+    <w>ju</w>
+    <w>kõik</w>
+    <w>uksed</w>
+    <w>nüüd</w>
+    <w>lukus</w>
+    <w>Artur</w>
+    <w>peab</w>
+    <w>sinna</w>
+    <w>kinni</w>
+    <w>panema</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>kinni</w>
+    <w>nööri</w>
+    <w>külge</w>
+    <w>pane</w>
+    <w>pane</w>
+    <w>auk</w>
+    <w>siia</w>
+    <w>peale</w>
+    <w>ei</w>
+    <w>auk</w>
+    <w>see</w>
+    <w>rõngas</w>
+    <w>näe</w>
+    <w>see</w>
+    <w>see</w>
+    <w>Artur</w>
+    <w>Artur</w>
+    <w>näe</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>rõngas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u143">
+    <w>koks</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI on ema süles ja vehib seal ning lööb pea vastu riiulit ära.</a>
+  </u>
+  <u who="OBS" uID="u144">
+    <w>see</w>
+    <w>koht</w>
+    <w>Artur</w>
+    <w>anna</w>
+    <w>emme</w>
+    <w>korraks</w>
+    <w>näit</w>
+    <w>emme</w>
+    <w>annab</w>
+    <w>tagasi</w>
+    <w>sulle</w>
+    <w>korraks</w>
+    <w>korraks</w>
+    <w>ma</w>
+    <w>annan</w>
+    <w>tagasi</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS tahab näidata , kuidas võti konksu otsa käib , aga CHI ei taha käest anda.</a>
+  </u>
+  <u who="OBS" uID="u145">
+    <w>issand</w>
+    <w>jumal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u146">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u147">
+    <w>kinni</w>
+    <w>saad</w>
+    <w>kinni</w>
+    <w>panna</w>
+    <w>panna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u148">
+    <w>panna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u149">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u150">
+    <w>nüüd</w>
+    <w>on</w>
+    <w>kinni</w>
+    <w>ai</w>
+    <w>ei</w>
+    <w>oldki<replacement><w>olnudki</w></replacement></w>
+    <w>nüüd</w>
+    <w>on</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u151">
+    <w>kinni</w>
+    <w>on</w>
+    <w>vaata</w>
+    <w>sahtlid</w>
+    <w>on</w>
+    <w>kõik</w>
+    <w>kinni</w>
+    <w>Artur</w>
+    <w>vaata</w>
+    <w>sahtlid</w>
+    <w>on</w>
+    <w>kinni</w>
+    <w>sa</w>
+    <w>keerasid</w>
+    <w>lukku</w>
+    <w>tõmba</w>
+    <w>sahtlit</w>
+    <w>korra</w>
+    <w>tõmba</w>
+    <w>proovi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u152">
+    <w>lukus</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u153">
+    <w>alla</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u154">
+    <w>kinni</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u155">
+    <w>alla</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u156">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u157">
+    <w>ups</w>
+    <w>nüüd</w>
+    <w>enam</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u158">
+    <w>nüüd</w>
+    <w>keerasid</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u159">
+    <w>pane</w>
+    <w>see</w>
+    <w>kapp</w>
+    <w>kinni</w>
+    <w>las</w>
+    <w>ta</w>
+    <w>olla</w>
+    <w>näpud</w>
+    <w>näpud</w>
+    <w>aa</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>näpud</w>
+    <w>Artur</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>on</w>
+    <w>niimodi</w>
+    <w>ära</w>
+    <w>sinna</w>
+    <w>pane</w>
+    <w>seal</w>
+    <w>on</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>pane</w>
+    <w>kapiuks</w>
+    <w>kinni</w>
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u160">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u161">
+    <w>ta</w>
+    <w>pole</w>
+    <w>mitte</w>
+    <w>tilkagi</w>
+    <w>joond<replacement><w>joonud</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u162">
+    <w>no</w>
+    <w>nüüd</w>
+    <w>tahad</w>
+    <w>juua</w>
+    <w>emme</w>
+    <w>teeb</w>
+    <w>sulle</w>
+    <w>uue</w>
+    <w>joogi</w>
+    <w>Artur</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>j</w>
+    <w>viska</w>
+    <w>see</w>
+    <w>prügikasti</w>
+    <w>tule</w>
+    <w>viska</w>
+    <w>prügikasti</w>
+    <w>tule</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI leidis köögikapi alt mingi sodi.</a>
+  </u>
+  <u who="OBS" uID="u163">
+    <w>näed</w>
+    <w>kinni</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u164">
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u165">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u166">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u167">
+    <w>ainni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u168">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u169">
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u170">
+    <w>oota</w>
+    <w>korraks</w>
+    <w>oota</w>
+    <w>oota</w>
+    <w>noh</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS võtab lapse sülle ja joodab teda , laps hakkab silma sügama.</a>
+  </u>
+  <u who="OBS" uID="u171">
+    <w>mis</w>
+    <w>sa</w>
+    <w>seal</w>
+    <w>otsid</w>
+    <w>mis</w>
+    <w>seal</w>
+    <w>on</w>
+    <w>uni</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>anna</w>
+    <w>mulle</w>
+    <w>uni</w>
+    <w>anna</w>
+    <w>mulle</w>
+    <w>paneme</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u172">
+    <w>anni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u173">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u174">
+    <w>kinni</w>
+    <w>on</w>
+    <w>täitsa</w>
+    <w>kinni</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u175">
+    <w>see</w>
+    <w>on</w>
+    <w>ka</w>
+    <w>kinni</w>
+    <w>vist</w>
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u176">
+    <w>kinni</w>
+    <w>on</w>
+    <w>sa</w>
+    <w>panid</w>
+    <w>lukku</w>
+    <w>tee</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u177">
+    <w>tee</w>
+    <w>lukuga</w>
+    <w>lahti</w>
+    <w>Robi</w>
+    <w>või</w>
+    <w>Artur</w>
+    <w>tee</w>
+    <w>siitpoolt</w>
+    <w>laht</w>
+    <w>ee</w>
+    <w>näe</w>
+    <w>vaatame</w>
+    <w>kas</w>
+    <w>nüüd</w>
+    <w>läks</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u178">
+    <w>vaata</w>
+    <w>kas</w>
+    <w>nüüd</w>
+    <w>on</w>
+    <w>sahtel</w>
+    <w>lahti</w>
+    <w>katsu</w>
+    <w>kas</w>
+    <w>sahtel</w>
+    <w>tuleb</w>
+    <w>lahti</w>
+    <w>kas</w>
+    <w>sahtel</w>
+    <w>tuleb</w>
+    <w>lahti</w>
+    <w>sahtel</w>
+    <w>nüüd</w>
+    <w>sa</w>
+    <w>keerad</w>
+    <w>lukku</w>
+    <w>jälle</w>
+    <w>katsu</w>
+    <w>kas</w>
+    <w>sahtel</w>
+    <w>tuleb</w>
+    <w>lahti</w>
+    <w>katsu</w>
+    <w>kas</w>
+    <w>sahtel</w>
+    <w>tuleb</w>
+    <w>lahti</w>
+    <w>tõmba</w>
+    <w>tõmba</w>
+    <w>tuligi</w>
+    <w>ohhoo</w>
+    <w>ohhohoo</w>
+    <w>pane</w>
+    <w>nüüd</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <w>sahtel</w>
+    <w>võti</w>
+    <w>on</w>
+    <w>vahel</w>
+    <w>võti</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <w>pane</w>
+    <w>nüüd</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u179">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u180">
+    <w>ei</w>
+    <w>võta</w>
+    <w>midagi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u181">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u182">
+    <w>paneme</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u183">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u184">
+    <w>pane</w>
+    <w>kinni</w>
+    <w>Artur</w>
+    <w>ei</w>
+    <w>ära</w>
+    <w>neid</w>
+    <w>võta</w>
+    <w>pane</w>
+    <w>sahtel</w>
+    <w>kinni</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u185">
+    <w>anni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u186">
+    <w>lük</w>
+    <w>lükka</w>
+    <w>kinni</w>
+    <w>näpud</w>
+    <w>jäävad</w>
+    <g><w>ai-ai</w><ga type="explanation">jäävad vahele</ga></g>
+    <w>niimodi</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <w>sahtel</w>
+    <w>lõug</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI oleks esmalt sõrmed , siis lõua sahtli vahele jätnud.</a>
+  </u>
+  <u who="OBS" uID="u187">
+    <w>oleme</w>
+    <w>tundide</w>
+    <w>viisi</w>
+    <w>istund</w>
+    <w>tundide</w>
+    <w>viisi</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS seletab , et võtmega kinni-lahti keeramine on lapse lemmiktegevus , mida ta võib teha tunde järjest.</a>
+  </u>
+  <u who="CHI" uID="u188">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u189">
+    <w>kinni</w>
+    <w>see</w>
+    <w>on</w>
+    <w>nüüd</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u190">
+    <w>kinni</w>
+    <w>üks</w>
+    <w>või</w>
+    <w>kaks</w>
+    <w>korda</w>
+    <w>on</w>
+    <w>öelnud</w>
+    <w>kinni</w>
+    <w>järgi</w>
+    <w>las</w>
+    <w>ta</w>
+    <w>olla</w>
+    <w>see</w>
+    <w>on</w>
+    <w>saht</w>
+    <w>see</w>
+    <w>on</w>
+    <w>pähh</w>
+    <w>paha</w>
+    <w>sahtel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u191">
+    <g><w>mämämmä</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u192">
+    <w>ei</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>aint<replacement><w>ainult</w></replacement></w>
+    <t type="p"></t>
+
+    <a type="comments">CHI leiab sahtlist midagi , millega ema lubaks mängida , kuid paneb selle siis tagasi sahtlisse.</a>
+  </u>
+  <u who="OBS" uID="u193">
+    <w>seda</w>
+    <w>võid</w>
+    <w>aitäh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u194">
+    <w>tagasi</w>
+    <w>a<replacement><w>aga</w></replacement></w>
+    <w>siis</w>
+    <w>paneme</w>
+    <w>sahtli</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u195">
+    <w>paneme</w>
+    <w>sahtli</w>
+    <w>kinni</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>nii</w>
+    <w>on</w>
+    <w>ästi<replacement><w>hästi</w></replacement></w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u196">
+    <w>las</w>
+    <w>ta</w>
+    <w>olla</w>
+    <w>kinni</w>
+    <w>vaata</w>
+    <w>kinni</w>
+    <w>on</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u197">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u198">
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u199">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u200">
+    <w>kinni</w>
+    <w>ta</w>
+    <w>nüüd</w>
+    <w>ei</w>
+    <w>tule</w>
+    <w>lahti</w>
+    <w>proovi</w>
+    <w>kas</w>
+    <w>tuleb</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u201">
+    <w>ällä</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u202">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u203">
+    <w>mis</w>
+    <w>võti</w>
+    <w>see</w>
+    <w>veel</w>
+    <w>on</w>
+    <w>vaata</w>
+    <w>mis</w>
+    <w>sellega</w>
+    <w>teha</w>
+    <w>saab</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u204">
+    <w>mis</w>
+    <w>see</w>
+    <w>on</w>
+    <w>väike</w>
+    <w>konksvõti</w>
+    <w>on</w>
+    <w>see</w>
+    <w>see</w>
+    <w>pole</w>
+    <w>mingi</w>
+    <w>võti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u205">
+    <w>kus</w>
+    <w>see</w>
+    <w>nüüd</w>
+    <w>lahti</w>
+    <w>tuli</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget saad</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u206">
+    <w>lämpaneme<replacement><w>lähme</w><w>paneme</w></replacement></w>
+    <w>võtmed</w>
+    <w>oma</w>
+    <w>koha</w>
+    <w>peale</w>
+    <w>tagasi</w>
+    <w>paneme</w>
+    <w>võtmed</w>
+    <w>oma</w>
+    <w>koha</w>
+    <w>peale</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <w>lähme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u207">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u208">
+    <w>ei</w>
+    <w>ei</w>
+    <w>ei</w>
+    <w>pane</w>
+    <w>veel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u209">
+    <w>natukene</w>
+    <w>on</w>
+    <w>veel</w>
+    <w>vaja</w>
+    <w>mängida</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u210">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u211">
+    <w>annje</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u212">
+    <w>tak</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u213">
+    <w>oi</w>
+    <w>oi</w>
+    <w>oi</w>
+    <w>oi</w>
+    <w>oi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u214">
+    <w>öhääh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u215">
+    <w>üöhöh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u216">
+    <w>oooh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u217">
+    <w>mis</w>
+    <w>juhtus</w>
+    <w>nii</w>
+    <w>lahti</w>
+    <w>läks</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u218">
+    <w>annjö</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u219">
+    <w>kinni</w>
+    <w>Artur</w>
+    <w>kinni</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u220">
+    <w>annjö</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u221">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u222">
+    <w>see</w>
+    <w>on</w>
+    <w>see</w>
+    <w>on</w>
+    <w>Artur</w>
+    <w>see</w>
+    <w>on</w>
+    <w>kibe</w>
+    <w>see</w>
+    <w>on</w>
+    <w>kibe</w>
+    <w>ma</w>
+    <w>annan</w>
+    <w>sulle</w>
+    <w>maitsta</w>
+    <w>see</w>
+    <w>on</w>
+    <w>kibe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u223">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u224">
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>mäm-mämm</w><ga type="explanation">toit</ga></g>
+    <w>see</w>
+    <w>on</w>
+    <w>emme</w>
+    <w>oma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u225">
+    <w>uff</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u226">
+    <w>väkk</w>
+    <w>no</w>
+    <w>jah</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI leidis kapist mõrušokolaadi ja tahtis proovida , OBS andis. CHI tehi algul haput nägu , aga siis tahtis veel.</a>
+  </u>
+  <u who="OBS" uID="u227">
+    <g><w>mkm</w><ga type="explanation">ei</ga></g>
+    <g><w>mkm</w><ga type="explanation">ei</ga></g>
+    <w>ei</w>
+    <w>Artur</w>
+    <w>emme</w>
+    <w>suus</w>
+    <w>on</w>
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u228">
+    <w>ei</w>
+    <w>ole</w>
+    <w>enam</w>
+    <w>seal</w>
+    <w>ka</w>
+    <w>pole</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u229">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u230">
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u231">
+    <w>emme</w>
+    <w>on</w>
+    <w>järjekindel</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u232">
+    <g><w>ämm-ämmä</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u233">
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u234">
+    <g><w>ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u235">
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u236">
+    <w>ah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u237">
+    <w>ei</w>
+    <w>taha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u238">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u239">
+    <w>seal</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>Artur</w>
+    <w>midagi</w>
+    <w>seal</w>
+    <w>on</w>
+    <w>ainult</w>
+    <w>kooki</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI lepib sellega , et enam šokolaadi ei anta , ja läheb taas ukse kallale.</a>
+  </u>
+  <u who="OBS" uID="u240">
+    <w>no</w>
+    <w>ta</w>
+    <w>on</w>
+    <w>kinni</w>
+    <w>ei</w>
+    <w>oldki<replacement><w>olnudki</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u241">
+    <w>Artur</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u242">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u243">
+    <w>ära</w>
+    <w>võta</w>
+    <w>neid</w>
+    <w>ära</w>
+    <w>võta</w>
+    <w>neid</w>
+    <w>välja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u244">
+    <w>tahad</w>
+    <w>selle</w>
+    <w>ära</w>
+    <w>visata</w>
+    <w>viska</w>
+    <w>prügikasti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u245">
+    <w>selle</w>
+    <w>võib</w>
+    <w>ära</w>
+    <w>visata</w>
+    <w>küll</w>
+    <w>viska</w>
+    <w>prügikasti</w>
+    <w>pane</w>
+    <w>sahtel</w>
+    <w>kinni</w>
+    <w>pane</w>
+    <w>sahtel</w>
+    <w>kinni</w>
+    <w>näpud</w>
+    <w>näpud</w>
+    <w>pane</w>
+    <w>sahtel</w>
+    <w>kinni</w>
+    <w>sa</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>kapiust</w>
+    <w>lahti</w>
+    <w>muidu</w>
+    <w>tubli</w>
+    <w>nüüd</w>
+    <w>saad</w>
+    <w>ära</w>
+    <w>visata</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u246">
+    <w>et</w>
+    <w>sand<replacement><w>sa</w><w>nüüd</w></replacement></w>
+    <w>õige</w>
+    <w>asja</w>
+    <w>ära</w>
+    <w>viskad</w>
+    <w>võtmed</w>
+    <w>pihku</w>
+    <w>jäävad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u247">
+    <w>tubli</w>
+    <w>nii</w>
+    <w>tubli</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u248">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u249">
+    <w>ärrohkem<replacement><w>ära</w><w>rohkem</w></replacement></w>
+    <w>välja</w>
+    <w>võta</w>
+    <w>midagi</w>
+    <w>sealt</w>
+    <w>aih</w>
+    <w>prügi</w>
+    <w>see</w>
+    <w>on</w>
+    <g><w>päh-päh</w><ga type="explanation">must</ga></g>
+    <w>ära</w>
+    <w>rohkem</w>
+    <w>võta</w>
+    <g><w>päh-päh</w><ga type="explanation">must</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u250">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u251">
+    <g><w>mkm</w><ga type="explanation">ei</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u252">
+    <w>panem<replacement><w>paneme</w></replacement></w>
+    <w>nüüd</w>
+    <w>kapiukse</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>Artur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u253">
+    <w>pane</w>
+    <w>kapiuks</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>Artur</w>
+    <w>kuku</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u254">
+    <w>jah</w>
+    <w>jah</w>
+    <w>pane</w>
+    <w>kapiuks</w>
+    <w>kinni</w>
+    <w>vaata</w>
+    <w>kapiuks</w>
+    <w>on</w>
+    <w>lahti</w>
+    <w>sealt</w>
+    <w>tuleb</w>
+    <w>prügi</w>
+    <w>välja</w>
+    <w>muidu</w>
+    <w>kapiuks</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u255">
+    <w>kõvasti</w>
+    <w>kinni</w>
+    <w>ilusti</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u256">
+    <w>kapiuks</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u257">
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u258">
+    <w>lükka</w>
+    <w>pots</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u259">
+    <w>lükka</w>
+    <w>ooga<replacement><w>hooga</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u260">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u261">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u262">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u263">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u264">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u265">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u266">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u267">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u268">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u269">
+    <w>no</w>
+    <w>ma</w>
+    <w>ju</w>
+    <w>ütlesin</w>
+    <w>kinni</w>
+    <w>ei</w>
+    <w>seda</w>
+    <w>lah</w>
+    <w>ei</w>
+    <w>tee</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>on</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>on</w>
+    <w>see</w>
+    <w>seda</w>
+    <w>ei</w>
+    <w>tee</w>
+    <w>lahti</w>
+    <w>Artur</w>
+    <w>see</w>
+    <w>on</w>
+    <w>emme</w>
+    <w>sahtel</w>
+    <w>sa</w>
+    <w>võid</w>
+    <w>seda</w>
+    <w>teha</w>
+    <w>laht</w>
+    <w>seda</w>
+    <w>võid</w>
+    <w>teha</w>
+    <w>seda</w>
+    <w>võid</w>
+    <w>ka</w>
+    <w>teha</w>
+    <w>tee</w>
+    <w>see</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u270">
+    <g><w>uoaaa</w><ga type="explanation">vurr</ga></g>
+    <t type="p"></t>
+
+    <a type="comments">CHI avastas jälle piimavurri.</a>
+  </u>
+  <u who="OBS" uID="u271">
+    <w>oi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u272">
+    <w>pane</w>
+    <w>kinni</w>
+    <w>vaata</w>
+    <w>mis</w>
+    <w>järgmises</w>
+    <w>sahtlis</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u273">
+    <w>lükka</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>lükka</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u274">
+    <w>lükka</w>
+    <w>kinni</w>
+    <w>koll</w>
+    <w>silmas</w>
+    <w>lükka</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u275">
+    <w>alla</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u276">
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u277">
+    <w>si</w>
+    <w>ei</w>
+    <w>toeta</w>
+    <w>siia</w>
+    <w>peale</w>
+    <w>läheb</w>
+    <w>katki</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u278">
+    <w>Artur</w>
+    <w>paneme</w>
+    <w>sahtli</w>
+    <w>kinni</w>
+    <w>vaatame</w>
+    <w>mis</w>
+    <w>teises</w>
+    <w>sahtlis</w>
+    <w>on</w>
+    <w>kuku</w>
+    <w>oota</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u279">
+    <w>vaata</w>
+    <w>mis</w>
+    <w>järg</w>
+    <w>vaata</w>
+    <w>mis</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>järgmises</w>
+    <w>mis</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>vaata</w>
+    <w>vaata</w>
+    <w>mis</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>all</w>
+    <w>vaata</w>
+    <w>siia</w>
+    <w>see</w>
+    <w>on</w>
+    <w>lukus</w>
+    <w>seda</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>vaadata</w>
+    <w>ju</w>
+    <w>õige</w>
+    <w>otsi</w>
+    <w>õige</w>
+    <w>võti</w>
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u280">
+    <w>jah</w>
+    <w>seda</w>
+    <w>kappi</w>
+    <w>ei</w>
+    <w>tee</w>
+    <w>lahti</w>
+    <w>ma</w>
+    <w>ei</w>
+    <w>taha</w>
+    <w>et</w>
+    <w>sa</w>
+    <w>kolistad</w>
+    <w>neid</w>
+    <w>sest</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>potid</w>
+    <w>las</w>
+    <w>olla</w>
+    <w>tee</w>
+    <w>sahtel</w>
+    <w>lahti</w>
+    <w>alumist</w>
+    <w>seda</w>
+    <w>võib</w>
+    <w>Artur</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>emme</w>
+    <w>istub</w>
+    <w>siin</w>
+    <w>emme</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>eest</w>
+    <w>ära</w>
+    <w>minna</w>
+    <w>seda</w>
+    <w>võib</w>
+    <w>teha</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u281">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u282">
+    <w>jaa</w>
+    <w>see</w>
+    <w>on</w>
+    <w>prügi</w>
+    <w>ka</w>
+    <w>ei</w>
+    <w>neid</w>
+    <w>ei</w>
+    <w>viska</w>
+    <w>ära</w>
+    <w>ei</w>
+    <w>tohi</w>
+    <w>Artur</w>
+    <w>ei</w>
+    <w>tohi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u283">
+    <w>ei</w>
+    <w>tohi</w>
+    <w>muidu</w>
+    <w>me</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>mis</w>
+    <w>sul</w>
+    <w>silma</w>
+    <w>peal</w>
+    <w>on</w>
+    <w>koll</w>
+    <w>on</w>
+    <w>täpselt</w>
+    <w>silma</w>
+    <w>sel</w>
+    <w>musta</w>
+    <w>peal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u284">
+    <w>ei</w>
+    <w>tohi</w>
+    <w>Artur</w>
+    <w>siis</w>
+    <w>meil</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>enam</w>
+    <w>võtmeid</w>
+    <w>siis</w>
+    <w>on</w>
+    <w>nad</w>
+    <g><w>päh-pähis</w><ga type="explanation">prügikastis</ga></g>
+    <w>ja</w>
+    <w>me</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>neid</w>
+    <w>kätte</w>
+    <w>enam</w>
+    <w>ära</w>
+    <w>viska</w>
+    <w>ära</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <w>tagasi</w>
+    <w>lähme</w>
+    <w>näita</w>
+    <w>mulle</w>
+    <w>kus</w>
+    <w>ko</w>
+    <w>paneme</w>
+    <w>ikka</w>
+    <w>lähme</w>
+    <w>ikka</w>
+    <w>lähme</w>
+    <w>ikka</w>
+    <w>näita</w>
+    <w>kus</w>
+    <w>see</w>
+    <w>konks</w>
+    <w>on</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI viipab esiku suunas.</a>
+  </u>
+  <u who="OBS" uID="u285">
+    <w>aga</w>
+    <w>näita</w>
+    <w>mulle</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u286">
+    <w>sinna</w>
+    <w>ei</w>
+    <w>tohi</w>
+    <w>visata</w>
+    <w>seal</w>
+    <w>käib</w>
+    <w>prügi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u287">
+    <w>pane</w>
+    <w>kapiuks</w>
+    <w>kinni</w>
+    <w>ka</w>
+    <w>kapiuks</w>
+    <w>kapiuks</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u288">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u289">
+    <w>pane</w>
+    <w>kapiuks</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u290">
+    <w>kuule</w>
+    <w>kapiuks</w>
+    <w>on</w>
+    <w>lahti</w>
+    <w>ju</w>
+    <w>Artur</w>
+    <w>aga</w>
+    <w>prügi</w>
+    <w>tuleb</w>
+    <w>välja</w>
+    <w>Artur</w>
+    <w>pane</w>
+    <w>kap</w>
+    <w>Artur</w>
+    <w>Artur</w>
+    <w>Artur</w>
+    <w>tule</w>
+    <w>pane</w>
+    <w>kapiuks</w>
+    <w>kinni</w>
+    <w>ilusti</w>
+    <w>kõvasti-kõvasti</w>
+    <w>kinni</w>
+    <w>ma</w>
+    <w>mõtsin<replacement><w>mõtlesin</w></replacement></w>
+    <w>lükka</w>
+    <w>lükka</w>
+    <w>kinni</w>
+    <w>näpud</w>
+    <w>näpud</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u291">
+    <w>nüüd</w>
+    <w>võime</w>
+    <w>minna</w>
+    <w>nad</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <w>panna</w>
+    <w>sel</w>
+    <w>lähme</w>
+    <w>vaatame</w>
+    <w>kus</w>
+    <w>konks</w>
+    <w>on</w>
+    <w>tul</w>
+    <w>näita</w>
+    <w>emmele</w>
+    <w>kus</w>
+    <w>konks</w>
+    <w>ei</w>
+    <w>selle</w>
+    <w>võtme</w>
+    <w>konks</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI näitas võtit , mille kohta OBS enne ütles , et see on konksuga võti.</a>
+  </u>
+  <u who="OBS" uID="u292">
+    <w>kukkus</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u293">
+    <w>aua</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u294">
+    <w>kukkus</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u295">
+    <w>see</w>
+    <w>on</w>
+    <w>prügi</w>
+    <w>pane</w>
+    <w>prügikasti</w>
+    <w>kui</w>
+    <w>sa</w>
+    <w>leidsid</w>
+    <w>midagi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u296">
+    <w>veel</w>
+    <w>ah</w>
+    <w>seda</w>
+    <w>on</w>
+    <w>nii</w>
+    <w>palju</w>
+    <w>seda</w>
+    <w>ei</w>
+    <w>viitsi</w>
+    <w>onjä<replacement><w>on</w><w>ju</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u297">
+    <w>seda</w>
+    <w>ma</w>
+    <w>küll</w>
+    <w>ei</w>
+    <w>viitsi</w>
+    <w>prügikasti</w>
+    <w>panna</w>
+    <w>näe</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>veel</w>
+    <w>juustu</w>
+    <w>ja</w>
+    <w>saia</w>
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u298">
+    <w>pean</w>
+    <w>vist</w>
+    <w>istuma</w>
+    <w>maha</w>
+    <w>tagasi</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>konksu</w>
+    <w>juurde</w>
+    <w>veel</w>
+    <w>minna</w>
+    <w>või</w>
+    <w>viime</w>
+    <w>konksu</w>
+    <w>juurde</w>
+    <w>ära</w>
+    <w>Artur</w>
+    <w>viime</w>
+    <w>võtme</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u299">
+    <w>ämä</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u300">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u301">
+    <w>lähme</w>
+    <w>vaatame</w>
+    <w>meil</w>
+    <w>on</w>
+    <w>püksid</w>
+    <w>kinni</w>
+    <w>kleepunud</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u302">
+    <w>nää<replacement><w>näe</w></replacement></w>
+    <w>Artur</w>
+    <w>sa</w>
+    <w>võid</w>
+    <w>selle</w>
+    <w>ka</w>
+    <w>prügikasti</w>
+    <w>visata</w>
+    <w>Artur</w>
+    <w>vaata</w>
+    <w>emme</w>
+    <w>leidis</w>
+    <w>prügi</w>
+    <w>niukst<replacement><w>niisugust</w></replacement></w>
+    <w>iad<replacement><w>head</w></replacement></w>
+    <w>prügi</w>
+    <w>kas</w>
+    <w>viskad</w>
+    <w>prügikasti</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u303">
+    <w>võta</w>
+    <w>teine</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u304">
+    <w>ära</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>on</w>
+    <w>see</w>
+    <w>see</w>
+    <w>teeb</w>
+    <w>õäh</w>
+    <w>õääääära</w>
+    <w>pane</w>
+    <w>aamba<replacement><w>hamba</w></replacement></w>
+    <w>vastu</w>
+    <w>seda</w>
+    <g><w>äka</w><ga type="explanation">must</ga></g>
+    <w>see</w>
+    <w>krigiseb</w>
+    <w>ju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u305">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u306">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u307">
+    <g><w>äm-äm-äm-äm-äm-äm-äm-äm-äm-äm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u308">
+    <w>no</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>teine</w>
+    <w>juust</w>
+    <w>võta</w>
+    <w>uus</w>
+    <w>juust</w>
+    <w>jumal</w>
+    <w>oidku<replacement><w>hoidku</w></replacement></w>
+    <w>ära</w>
+    <w>seda</w>
+    <w>nüüd</w>
+    <w>sealt</w>
+    <w>otsi</w>
+    <w>siis</w>
+    <w>näe</w>
+    <w>ei</w>
+    <w>võta</w>
+    <w>kätte</w>
+    <w>lähme</w>
+    <w>korjame</w>
+    <w>koridor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u309">
+    <w>aga</w>
+    <w>koridor</w>
+    <w>koridoris</w>
+    <w>on</w>
+    <w>kaks</w>
+    <w>juustutükki</w>
+    <w>maas</w>
+    <w>lähme</w>
+    <w>võtame</w>
+    <w>need</w>
+    <w>üles</w>
+    <w>lähme</w>
+    <w>vaatame</w>
+    <w>sa</w>
+    <w>viskasid</w>
+    <w>sinna</w>
+    <w>ennem<replacement><w>enne</w></replacement></w>
+    <w>maha</w>
+    <w>koridoris</w>
+    <w>koridoris</w>
+    <w>koridoris</w>
+    <w>seal</w>
+    <w>kus</w>
+    <w>saapad</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u310">
+    <w>seal</w>
+    <w>on</w>
+    <w>kaks</w>
+    <w>juustutükki</w>
+    <w>saad</w>
+    <w>kohe</w>
+    <w>prügikasti</w>
+    <w>visata</w>
+    <w>ooga<replacement><w>hooga</w></replacement></w>
+    <w>tule</w>
+    <w>lähme</w>
+    <w>vaata</w>
+    <w>mis</w>
+    <w>siin</w>
+    <w>on</w>
+    <w>keegi</w>
+    <w>on</w>
+    <w>siia</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u311">
+    <w>võta</w>
+    <w>sina</w>
+    <w>need</w>
+    <w>ära</w>
+    <w>kaks</w>
+    <w>juustutükki</w>
+    <w>äi<replacement><w>ei</w></replacement></w>
+    <w>pane</w>
+    <w>suhu</w>
+    <w>seda</w>
+    <g><w>ai-ai</w><ga type="explanation">must</ga></g>
+    <w>see</w>
+    <w>teine</w>
+    <w>võta</w>
+    <w>ka</w>
+    <w>ma</w>
+    <w>panen</w>
+    <w>sulle</w>
+    <w>pihku</w>
+    <w>siis</w>
+    <w>saame</w>
+    <w>ühe</w>
+    <w>korraga</w>
+    <w>ära</w>
+    <w>viia</w>
+    <w>mine</w>
+    <w>viska</w>
+    <w>prügikasti</w>
+    <w>oia<replacement><w>hoia</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u312">
+    <w>nagu</w>
+    <w>lehmakene</w>
+    <w>kellad</w>
+    <w>kaelas</w>
+    <w>prügikast</w>
+    <w>viska</w>
+    <w>ära</w>
+    <w>see</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS hakkab CHI-l käsi pesema ja vesi tuleb liiga suure survega , laps ehmatab.</a>
+  </u>
+  <u who="OBS" uID="u313">
+    <w>oi-oi</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>ullu<replacement><w>hullu</w></replacement></w>
+    <w>ikka</w>
+    <w>juhtub</w>
+    <w>tubli</w>
+    <w>oled</w>
+    <w>üks</w>
+    <w>on</w>
+    <w>veel</w>
+    <w>oi</w>
+    <w>ol</w>
+    <w>tuli</w>
+    <w>meelde</w>
+    <w>võta</w>
+    <w>see</w>
+    <w>ka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u314">
+    <w>nüüd</w>
+    <w>on</w>
+    <w>korras</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u315">
+    <w>ähäh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u316">
+    <w>ma</w>
+    <w>räägin</w>
+    <w>et</w>
+    <w>seda</w>
+    <w>on</w>
+    <w>nii</w>
+    <w>palju</w>
+    <w>siin</w>
+    <w>maas</w>
+    <w>seda</w>
+    <w>ei</w>
+    <w>jaksa</w>
+    <w>korjatagi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u317">
+    <g><w>ämm-ämm</w><ga type="explanation">süüa</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u318">
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>said</w>
+    <g><w>äm-ämm</w><ga type="explanation">süüa</ga></g>
+    <w>kas</w>
+    <w>sa</w>
+    <w>juua</w>
+    <w>tahad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u319">
+    <g><w>ämmä</w><ga type="explanation">süüa</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u320">
+    <w>juua</w>
+    <w>nüüd</w>
+    <w>võiks</w>
+    <w>nagu</w>
+    <w>onjo<replacement><w>on</w><w>ju</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u321">
+    <w>tahad</w>
+    <w>juua</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u322">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u323">
+    <w>tahad</w>
+    <w>ikka</w>
+    <w>palun</w>
+    <w>võta</w>
+    <w>ise</w>
+    <w>oma</w>
+    <w>käega</w>
+    <w>ei</w>
+    <w>käega</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u324">
+    <w>anna</w>
+    <w>emme</w>
+    <w>oiab<replacement><w>hoiab</w></replacement></w>
+    <w>võtit</w>
+    <w>siis</w>
+    <w>sa</w>
+    <w>saad</w>
+    <w>käega</w>
+    <w>oida<replacement><w>hoida</w></replacement></w>
+    <w>anna</w>
+    <w>aitäh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u325">
+    <w>teeme</w>
+    <w>vahetust</w>
+    <w>emme</w>
+    <w>teeb</w>
+    <w>sulle</w>
+    <w>uue</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u326">
+    <w>no</w>
+    <w>minu</w>
+    <w>näpp</w>
+    <w>on</w>
+    <w>ka</w>
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u327">
+    <w>Artur</w>
+    <w>Artur</w>
+    <w>Artur</w>
+    <w>Artur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u328">
+    <w>ei</w>
+    <w>tohi</w>
+    <w>siia</w>
+    <w>ei</w>
+    <w>roni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u329">
+    <w>ei</w>
+    <w>roni</w>
+    <w>teleka</w>
+    <w>juurde</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI tuleb teleka juurest ära , kukub klotside otsa ja saab võtmetega haiget.</a>
+  </u>
+  <u who="OBS" uID="u330">
+    <w>kopsti</w>
+    <w>elab</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>kus</w>
+    <w>läksid</w>
+    <w>kus</w>
+    <w>sa</w>
+    <w>läksid</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u331">
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>oli</w>
+    <w>seal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u332">
+    <w>huaa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u333">
+    <w>ahhaa</w>
+    <w>oota</w>
+    <w>Artur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u334">
+    <w>mis</w>
+    <w>sa</w>
+    <w>ronid</w>
+    <w>sinna</w>
+    <w>siis</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>said</w>
+    <t type="p"></t>
+
+    <a type="comments">ei saa aru , mida OBS ütleb.</a>
+  </u>
+  <u who="OBS" uID="u335">
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>said</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u336">
+    <w>ma</w>
+    <w>panen</w>
+    <w>sulle</w>
+    <w>kohe</w>
+    <w>emme</w>
+    <w>paneb</w>
+    <w>oota</w>
+    <w>emme</w>
+    <w>paneb</w>
+    <w>näita</w>
+    <w>no</w>
+    <w>siin</w>
+    <w>pole</w>
+    <w>midagi</w>
+    <w>näha</w>
+    <w>ju</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>said</w>
+    <w>kui</w>
+    <w>sa</w>
+    <w>kuskilt</w>
+    <w>ronid</w>
+    <w>siis</w>
+    <w>saabki</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u337">
+    <w>vesi</w>
+    <w>läks</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u338">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u339">
+    <w>ma</w>
+    <w>ma</w>
+    <w>teen</w>
+    <w>sulle</w>
+    <w>kohe</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u340">
+    <w>ei</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <g><w>ai-ai</w><ga type="explanation">valus</ga></g>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u341">
+    <w>Artur</w>
+    <w>nüüd</w>
+    <w>me</w>
+    <w>panime</w>
+    <w>uksed</w>
+    <w>lukku</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>võtmed</w>
+    <w>tagasi</w>
+    <w>muidu</w>
+    <w>saad</w>
+    <g><w>ai-ai</w><ga type="explanation">haiget</ga></g>
+    <w>jälle</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>tagasi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u342">
+    <w>kohe</w>
+    <w>aitan</w>
+    <w>paneme</w>
+    <w>konksu</w>
+    <w>otsa</w>
+    <w>tänaseks</w>
+    <w>on</w>
+    <w>nüüd</w>
+    <w>kõvasti</w>
+    <w>mängit</w>
+    <w>anna</w>
+    <w>emme</w>
+    <w>emme</w>
+    <w>paneb</w>
+    <w>ma</w>
+    <w>näitan</w>
+    <w>sulle</w>
+    <w>kuhu</w>
+    <w>aitab</w>
+    <w>küll</w>
+    <w>nüüd</w>
+    <w>nendega</w>
+    <w>mängimisest</w>
+    <w>eks</w>
+    <w>aitab</w>
+    <w>nüüd</w>
+    <w>aitab</w>
+    <w>aitab</w>
+    <w>aitab</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u343">
+    <w>vaata</w>
+    <w>kes</w>
+    <w>sind</w>
+    <w>vaatab</w>
+    <w>siin</w>
+    <w>kesse<replacement><w>kes</w><w>see</w></replacement></w>
+    <w>vaatab</w>
+    <w>sind</w>
+    <w>seal</w>
+    <w>vaata</w>
+    <w>mitu</w>
+    <w>silma</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI hakkas jonnima ja OBS leidis talle mängimiseks plastiliinipulgad , millel on plastikust silmad küljes.</a>
+  </u>
+  <u who="OBS" uID="u344">
+    <w>oba<replacement><w>hopa</w></replacement></w>
+    <w>oi</w>
+    <w>kui</w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>laul</w>
+    <w>ei</w>
+    <w>see</w>
+    <w>käib</w>
+    <w>see</w>
+    <w>ei</w>
+    <w>käi</w>
+    <w>see</w>
+    <w>käib</w>
+    <w>see</w>
+    <w>käib</w>
+    <w>näe</w>
+    <w>siin</w>
+    <w>augus</w>
+    <w>oota</w>
+    <w>Artur</w>
+    <w>näe</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <w>no</w>
+    <w>nüüd</w>
+    <w>pane</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u345">
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u346">
+    <w>aa</w>
+    <w>onn</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u347">
+    <w>oo</w>
+    <w>mis</w>
+    <w>sa</w>
+    <w>räägid</w>
+    <w>kinni</w>
+    <w>on</w>
+    <w>tõmba</w>
+    <w>ops<replacement><w>hops</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u348">
+    <w>vaatame</w>
+    <w>kas</w>
+    <w>silmad</w>
+    <w>välja</w>
+    <w>ka</w>
+    <w>tulevad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u349">
+    <w>täitsa</w>
+    <w>kinni</w>
+    <w>on</w>
+    <w>need</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u350">
+    <w>ei</w>
+    <w>see</w>
+    <w>on</w>
+    <w>lahti</w>
+    <w>käind<replacement><w>käinud</w></replacement></w>
+    <w>juba</w>
+    <w>see</w>
+    <w>on</w>
+    <w>lahti</w>
+    <w>mis</w>
+    <w>need</w>
+    <w>on</w>
+    <w>siin</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u351">
+    <w>anna</w>
+    <w>mulle</w>
+    <w>pane</w>
+    <w>emme</w>
+    <w>käe</w>
+    <w>peale</w>
+    <w>näe</w>
+    <w>siin</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u352">
+    <w>sa</w>
+    <w>võtad</w>
+    <w>siin</w>
+    <w>ühe</w>
+    <w>toru</w>
+    <w>välja</w>
+    <w>oanna</w>
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u353">
+    <w>oota</w>
+    <w>võtame</w>
+    <w>rohelise</w>
+    <w>oot</w>
+    <w>emme</w>
+    <w>annab</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u354">
+    <w>näe</w>
+    <w>oia<replacement><w>hoia</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u355">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u356">
+    <w>noh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u357">
+    <w>anna</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS mudib plastiliini.</a>
+  </u>
+  <u who="OBS" uID="u358">
+    <w>pigista</w>
+    <w>siit</w>
+    <t type="p"></t>
+
+    <a type="comments">lapsele oli plastiliin liiga jäik ja OBS mudib seda pehmemaks.</a>
+  </u>
+  <u who="OBS" uID="u359">
+    <w>no</w>
+    <w>pigista</w>
+    <w>nüüd</w>
+    <w>nüüd</w>
+    <w>saab</w>
+    <w>seda</w>
+    <w>pigistada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u360">
+    <g><w>mkm</w><ga type="explanation">ei</ga></g>
+    <w>vaata</w>
+    <w>võtame</w>
+    <w>silma</w>
+    <w>oopis<replacement><w>hoopis</w></replacement></w>
+    <w>maha</w>
+    <w>siit</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u361">
+    <w>mõm-mõm-mõm</w>
+    <w>ei</w>
+    <w>pane</w>
+    <w>seda</w>
+    <w>ka</w>
+    <w>ei</w>
+    <w>pane</w>
+    <w>paneme</w>
+    <w>teeme</w>
+    <w>sellest</w>
+    <w>palli</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u362">
+    <w>need</w>
+    <w>olid</w>
+    <w>plastiliinid</w>
+    <w>olid</w>
+    <w>meil</w>
+    <w>aiglas<replacement><w>haiglas</w></replacement></w>
+    <w>kaasas</w>
+    <w>ästi<replacement><w>hästi</w></replacement></w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>oli</w>
+    <w>tükk</w>
+    <w>aega</w>
+    <w>tegeles</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u363">
+    <w>nii</w>
+    <w>võta</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u364">
+    <w>emme</w>
+    <w>peab</w>
+    <w>paneme</w>
+    <w>silma</w>
+    <w>ka</w>
+    <w>tagasi</w>
+    <w>paneme</w>
+    <w>kaks</w>
+    <w>silma</w>
+    <w>talle</w>
+    <w>konna</w>
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u365">
+    <w>oota</w>
+    <w>oota</w>
+    <w>Artur</w>
+    <w>oota</w>
+    <w>Artur</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u366">
+    <w>vaata</w>
+    <w>kes</w>
+    <w>see</w>
+    <w>on</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u367">
+    <w>paneme</w>
+    <w>siia</w>
+    <w>tahapoole</w>
+    <w>ka</w>
+    <w>siis</w>
+    <w>kaks</w>
+    <w>silma</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>peale</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u368">
+    <w>üks</w>
+    <w>näe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u369">
+    <w>kus</w>
+    <w>me</w>
+    <w>selle</w>
+    <w>teise</w>
+    <w>silma</w>
+    <w>paneme</w>
+    <w>näe</w>
+    <w>siia</w>
+    <w>kus</w>
+    <w>siia</w>
+    <w>siia-siia-siia-</w>
+    <w>siia</w>
+    <w>siia</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>siia</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS-i jutu algus läheb kaotsi.</a>
+  </u>
+  <u who="OBS" uID="u370">
+    <w>ilus</w>
+    <w>vaata</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u371">
+    <w>ja</w>
+    <w>vaata</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u372">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u373">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u374">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u375">
+    <w>kus</w>
+    <w>tal</w>
+    <w>see</w>
+    <w>päris</w>
+    <w>nägu</w>
+    <w>on</w>
+    <w>siis</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u376">
+    <w>ei</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <g><w>ai-ai</w><ga type="explanation">vastik</ga></g>
+    <w>paha-paha-paha-paha</w>
+    <w>ära</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u377">
+    <g><w>ämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u378">
+    <w>ei</w>
+    <w>old<replacement><w>olnud</w></replacement></w>
+    <g><w>mämm-mämm</w><ga type="explanation">toit</ga></g>
+    <w>näita</w>
+    <w>kas</w>
+    <w>keele</w>
+    <w>peale</w>
+    <w>jäi</w>
+    <w>ka</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>ei</w>
+    <w>jäänd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u379">
+    <w>see</w>
+    <w>pold<replacement><w>ei</w><w>olnud</w></replacement></w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>vuhh<replacement><w>fuih</w></replacement></w>
+    <w>ups</w>
+    <w>ei</w>
+    <w>old<replacement><w>olnud</w></replacement></w>
+    <w>ullu<replacement><w>hullu</w></replacement></w>
+    <w>mh</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS sosistab midagi.</a>
+  </u>
+  <u who="OBS" uID="u380">
+    <w>paneme</w>
+    <w>silmad</w>
+    <w>torudele</w>
+    <w>tagasi</w>
+    <w>kuule</w>
+    <w>paneme</w>
+    <w>toru</w>
+    <w>otsa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u381">
+    <w>jah</w>
+    <w>näe</w>
+    <w>võta</w>
+    <w>silmad</w>
+    <w>sealt</w>
+    <w>ära</w>
+    <w>pane</w>
+    <w>nendele</w>
+    <w>tagasi</w>
+    <w>näe</w>
+    <w>siit</w>
+    <w>võta</w>
+    <w>silmad</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u382">
+    <w>kulmud</w>
+    <w>läksid</w>
+    <w>kortsu</w>
+    <w>sellel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u383">
+    <w>aitäh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u384">
+    <w>täääh<replacement><w>aitäh</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u385">
+    <w>paalun</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u386">
+    <w>näe</w>
+    <w>nii</w>
+    <w>aga</w>
+    <w>kes</w>
+    <w>teise</w>
+    <w>paneb</w>
+    <w>pane</w>
+    <w>ilusti</w>
+    <w>siia</w>
+    <w>toru</w>
+    <w>otsa</w>
+    <w>siia</w>
+    <w>näe</w>
+    <w>siia</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>ei</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>toru</w>
+    <w>otsa</w>
+    <w>ei</w>
+    <w>noh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u387">
+    <w>näe</w>
+    <w>vaata</w>
+    <w>paneme</w>
+    <w>siia</w>
+    <w>peale</w>
+    <w>ops<replacement><w>hops</w></replacement></w>
+    <w>võta</w>
+    <w>sealt</w>
+    <w>saab</w>
+    <w>veel</w>
+    <w>pane</w>
+    <w>see</w>
+    <w>sinna</w>
+    <w>see</w>
+    <w>silm</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>punase</w>
+    <w>peale</w>
+    <w>punase</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u388">
+    <w>ästi<replacement><w>hästi</w></replacement></w>
+    <w>tubli</w>
+    <w>oi</w>
+    <w>kui</w>
+    <w>tubli</w>
+    <w>näe</w>
+    <w>sealt</w>
+    <w>saab</w>
+    <w>veel</w>
+    <w>kaks</w>
+    <w>silma</w>
+    <w>a</w>
+    <w>ühe</w>
+    <w>silma</w>
+    <w>ei</w>
+    <w>paneme</w>
+    <w>selle</w>
+    <w>sinisele</w>
+    <w>ka</w>
+    <w>silma</w>
+    <w>tagasi</w>
+    <w>näe</w>
+    <w>vaata</w>
+    <w>sinisele</w>
+    <w>ka</w>
+    <w>siin</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>silma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u389">
+    <w>pane</w>
+    <w>siis</w>
+    <w>see</w>
+    <w>silm</w>
+    <w>siia</w>
+    <w>siia</w>
+    <w>suhui<replacement><w>suhu</w><w>ei</w></replacement></w>
+    <w>pane</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI surub jõuga silma plastiliinitoru sisse.</a>
+  </u>
+  <u who="OBS" uID="u390">
+    <w>kõvasti</w>
+    <w>onju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u391">
+    <w>ikka</w>
+    <w>said</w>
+    <w>minult</w>
+    <w>tüki</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u392">
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u393">
+    <w>äh</w>
+    <w>siin</w>
+    <w>ei</w>
+    <w>olegi</w>
+    <w>nüüd</w>
+    <w>silma</w>
+    <w>vaata</w>
+    <w>vaata</w>
+    <w>Artur</w>
+    <w>vaata</w>
+    <w>siin</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>silma</w>
+    <w>kust</w>
+    <w>saab</w>
+    <w>silma</w>
+    <w>ära</w>
+    <w>võta</w>
+    <w>veel</w>
+    <w>kust</w>
+    <w>siia</w>
+    <w>silma</w>
+    <w>saab</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="OBS" uID="u394">
+    <w>sealt</w>
+    <w>saab</w>
+    <w>silma</w>
+    <w>vaata</w>
+    <w>kolm</w>
+    <w>tükki</w>
+    <w>on</w>
+    <w>seal</w>
+    <w>võta</w>
+    <w>siit</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u395">
+    <w>oba<replacement><w>hopa</w></replacement></w>
+    <w>tõmba-tõmba</w>
+    <w>tõmba</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u396">
+    <w>ei</w>
+    <w>ei</w>
+    <w>ei</w>
+    <w>suhu</w>
+    <w>ei</w>
+    <w>tohi</w>
+    <w>panna</w>
+    <w>pane</w>
+    <w>sinna</w>
+    <w>palli</w>
+    <w>peale</w>
+    <w>konnale</w>
+    <w>konn</w>
+    <w>kümne</w>
+    <w>silmaga</w>
+    <w>uni</w>
+    <w>on</w>
+    <w>paneme</w>
+    <w>nüüd</w>
+    <w>silmad</w>
+    <w>laiali</w>
+    <w>nääd<replacement><w>näed</w></replacement></w>
+    <w>siia-siia-siia-siia</w>
+    <w>pane</w>
+    <w>see</w>
+    <w>siia</w>
+    <w>tagasi</w>
+    <w>korralikult</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u397">
+    <w>krooks</w>
+    <w>seal</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>silma</w>
+    <w>krooks</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI tahab jälle silma suhu pista.</a>
+  </u>
+  <u who="OBS" uID="u398">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u399">
+    <w>ei</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <g><w>pähh</w><ga type="explanation">must</ga></g>
+    <w>on</w>
+    <w>see</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u400">
+    <w>pane</w>
+    <w>siia</w>
+    <w>peale</w>
+    <w>kullakene</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>ei</w>
+    <w>see</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>pah</w>
+    <w>see</w>
+    <w>on</w>
+    <w>paha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u401">
+    <w>näe</w>
+    <w>pane</w>
+    <w>see</w>
+    <w>siia</w>
+    <w>konna</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u402">
+    <w>siia</w>
+    <w>ja</w>
+    <w>punase</w>
+    <w>pleki</w>
+    <w>peale</w>
+    <w>pane</w>
+    <w>nii</w>
+    <w>mõnus</w>
+    <w>oli</w>
+    <w>kui</w>
+    <w>maha</w>
+    <w>kukkus</w>
+    <w>näe</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u403">
+    <w>anna</w>
+    <w>emmele</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u404">
+    <w>näe</w>
+    <w>kinni</w>
+    <w>oota</w>
+    <w>sul</w>
+    <w>on</w>
+    <w>käed</w>
+    <w>nii</w>
+    <w>tatised</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u405">
+    <w>seal</w>
+    <w>pole</w>
+    <w>rohkem</w>
+    <w>silmi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u406">
+    <w>kõvasti-kõvasti</w>
+    <w>pigista</w>
+    <w>noh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u407">
+    <w>vaata</w>
+    <w>et</w>
+    <w>sa</w>
+    <w>ei</w>
+    <w>kaka</w>
+    <w>nüüd</w>
+    <w>nii</w>
+    <w>kõvasti</w>
+    <w>ei</w>
+    <w>ära</w>
+    <w>punni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u408">
+    <w>ei</w>
+    <w>a<replacement><w>aga</w></replacement></w>
+    <w>selle</w>
+    <w>kindaga</w>
+    <w>ma</w>
+    <w>ästi<replacement><w>hästi</w></replacement></w>
+    <w>ei</w>
+    <w>taha</w>
+    <w>et</w>
+    <w>sa</w>
+    <w>teed</w>
+    <w>aa</w>
+    <w>okei</w>
+    <w>teine</w>
+    <w>on</w>
+    <w>meil</w>
+    <w>tindivärviga</w>
+    <w>koos</w>
+    <w>vaata</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>saad</w>
+    <w>mõne</w>
+    <w>silma</w>
+    <w>veel</w>
+    <w>panna</w>
+    <w>vaata</w>
+    <w>kas</w>
+    <w>leiad</w>
+    <w>mõne</w>
+    <w>silma</w>
+    <w>veel</w>
+    <w>ei</w>
+    <w>sealt</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>siit</w>
+    <w>leiad</w>
+    <w>mõne</w>
+    <w>silma</w>
+    <w>tead</w>
+    <w>mis</w>
+    <w>emme</w>
+    <w>teeb</w>
+    <w>oota</w>
+    <w>anna</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI põletas paar nädalat varem käe kuuma veega ära ja kannab nüüd toetavat kinnast , ema võtab kinda ära.</a>
+  </u>
+  <u who="OBS" uID="u409">
+    <w>ma</w>
+    <w>ou</w>
+    <w>annan</w>
+    <w>kohe</w>
+    <w>näe</w>
+    <w>siit</w>
+    <w>saab</w>
+    <w>silma</w>
+    <w>võta</w>
+    <w>silm</w>
+    <w>võta</w>
+    <w>oma</w>
+    <w>kätte</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u410">
+    <w>ei</w>
+    <w>ei</w>
+    <w>anna</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI toppis endale kõik silmad suhu.</a>
+  </u>
+  <u who="OBS" uID="u411">
+    <w>nüüd</w>
+    <w>ütle</w>
+    <w>kõvasti</w>
+    <w>veel</w>
+    <w>oi</w>
+    <w>kui</w>
+    <w>tore</w>
+    <w>põrandale</w>
+    <w>kõik</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u412">
+    <w>üks</w>
+    <w>kaks</w>
+    <w>kolm</w>
+    <w>neli</w>
+    <w>viis</w>
+    <w>üks</w>
+    <w>veel</w>
+    <w>paneme</w>
+    <w>selle</w>
+    <w>pulgaks</w>
+    <w>tagasi</w>
+    <w>korvi</w>
+    <w>paneme</w>
+    <w>keegi</w>
+    <w>veel</w>
+    <w>vist</w>
+    <w>kõbiseb</w>
+    <w>siin</w>
+    <w>üks</w>
+    <w>kaks</w>
+    <w>kolm</w>
+    <w>neli</w>
+    <w>viis</w>
+    <w>kolm</w>
+    <w>kuus</w>
+    <w>vaata</w>
+    <w>teeme</w>
+    <w>selle</w>
+    <w>pulgaks</w>
+    <w>vaata</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u413">
+    <w>Artur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u414">
+    <w>sul</w>
+    <w>suus</w>
+    <w>midagi</w>
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u415">
+    <w>hahaa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u416">
+    <w>teed</w>
+    <w>tünni</w>
+    <g><w>mulle</w><ga type="explanation">petad mind</ga></g>
+    <w>kogu</w>
+    <w>aeg</w>
+    <w>või</w>
+    <w>ära</w>
+    <w>pane</w>
+    <w>suhu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u417">
+    <w>mingi</w>
+    <w>eriti</w>
+    <w>koleda</w>
+    <w>kujuga</w>
+    <w>on</w>
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u418">
+    <w>no</w>
+    <w>nüüd</w>
+    <w>saad</w>
+    <w>kõigile</w>
+    <w>silmad</w>
+    <w>peale</w>
+    <w>panna</w>
+    <w>siis</w>
+    <w>paneme</w>
+    <w>kaane</w>
+    <w>peale</w>
+    <w>sinna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u419">
+    <w>mä</w>
+    <g><w>mämm-ämm</w><ga type="explanation">toit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u420">
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>mämm-mämm</w><ga type="explanation">toit</ga></g>
+    <w>pane</w>
+    <w>see</w>
+    <w>ka</w>
+    <w>siia</w>
+    <w>paneme</w>
+    <w>si</w>
+    <w>vaata</w>
+    <w>kui</w>
+    <w>palju</w>
+    <w>silmi</w>
+    <w>on</w>
+    <w>täpselt</w>
+    <w>on</w>
+    <w>siis</w>
+    <w>aeg</w>
+    <w>täis</w>
+    <w>ka</w>
+    <w>siis</w>
+    <w>võib</w>
+    <w>kaane</w>
+    <w>peale</w>
+    <w>panna</w>
+    <w>vaata</w>
+    <w>Artur</w>
+    <w>pane</w>
+    <w>silmad</w>
+    <w>peale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u421">
+    <w>lähme</w>
+    <w>peseme</w>
+    <w>käed</w>
+    <w>ära</w>
+    <w>ei</w>
+    <w>pane</w>
+    <w>siia</w>
+    <w>peale</w>
+    <w>ära</w>
+    <w>pane</w>
+    <w>eaküll<replacement><w>hea</w><w>küll</w></replacement></w>
+    <w>no</w>
+    <w>kui</w>
+    <w>on</w>
+    <w>nii</w>
+    <w>vaja</w>
+    <w>siis</w>
+    <w>läheb</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u422">
+    <w>see</w>
+    <w>auku</w>
+    <w>siis</w>
+    <w>pane</w>
+    <w>kõik</w>
+    <w>kokku</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u423">
+    <w>amma</w>
+    <w>emmele</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <w>see</w>
+    <w>tükk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u424">
+    <w>ei</w>
+    <w>paned</w>
+    <w>need</w>
+    <w>kaks</w>
+    <w>tükki</w>
+    <w>noh</w>
+    <w>kus</w>
+    <w>see</w>
+    <w>ka</w>
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u425">
+    <w>ma</w>
+    <w>mõtsin<replacement><w>mõtlesin</w></replacement></w>
+    <w>paneb</w>
+    <w>suhu</w>
+    <w>selle</w>
+    <w>ruttu</w>
+    <w>viimase</w>
+    <w>peitu</w>
+    <w>kus</w>
+    <w>on</w>
+    <w>sang</w>
+    <w>ka</w>
+    <w>kus</w>
+    <w>sang</w>
+    <w>on</w>
+    <w>näe</w>
+    <w>saad</w>
+    <w>sanga</w>
+    <w>ka</w>
+    <w>peale</w>
+    <w>panna</w>
+    <w>näpud</w>
+    <w>oota</w>
+    <w>vajuta</w>
+    <w>nüüd</w>
+    <w>vajuta</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u426">
+    <w>ops<replacement><w>hops</w></replacement></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u427">
+    <w>nüüd</w>
+    <w>selle</w>
+    <w>saad</w>
+    <w>sina</w>
+    <w>panna</w>
+    <w>pane</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u428">
+    <w>siis</w>
+    <w>lähme</w>
+    <w>käsi</w>
+    <w>pesema</w>
+    <w>eks</w>
+    <w>emme</w>
+    <w>paneb</w>
+    <w>selle</w>
+    <w>siia</w>
+    <w>auku</w>
+    <w>lähme</w>
+    <w>peseme</w>
+    <w>käed</w>
+    <w>seebiga</w>
+    <w>ära</w>
+    <w>lähme</w>
+    <w>vannituppa</w>
+    <w>peseme</w>
+    <w>käed</w>
+    <w>ära</w>
+    <w>Artur</w>
+    <w>lähmpeseme<replacement><w>lähme</w><w>peseme</w></replacement></w>
+    <w>käed</w>
+    <w>ära</w>
+    <w>lähme</w>
+    <w>peseme</w>
+    <w>käed</w>
+    <w>ära</w>
+    <w>lähme</w>
+    <w>pesema</w>
+    <w>pesema</w>
+    <w>pesema</w>
+    <w>pesema</w>
+    <w>nüüd</w>
+    <w>nüüd</w>
+    <w>saab</w>
+    <w>vannis</w>
+    <w>on</w>
+    <w>solistada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u429">
+    <w>no</w>
+    <w>lähme</w>
+    <w>põleb-põleb</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI kontrollib , kas vannitoas ikka tuli põleb.</a>
+  </u>
+  <u who="OBS" uID="u430">
+    <w>no</w>
+    <w>tule</w>
+    <w>siia</w>
+    <w>tule</w>
+    <w>peseme</w>
+    <w>käed</w>
+    <w>ära</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u431">
+    <w>ah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u432">
+    <w>ah</w>
+    <w>no</w>
+    <w>seda</w>
+    <w>on</w>
+    <w>natuke</w>
+    <w>palju</w>
+    <w>pese-pese</w>
+    <w>kranikausis</w>
+    <w>oia<replacement><w>hoia</w></replacement></w>
+    <w>pane</w>
+    <w>käsi</w>
+    <w>kraanikaussi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u433">
+    <w>anna</w>
+    <w>emmele</w>
+    <w>korraks</w>
+    <w>anna</w>
+    <w>korraks</w>
+    <w>emmele</w>
+    <w>ma</w>
+    <w>annan</w>
+    <w>sulle</w>
+    <w>kohe</w>
+    <w>tag</w>
+    <w>mh</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <w>korraks</w>
+    <w>emmel</w>
+    <w>ka</w>
+    <w>käed</w>
+    <w>mustad</w>
+    <w>vaata</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <w>korraks</w>
+    <w>ma</w>
+    <w>annan</w>
+    <w>sulle</w>
+    <w>tagasi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u434">
+    <w>ann</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u435">
+    <w>no</w>
+    <w>ma</w>
+    <w>annan</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u436">
+    <w>anna</w>
+    <w>oma</w>
+    <w>käed</w>
+    <w>ka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u437">
+    <w>teeme</w>
+    <w>seebiseks</w>
+    <w>sind</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u438">
+    <w>näe</w>
+    <w>pall</w>
+    <w>seal</w>
+    <w>on</w>
+    <w>näe</w>
+    <w>seal</w>
+    <w>tegelane</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>kätte</w>
+    <w>enam</w>
+    <w>onju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u439">
+    <w>pall</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u440">
+    <w>kraanikausis</w>
+    <w>ainult</w>
+    <w>kraanikausis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u441">
+    <w>ei</w>
+    <w>lähe</w>
+    <w>sellega</w>
+    <w>kuskile</w>
+    <w>kraanikausis</w>
+    <w>saab</w>
+    <w>pesta</w>
+    <w>oih</w>
+    <w>vabandust</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u442">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u443">
+    <w>soe</w>
+    <w>on</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u444">
+    <w>kinni</w>
+    <w>aga</w>
+    <w>siis</w>
+    <w>ei</w>
+    <w>saa</w>
+    <w>pesta</w>
+    <w>ju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u445">
+    <w>tee</w>
+    <w>emme</w>
+    <w>teeb</w>
+    <w>lahti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u446">
+    <w>teeme</w>
+    <w>korraks</w>
+    <w>lahti</w>
+    <w>loputame</w>
+    <w>käed</w>
+    <w>ära</w>
+    <w>korraks</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u447">
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u448">
+    <w>üks</w>
+    <w>hetk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u449">
+    <w>paneme</w>
+    <w>käed</w>
+    <w>pessu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u450">
+    <w>Artur</w>
+    <w>oota</w>
+    <w>peame</w>
+    <w>selle</w>
+    <w>käele</w>
+    <w>nagunii</w>
+    <w>panema</w>
+    <w>uue</w>
+    <w>kinda</w>
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u451">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u452">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u453">
+    <w>teine</w>
+    <w>kah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u454">
+    <w>Artur</w>
+    <w>oota</w>
+    <w>oota</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u455">
+    <w>anna</w>
+    <w>emmele</w>
+    <g><w>kätu</w><ga type="explanation">käsi</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u456">
+    <w>ei</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <w>enne</w>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u457">
+    <w>nii</w>
+    <w>õnnetu</w>
+    <w>kõik</w>
+    <w>kõik</w>
+    <w>kõik</w>
+    <w>pane</w>
+    <w>nüüd</w>
+    <w>kinni</w>
+    <w>pane</w>
+    <w>kinni</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS kuivatab lapse käsi aga laps tahaks veel käsi seebitada.</a>
+  </u>
+  <u who="OBS" uID="u458">
+    <w>Artur</w>
+    <w>me</w>
+    <w>ei</w>
+    <w>mängi</w>
+    <w>seebiga</w>
+    <w>nii</w>
+    <w>ei</w>
+    <w>mängi</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS lööb pea vastu uksepiita ära , CHI ehmatab ja jääb tasa.</a>
+  </u>
+  <u who="OBS" uID="u459">
+    <w>koksti</w>
+    <w>tegi</w>
+    <w>emme</w>
+    <w>vä<replacement><w>või</w></replacement></w>
+    <w>koksu</w>
+    <w>see</w>
+    <w>ei</w>
+    <w>ole</w>
+    <w>lõuatõstmiskang</w>
+    <w>anna</w>
+    <w>anna</w>
+    <w>emmele</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u460">
+    <w>Artur</w>
+    <w>kus</w>
+    <w>su</w>
+    <w>kinnas</w>
+    <w>on</w>
+    <w>vaata</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>leiad</w>
+    <w>puhta</w>
+    <w>kinda</w>
+    <w>ka</w>
+    <w>üles</w>
+    <w>otsi</w>
+    <w>kus</w>
+    <w>on</w>
+    <w>teine</w>
+    <w>kinnas</w>
+    <w>sealt</w>
+    <w>too</w>
+    <w>kinnas</w>
+    <w>meile</w>
+    <w>kinnas</w>
+    <w>kinnas-kinnas-kinnas-kinnas</w>
+    <w>võta</w>
+    <w>kinnas</w>
+    <w>üldiselt</w>
+    <w>see</w>
+    <w>on</w>
+    <w>ka</w>
+    <w>puhas</w>
+    <w>näe</w>
+    <w>siin</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u461">
+    <w>lähme</w>
+    <w>lähme</w>
+    <w>teeme</w>
+    <w>piima</w>
+    <w>ka</w>
+    <w>valmis</w>
+    <w>lähme</w>
+    <w>teeme</w>
+    <w>vaatame</w>
+    <w>kas</w>
+    <w>piima</w>
+    <w>saab</w>
+    <w>valmis</w>
+    <w>teha</w>
+    <w>tuttu</w>
+    <w>varsti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u462">
+    <w>vaata</w>
+    <w>mis</w>
+    <w>emme</w>
+    <w>teeb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u463">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u464">
+    <w>see</w>
+    <w>on</w>
+    <w>pähh</w>
+    <w>emme</w>
+    <w>teeb</w>
+    <w>piima</w>
+    <w>sulle</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u465">
+    <w>äh-äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u466">
+    <w>äh-äh-äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u467">
+    <w>ämm-ämmää</w>
+    <w>ämm-ämmää</w>
+    <g><w>ämm-ämmää</w><ga type="explanation">süüa</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u468">
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u469">
+    <w>mis</w>
+    <w>sa</w>
+    <w>tahad</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>tahad</w>
+    <w>kooki</w>
+    <w>tükki</w>
+    <w>kas</w>
+    <w>sa</w>
+    <w>tahad</w>
+    <w>seda</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u470">
+    <w>anna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u471">
+    <w>maitse</w>
+    <w>oih</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u472">
+    <w>oih</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u473">
+    <w>oih</w>
+    <w>Sting</w>
+    <w>nää<replacement><w>näe</w></replacement></w>
+    <w>vaata</w>
+    <w>kes</w>
+    <w>laulab</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u474">
+    <g><w>ämm-ämmä</w><ga type="explanation">süüa</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u475">
+    <w>oota</w>
+    <w>ei</w>
+    <w>see</w>
+    <w>polnd<replacement><w>ei</w><w>olnud</w></replacement></w>
+    <w>ea<replacement><w>hea</w></replacement></w>
+    <w>ühe</w>
+    <w>tüki</w>
+    <w>said</w>
+    <w>jaa</w>
+    <w>kuiv</w>
+    <w>on</w>
+    <w>suus</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u476">
+    <w>ämmää</w>
+    <g><w>ämm-ämmää</w><ga type="explanation">süüa</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u477">
+    <w>näe</w>
+    <w>su</w>
+    <w>kohupiim</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u478">
+    <w>oota</w>
+    <w>emme</w>
+    <w>paneb</w>
+    <w>piima</w>
+    <w>valmis</w>
+    <w>vahepeal</w>
+    <w>midagigi</w>
+    <w>annab</w>
+    <w>üks</w>
+    <w>tükk</w>
+    <w>talle</w>
+    <t type="p"></t>
+
+    <a type="comments">OBS annab CHI-le tüki kooki.</a>
+  </u>
+  <u who="CHI" uID="u479">
+    <g><w>ämm-ämm</w><ga type="explanation">süüa</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u480">
+    <g><w>mämm-mämm</w><ga type="explanation">süüa</ga></g>
+    <w>jah</w>
+    <w>kohe</w>
+    <w>neli</w>
+    <w>ja</w>
+    <w>viis</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u481">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>issand</w>
+    <w>millised</w>
+    <w>mu</w>
+    <w>küüned</w>
+    <w>on</w>
+    <t type="p"></t>
+
+    <a type="comments">ei saa aru , mida OBS ütleb , aga ilmselt käib see käte kohta , mida ta plastiliinist päris puhtaks ei saanud.</a>
+  </u>
+  <u who="OBS" uID="u482">
+    <w>näita</w>
+    <w>kas</w>
+    <w>sinul</w>
+    <w>on</w>
+    <w>samasugused</w>
+    <w>näita</w>
+    <w>sul</w>
+    <w>läksid</w>
+    <w>puhtaks</w>
+    <w>ju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u483">
+    <g><w>ämm-ämmä</w><ga type="explanation">süüa</ga></g>
+    <w>äh</w>
+    <w>äh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="OBS" uID="u484">
+    <w>me</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>kätele</w>
+    <w>kreemi</w>
+    <w>jah</w>
+    <w>lähme</w>
+    <w>paneme</w>
+    <w>kreemi</w>
+    <w>ja</w>
+    <w>siis</w>
+    <w>on</w>
+    <w>kõik</w>
+    <w>siis</w>
+    <w>on</w>
+    <w>pidu</w>
+    <w>läbi</w>
+    <w>on</w>
+    <w>ju</w>
+    <w>ah</w>
+    <w>selge</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

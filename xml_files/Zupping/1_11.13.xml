@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      PID="11312/c-00039058-1"
+      Version="2.0.4"
+      Lang="est"
+      Corpus="Zupping"
+      Id="1_11.13"
+      Date="2012-04-19">
+  <Participants>
+    <participant
+      id="MOT"
+      role="Mother"
+      language="est"
+      age="P31Y"
+
+      sex="female"
+
+    />
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="est"
+      age="P1Y11M13D"
+
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">19-APR-2012</comment>
+  <comment type="Situation">CHI ja MOT on kodus.</comment>
+  <u who="MOT" uID="u0">
+    <w>mis</w>
+    <w>sa</w>
+    <w>Linda</w>
+    <w>teed</w>
+    <w>seal</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI vaatab multifilmi Lottest.</a>
+  </u>
+  <u who="MOT" uID="u1">
+    <w>kuku</w>
+    <w>Linda</w>
+    <w>mis</w>
+    <w>sa</w>
+    <w>teed</w>
+    <w>seal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u2">
+    <w>sügeleb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u3">
+    <w>sügeleb</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>tule</w>
+    <w>siia</w>
+    <w>ma</w>
+    <w>aitan</w>
+    <w>sügeleda</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u4">
+    <w>sügeleda</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>ma</w>
+    <w>aitan</w>
+    <w>sügada</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>tule-tule</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u5">
+    <w>no</w>
+    <w>tule-tule</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u6">
+    <w>no</w>
+    <w>tere</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u7">
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u8">
+    <w>mis</w>
+    <w>päev</w>
+    <w>täna</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u9">
+    <w>ää</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u10">
+    <w>tead</w>
+    <w>et</w>
+    <w>täna</w>
+    <w>on</w>
+    <w>argipäev</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u11">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u12">
+    <w>täna</w>
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>algipäev</w><ga type="explanation">argipäev</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u13">
+    <w>kas</w>
+    <w>täna</w>
+    <w>on</w>
+    <w>puhkepäev</w>
+    <w>sellepärast</w>
+    <w>et</w>
+    <w>sa</w>
+    <w>oled</w>
+    <w>kodus</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u14">
+    <w>ei</w>
+    <w>täna</w>
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>aagipäev</w><ga type="explanation">argipäev</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u15">
+    <w>kas</w>
+    <w>täna</w>
+    <w>on</w>
+    <w>puhkepäev</w>
+    <w>sellepärast</w>
+    <w>et</w>
+    <w>sa</w>
+    <w>oled</w>
+    <w>kodus</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u16">
+    <w>ei</w>
+    <w>täna</w>
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>aagipäev</w><ga type="explanation">argipäev</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u17">
+    <w>oot</w>
+    <w>mis</w>
+    <w>päev</w>
+    <w>siis</w>
+    <w>täna</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u18">
+    <w>ei</w>
+    <w>täna</w>
+    <w>ei</w>
+    <w>ole</w>
+    <g><w>aagipäev</w><ga type="explanation">argipäev</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u19">
+    <w>aga</w>
+    <w>mis</w>
+    <w>päev</w>
+    <w>täna</w>
+    <w>siis</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u20">
+    <w>puhkepäev</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u21">
+    <g><w>ähme</w><ga type="explanation">lähme</ga></g>
+    <w>täna</w>
+    <w>paadiga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u22">
+    <w>tahad</w>
+    <w>paadiga</w>
+    <w>täna</w>
+    <w>sõitma</w>
+    <w>minna</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u23">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u24">
+    <w>siis</w>
+    <w>kui</w>
+    <w>venna</w>
+    <w>koju</w>
+    <w>tuleb</w>
+    <w>siis</w>
+    <w>venna</w>
+    <w>oskab</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u25">
+    <w>aga</w>
+    <w>me</w>
+    <w>võime</w>
+    <w>minna</w>
+    <w>järve</w>
+    <w>äärde</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u26">
+    <w>tahad</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u27">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u28">
+    <w>lähme</w>
+    <w>käime</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u29">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u30">
+    <w>Eddy</w>
+    <w>on</w>
+    <g><w>ääde</w><ga type="explanation">ääres</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u31">
+    <w>mh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u32">
+    <w>kes</w>
+    <g><w>jälve</w><ga type="explanation">järve</ga></g>
+    <g><w>äädes</w><ga type="explanation">ääres</ga></g>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u33">
+    <w>seal</w>
+    <w>on</w>
+    <w>nii</w>
+    <g><w>pallu</w><ga type="explanation">palju</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u34">
+    <g><w>peeatit</w><ga type="explanation">pliaatseid</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u35">
+    <w>pliiatsit</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u36">
+    <w>ja</w>
+    <w>jaa</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u37">
+    <g><w>taan</w><ga type="explanation">tahan</ga></g>
+    <w>emme</w>
+    <w>oma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u38">
+    <w>tahad</w>
+    <w>emme</w>
+    <w>pliiatsit</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u39">
+    <w>kas</w>
+    <w>sul</w>
+    <w>paberit</w>
+    <w>ka</w>
+    <w>on</w>
+    <w>tarvis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u40">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u41">
+    <w>mis</w>
+    <w>sa</w>
+    <w>siis</w>
+    <w>joonistad</w>
+    <w>mulle</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u42">
+    <w>kohe</w>
+    <g><w>oonistan</w><ga type="explanation">joonistan</ga></g>
+    <w>ühe</w>
+    <g><w>killa</w><ga type="explanation">kirja</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u43">
+    <w>kirja</w>
+    <w>teed</w>
+    <w>mulle</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u44">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u45">
+    <w>see</w>
+    <w>on</w>
+    <w>küll</w>
+    <w>vahva</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u46">
+    <w>kus</w>
+    <w>su</w>
+    <w>jalg</w>
+    <w>nüüd</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u47">
+    <g><w>taan</w><ga type="explanation">tahan</ga></g>
+    <g><w>pabelit</w><ga type="explanation">paberit</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u48">
+    <w>no</w>
+    <w>kohe</w>
+    <w>annan</w>
+    <w>sulle</w>
+    <w>paberi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u49">
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u50">
+    <w>vaata</w>
+    <w>ma</w>
+    <w>annan</w>
+    <w>sulle</w>
+    <w>väikseid</w>
+    <w>kollaseid</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u51">
+    <w>tahad</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u52">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u53">
+    <w>annan</w>
+    <w>sulle</w>
+    <w>mõned</w>
+    <w>väiksed</w>
+    <w>kollased</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u54">
+    <w>vaata</w>
+    <w>kui</w>
+    <w>hea</w>
+    <w>on</w>
+    <w>nende</w>
+    <w>peale</w>
+    <w>joonistada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u55">
+    <w>nii</w>
+    <w>vaata</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u56">
+    <w>teed</w>
+    <w>siia</w>
+    <w>väikse</w>
+    <g><w>suker-puker</w><ga type="explanation">sukerdise</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u57">
+    <w>tee</w>
+    <w>teistpidi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u58">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u59">
+    <w>nii</w>
+    <w>mis</w>
+    <w>sa</w>
+    <w>nüüd</w>
+    <w>sinna</w>
+    <w>kirjutad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u60">
+    <w>emme</w>
+    <g><w>tele</w><ga type="explanation">tere</ga></g>
+    <g><w>tele</w><ga type="explanation">tere</ga></g>
+    <g><w>tele</w><ga type="explanation">tere</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u61">
+    <w>kas</w>
+    <w>a-tähte</w>
+    <w>oskad</w>
+    <w>teha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u62">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u63">
+    <w>a</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>o</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>e</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u64">
+    <w>a</w>
+    <w>käib</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u65">
+    <w>ei</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u66">
+    <w>ah</w>
+    <w>ise</w>
+    <w>tahad</w>
+    <w>kirjutada</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>kirjuta</w>
+    <w>ise</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u67">
+    <w>a</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>o</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>e</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u68">
+    <w>o</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>o</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u69">
+    <w>u</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u70">
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u71">
+    <w>kas</w>
+    <w>mina</w>
+    <w>pean</w>
+    <w>ära</w>
+    <w>võtma</w>
+    <w>käe</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u72">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u73">
+    <w>ahah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u74">
+    <w>o</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u75">
+    <w>tahad</w>
+    <w>järgmise</w>
+    <w>lehe</w>
+    <w>peale</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>oota</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u76">
+    <w>keerame</w>
+    <w>lehte</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u77">
+    <w>mina</w>
+    <w>u</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>o</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u78">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u79">
+    <w>mis</w>
+    <w>sa</w>
+    <w>mulle</w>
+    <w>siis</w>
+    <w>kirjutad</w>
+    <w>ainult</w>
+    <w>o</w>
+    <w>ja</w>
+    <w>a</w>
+    <w>või</w>
+    <w>kirjutad</w>
+    <w>mingi</w>
+    <w>sisu</w>
+    <w>ka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u80">
+    <w>juhe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u81">
+    <w>juhe</w>
+    <w>kirjutad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u82">
+    <w>juhe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u83">
+    <w>ja</w>
+    <w>emme</w>
+    <w>ja</w>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u84">
+    <w>aa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u85">
+    <w>issi</w>
+    <w>ja</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u86">
+    <w>mis</w>
+    <w>on</w>
+    <w>sinu</w>
+    <w>issi</w>
+    <w>nimi</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI ütleb perekonnanime.</a>
+  </u>
+  <u who="CHI" uID="u87">
+    <w>uping</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u88">
+    <w>ahah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u89">
+    <w>Hardi</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u90">
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u91">
+    <w>emme</w>
+    <w>on</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u92">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u93">
+    <w>mis</w>
+    <w>venna</w>
+    <w>nimi</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u94">
+    <w>Paul</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u95">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u96">
+    <w>ja</w>
+    <w>mis</w>
+    <w>sinu</w>
+    <w>nimi</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u97">
+    <g><w>Enda</w><ga type="explanation">Linda</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u98">
+    <w>ja</w>
+    <w>mis</w>
+    <w>sinu</w>
+    <w>kutsude</w>
+    <w>nimed</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u99">
+    <w>üks</w>
+    <w>on</w>
+    <g><w>Essi</w><ga type="explanation">Eddy</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u100">
+    <w>üks</w>
+    <w>on</w>
+    <w>Eddy</w>
+    <w>ja</w>
+    <w>teine</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u101">
+    <w>kes</w>
+    <w>teine</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u102">
+    <w>ää</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u103">
+    <w>üks</w>
+    <w>on</w>
+    <w>Eddy</w>
+    <w>ja</w>
+    <w>teine</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u104">
+    <w>Hibba</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u105">
+    <w>Hibba</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u106">
+    <w>tubli</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u107">
+    <g><w>Iks</w><ga type="explanation">Viks</ga></g>
+    <w>on</w>
+    <g><w>Iks</w><ga type="explanation">Viks</ga></g>
+    <w>on</w>
+    <g><w>Ibba</w><ga type="explanation">Hibba</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u108">
+    <w>Viks</w>
+    <w>on</w>
+    <w>Hibba</w>
+    <w>moodi</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u109">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u110">
+    <w>no</w>
+    <w>on</w>
+    <w>jah</w>
+    <w>Viks</w>
+    <w>natuke</w>
+    <w>Hibba</w>
+    <w>moodi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u111">
+    <w>on</w>
+    <w>küll</w>
+    <w>natukene</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u112">
+    <w>natuke</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u113">
+    <g><w>Iks</w><ga type="explanation">Viks</ga></g>
+    <g><w>Iks</w><ga type="explanation">Viks</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u114">
+    <w>Viks</w>
+    <w>jah</w>
+    <w>on</w>
+    <w>nii</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u115">
+    <w>meie</w>
+    <w>teeme</w>
+    <g><w>Iksile</w><ga type="explanation">Viksile</ga></g>
+    <w>pai</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u116">
+    <w>teeme</w>
+    <w>Viksile</w>
+    <w>pai</w>
+    <w>siis</w>
+    <w>Viks</w>
+    <w>on</w>
+    <w>hästi</w>
+    <w>hästi</w>
+    <w>rõõmus</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u117">
+    <w>onju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u118">
+    <w>muidu</w>
+    <g><w>Ik</w><ga type="explanation">Viks</ga></g>
+    <g><w>akkab</w><ga type="explanation">hakkab</ga></g>
+    <g><w>nutama</w><ga type="explanation">nutma</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u119">
+    <w>just</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u120">
+    <g><w>mudu</w><ga type="explanation">muidu</ga></g>
+    <g><w>tall</w><ga type="explanation">talle</ga></g>
+    <w>pai</w>
+    <w>teha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u121">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u122">
+    <w>pai</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u123">
+    <w>ta</w>
+    <w>tahab</w>
+    <w>ka</w>
+    <w>et</w>
+    <w>keegi</w>
+    <w>talle</w>
+    <w>teeks</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u124">
+    <w>pai-pai</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u125">
+    <w>onju</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u126">
+    <w>kuule</w>
+    <w>Linda</w>
+    <w>sul</w>
+    <w>tuleb</w>
+    <w>varsti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u127">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>on</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u128">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>on</w>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u129">
+    <w>kirjutad</w>
+    <w>nii</w>
+    <w>või</w>
+    <w>et</w>
+    <w>üks</w>
+    <w>kord</w>
+    <w>on</w>
+    <w>emme</w>
+    <w>ja</w>
+    <w>järgmine</w>
+    <w>kord</w>
+    <w>on</w>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u130">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>on</w>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u131">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u132">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>on</w>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u133">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u134">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u135">
+    <g><w>ee</w><ga type="explanation">see</ga></g>
+    <w>on</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u136">
+    <w>on</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI nimetab ia perekonnanime.</a>
+  </u>
+  <u who="CHI" uID="u137">
+    <w>issi</w>
+    <w>on</w>
+    <w>uping</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u138">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI kirjutab tähti ja häälib neid.</a>
+  </u>
+  <u who="CHI" uID="u139">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u140">
+    <w>aga</w>
+    <w>räägi</w>
+    <w>meile</w>
+    <w>kus</w>
+    <w>sa</w>
+    <w>käisid</w>
+    <w>ükspäev</w>
+    <w>kas</w>
+    <w>mäletad</w>
+    <w>millise</w>
+    <w>arsti</w>
+    <w>juures</w>
+    <w>sa</w>
+    <w>käisid</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u141">
+    <w>ei</w>
+    <w>tea</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u142">
+    <w>see</w>
+    <w>kes</w>
+    <w>käskis</w>
+    <w>sul</w>
+    <w>suu</w>
+    <w>lahti</w>
+    <w>teha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u143">
+    <w>mis</w>
+    <w>arst</w>
+    <w>see</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u144">
+    <w>ei</w>
+    <w>tea</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u145">
+    <w>hambaarst</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u146">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u147">
+    <w>käisid</w>
+    <w>hambaarsti</w>
+    <w>juures</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u148">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u149">
+    <w>no</w>
+    <w>mis</w>
+    <w>sulle</w>
+    <w>seal</w>
+    <w>tehti</w>
+    <t type="p"></t>
+
+    <a type="comments">CHI näitab, kuidas ta suu lahti teeb.</a>
+  </u>
+  <u who="CHI" uID="u150">
+    <w>aaaa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u151">
+    <w>pidid</w>
+    <w>aa</w>
+    <w>tegema</w>
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u152">
+    <w>kas</w>
+    <w>hambaarst</w>
+    <w>ütles</w>
+    <w>et</w>
+    <w>peab</w>
+    <w>ilusti</w>
+    <w>hambaid</w>
+    <w>pesema</w>
+    <w>ka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u153">
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u154">
+    <w>mis</w>
+    <w>sa</w>
+    <w>seal</w>
+    <w>veel</w>
+    <w>tegid</w>
+    <w>hambaarsti</w>
+    <w>juures</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u155">
+    <w>issi</w>
+    <w>tuleb</w>
+    <w>varsti</w>
+    <w>koju</w>
+    <w>siis</w>
+    <w>issile</w>
+    <w>saad</w>
+    <w>rääkida</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u156">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u157">
+    <g><w>kut</w><ga type="explanation">kus</ga></g>
+    <w>Linda</w>
+    <w>käis</w>
+    <g><w>omme</w><ga type="explanation">homme</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u158">
+    <w>ja</w>
+    <w>siis</w>
+    <w>issi</w>
+    <w>vaatab</w>
+    <w>oi</w>
+    <w>oi</w>
+    <w>Lindal</w>
+    <w>on</w>
+    <w>jälle</w>
+    <w>nohu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u159">
+    <w>jah</w>
+    <w>Lindal</w>
+    <w>on</w>
+    <w>jälle</w>
+    <w>nohu</w>
+    <t type="p"></t>
+
+    <a type="comments">MOT teeb CHI-le musi.</a>
+  </u>
+  <u who="CHI" uID="u160">
+    <w>ei</w>
+    <w>tee</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Linda</w>
+    <w>on</w>
+    <g><w>mõlu</w><ga type="explanation">mõru</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u161">
+    <w>ma</w>
+    <w>tahan</w>
+    <w>sind</w>
+    <w>maitsta</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u162">
+    <w>Linda</w>
+    <w>on</w>
+    <g><w>mõlu</w><ga type="explanation">mõru</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u163">
+    <w>Linda</w>
+    <w>on</w>
+    <g><w>mõlu</w><ga type="explanation">mõru</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u164">
+    <w>mõru</w>
+    <w>oled</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u165">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u166">
+    <w>minu</w>
+    <w>arust</w>
+    <w>oled</w>
+    <w>sa</w>
+    <w>nii</w>
+    <w>maitsev</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>amps</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u167">
+    <g><w>mõlu</w><ga type="explanation">mõru</ga></g>
+    <w>ikka</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u168">
+    <w>mmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u169">
+    <w>on</w>
+    <g><w>mõlu</w><ga type="explanation">mõru</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u170">
+    <w>kohe</w>
+    <w>mõru</w>
+    <w>oled</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u171">
+    <w>sind</w>
+    <w>ei</w>
+    <w>tohi</w>
+    <w>siis</w>
+    <w>maitsta</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u172">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u173">
+    <w>laula</w>
+    <w>mulle</w>
+    <w>enda</w>
+    <w>laule</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u174">
+    <w>mõmm-mõmm-mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u175">
+    <w>mõmmilaul</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u176">
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u177">
+    <w>mõmm-mõmm-mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u178">
+    <w>mõmm-mõmm-mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u179">
+    <w>mõmm-mõmm-mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u180">
+    <w>mõmm-mõmm-mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u181">
+    <w>kiisu</w>
+    <w>käib</w>
+    <w>õues</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u182">
+    <w>mõmm-mõmm-mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u183">
+    <w>kui</w>
+    <w>ilus</w>
+    <w>laul</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u184">
+    <w>on</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u185">
+    <w>mõmm</w>
+    <w>mõmm</w>
+    <w>mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u186">
+    <w>mõmm</w>
+    <w>mõmm</w>
+    <w>mõmm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u187">
+    <w>mõmmi</w>
+    <w>ja</w>
+    <w>kiisu</w>
+    <w>laul</w>
+    <w>on</w>
+    <w>sul</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u188">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u189">
+    <w>on</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u190">
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u191">
+    <w>nii</w>
+    <w>kas</w>
+    <w>kirjutasidki</w>
+    <w>raamatu</w>
+    <w>valmis</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u192">
+    <w>jah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u193">
+    <w>mis</w>
+    <w>sa</w>
+    <w>sinna</w>
+    <w>sisse</w>
+    <w>kirjutasid</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u194">
+    <w>nii</w>
+    <w>loe</w>
+    <w>mulle</w>
+    <w>nüüd</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u195">
+    <w>üks</w>
+    <w>kaks</w>
+    <w>kolm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u196">
+    <w>loe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u197">
+    <g><w>iis</w><ga type="explanation">viis</ga></g>
+    <g><w>müssi</w><ga type="explanation">mütsi</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u198">
+    <w>viis</w>
+    <w>mütsi</w>
+    <w>või</w>
+    <w>mis</w>
+    <w>sa</w>
+    <w>seal</w>
+    <w>kirjutad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u199">
+    <w>ma</w>
+    <g><w>oonitan</w><ga type="explanation">joonistan</ga></g>
+    <t type="p"></t>
+
+    <a type="comments">CHI aevastas.</a>
+  </u>
+  <u who="MOT" uID="u200">
+    <w>oi</w>
+    <w>mis</w>
+    <w>sa</w>
+    <w>nüüd</w>
+    <w>tegid</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u201">
+    <w>mis</w>
+    <w>see</w>
+    <w>siis</w>
+    <w>nüüd</w>
+    <w>oli</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u202">
+    <w>väike</w>
+    <w>suslik</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u203">
+    <w>väike</w>
+    <w>suslik</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u204">
+    <w>niimoodi</w>
+    <w>sukerdad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u205">
+    <w>niimoodi</w>
+    <w>sukerdad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u206">
+    <w>nii</w>
+    <w>hoolega</w>
+    <w>sukerdad</w>
+    <w>või</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u207">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u208">
+    <w>nii</w>
+    <w>järgmine</w>
+    <w>peatükk</w>
+    <w>mis</w>
+    <w>seal</w>
+    <w>siis</w>
+    <w>kirjutatud</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u209">
+    <g><w>älgmine</w><ga type="explanation">järgmine</ga></g>
+    <g><w>kold</w><ga type="explanation">kord</ga></g>
+    <w>on</w>
+    <w>issi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u210">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u211">
+    <w>tema</w>
+    <w>nimi</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u212">
+    <g><w>Aadi</w><ga type="explanation">Hardi</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u213">
+    <g><w>äla</w><ga type="explanation">ära</ga></g>
+    <w>loe</w>
+    <w>emme</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u214">
+    <w>mina</w>
+    <w>ei</w>
+    <w>või</w>
+    <w>lugeda</w>
+    <w>vä</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u215">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u216">
+    <w>no</w>
+    <w>loe</w>
+    <w>ise</w>
+    <w>siis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u217">
+    <w>kes</w>
+    <w>on</w>
+    <g><w>liumäes</w><ga type="explanation">liumäel</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u218">
+    <w>ohoh</w>
+    <w>kes</w>
+    <w>siis</w>
+    <w>on</w>
+    <w>liumäe</w>
+    <w>peal</w>
+    <w>räägi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u219">
+    <w>kes</w>
+    <w>sul</w>
+    <w>siis</w>
+    <w>on</w>
+    <w>seal</w>
+    <w>liumäe</w>
+    <w>peal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u220">
+    <w>poiss</w>
+    <w>lükkab</w>
+    <w>Lindat</w>
+    <w>ja</w>
+    <g><w>menikold</w><ga type="explanation">mõnikord</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u221">
+    <w>poiss</w>
+    <w>lükkab</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u222">
+    <w>ahah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u223">
+    <w>nii</w>
+    <w>mis</w>
+    <w>siis</w>
+    <w>juhtub</w>
+    <w>edasi</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u224">
+    <w>poiss</w>
+    <w>lükkab</w>
+    <w>Lindat</w>
+    <w>kas</w>
+    <w>Linda</w>
+    <w>kukub</w>
+    <w>maha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u225">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u226">
+    <w>mhmh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u227">
+    <w>kas</w>
+    <w>Linda</w>
+    <w>on</w>
+    <w>rõõmus</w>
+    <w>või</w>
+    <w>kurb</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u228">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u229">
+    <w>ei</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u230">
+    <g><w>kulb</w><ga type="explanation">kurb</ga></g>
+    <g><w>issalt</w><ga type="explanation">lihtsalt</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u231">
+    <w>kurb</w>
+    <w>lihtsalt</w>
+    <w>oled</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u232">
+    <w>meie</w>
+    <w>käisime</w>
+    <g><w>öhe</w><ga type="explanation">ühes</ga></g>
+    <g><w>mänguasteaias</w><ga type="explanation">mängulasteaias</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u233">
+    <w>jaa</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>käisime</w>
+    <w>mängulasteaias</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u234">
+    <w>mis</w>
+    <w>me</w>
+    <w>seal</w>
+    <w>lasteaias</w>
+    <w>siis</w>
+    <w>tegime</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u235">
+    <w>ei</w>
+    <w>mängu</w>
+    <w>kaubamaja</w>
+    <w>peal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u236">
+    <w>kaubamaja</w>
+    <w>mänguväljakul</w>
+    <w>käisime</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u237">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u238">
+    <w>kaubamaja</w>
+    <w>mänguväljakul</w>
+    <w>seal</w>
+    <w>oli</w>
+    <w>kaks</w>
+    <w>liumäge</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u239">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u240">
+    <w>üks</w>
+    <w>oli</w>
+    <w>suur</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u241">
+    <w>ja</w>
+    <w>teine</w>
+    <w>oli</w>
+    <w>väike</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u242">
+    <w>ja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u243">
+    <w>eks</w>
+    <w>ole</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u244">
+    <g><w>tenje</w><ga type="explanation">teine</ga></g>
+    <w>oli</w>
+    <g><w>juul</w><ga type="explanation">suur</ga></g>
+    <w>ja</w>
+    <w>teine</w>
+    <w>oli</w>
+    <g><w>äike</w><ga type="explanation">väike</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u245">
+    <w>just</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u246">
+    <w>just</w>
+    <w>nii</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

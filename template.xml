@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      PID="{{ chat.pid }}"
+      {% if chat.color_words %}Colorwords="{{ chat.color_words }}"{% endif %}
+      {% if chat.font %}Font="{{ chat.font }}"{% endif %}
+      Version="2.0.3"
+      Lang="{{ chat.languages[0] }}"
+      Corpus="{{ chat.corpus }}"
+      Id="{{ chat.id }}"
+      Date="{{ chat.date }}">
+    <Participants>{% for participant in chat.participants %}
+        <participant
+            {% if participant.age %}age="{{ participant.age }}"{% endif %}
+            {% if participant.group %}group="{{ participant.group }}"{% endif %}
+            id="{{ participant.id }}"
+            language="{{ participant.language }}"
+            role="{{ participant.role }}"
+            {% if participant.name %}name="{{ participant.name }}"{% endif %}
+            {% if participant.sex %}sex="{{ participant.sex }}"{% endif %}
+            {% if participant.SES %}SES="{{ participant.SES }}"{% endif %}
+        ></participant>{% endfor %}
+    </Participants>
+    <comment type="Date">{{ chat.date }}</comment>
+    {% if chat.time_duration %}<comment type="Time Duration">{{ chat.time_duration }}</comment>{% endif %}
+    {% if chat.comment %}<comment type="Generic">{{ chat.comment }}</comment>{% endif %}
+    {% if chat.situation %}<comment type="Situation">{{ chat.situation }}</comment>{% endif %}
+
+    {% for utterance in chat.utterances %}
+
+    {% endfor %}
+</CHAT>

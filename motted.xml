@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd" PID="11312/c-00026741-1" Version="2.0.4" Lang="est" Corpus="Vija" Id="10724" Date="1999-10-22">
+    <Participants>
+        <participant id="CHI" name="Andreas" role="Target_Child" language="est" age="P1Y7M24D" />
+        <participant id="MOT" name="Maigi" role="Mother" language="est" />
+    </Participants>
+    <comment type="Date">22-OCT-1999</comment>
+    <comment type="Generic">kodus elutoas ja mängutoas</comment>
+    <comment type="Situation">mängimine , aknast õue vaatamine , raamatute ja fotode vaatamine</comment>
+    *CHI:   tuttu [= magama] .
+    <u who="CHI" uID="u0">
+        <g>
+            <w>
+                tuttu
+                <mor type="mor">
+                    <mw>
+                        <pos>
+                            partofspeech
+                        </pos>
+                        <stem>tüvi</stem>
+                    </mw>
+                </mor>
+            </w>
+            <ga type="explanation">magama</ga>
+        </g>
+        <t type="p" />
+    </u>
+    *CHI:   eissaa [= ei saa] .
+    <u who="CHI" uID="u1">
+        <g>
+            <w>eissaa
+                <mor type="mor">
+                    <mw>
+                        <pos>
+                            partofspeech
+                        </pos>
+                        <stem>tüvi</stem>
+                    </mw>
+                </mor>
+            </w>
+            <ga type="explanation">ei saa</ga>
+        </g>
+        <t type="p" />
+    </u>
+    *CHI:   eissaa [= ei saa] .
+    <u who="CHI" uID="u1">
+        <g>
+            <w>eissaa
+                <mor type="mor">
+                    <mw>
+                        <pos>
+                            partofspeech
+                        </pos>
+                        <stem>tüvi</stem>
+                    </mw>
+                </mor>
+            </w>
+            <ga type="explanation">ei saa</ga>
+        </g>
+        <t type="p" />
+    </u>
+    *MOT:   ei saa . [+ imit]
+    <u who="MOT" uID="u2">
+        <w>ei
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>saa
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <t type="p" />
+        <postcode>imit</postcode>
+    </u>
+    *MOT:   kus su raamat on ?
+    <u who="MOT" uID="u3">
+        <w>kus
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>su
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>raamat
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>on
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <t type="q" />
+    </u>
+    *MOT:   vaata , kus pildid on .
+    <u who="MOT" uID="u7">
+        <w>vaata
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <tagMarker type="comma" />
+        <w>kus
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>pildid
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>on
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <t type="p" />
+    </u>
+    *CHI:   pitti [: pilti] .
+    <u who="CHI" uID="u10">
+        <w>
+            pitti
+            <replacement>
+                <w>pilti
+                    <mor type="mor">
+                    <mw>
+                        <pos>
+                            partofspeech
+                        </pos>
+                        <stem>tüvi</stem>
+                    </mw>
+                    </mor>
+                </w>
+            </replacement>
+        </w>
+        <t type="p" />
+    </u>
+    *CHI:   ettaa [: ei taha] . [+ sr]
+    <u who="CHI" uID="u14">
+        <w>
+            ettaa
+            <replacement>
+                <w>ei
+                    <mor type="mor">
+                        <mw>
+                            <pos>
+                                partofspeech
+                            </pos>
+                            <stem>tüvi</stem>
+                        </mw>
+                    </mor>
+                </w>
+                <w>taha
+                    <mor type="mor">
+                        <mw>
+                            <pos>
+                                partofspeech
+                            </pos>
+                            <stem>tüvi</stem>
+                        </mw>
+                    </mor>
+                </w>
+            </replacement>
+        </w>
+        <t type="p" />
+        <postcode>sr</postcode>
+    </u>
+    *CHI:   Eki [: Eiki] . [+ sr]
+    %exp:   vaatavad fotosid
+    <u who="CHI" uID="u23">
+        <w>
+            Eki
+            <replacement>
+                <w>Eiki
+                    <mor type="mor">
+                        <mw>
+                            <pos>
+                                partofspeech
+                            </pos>
+                            <stem>tüvi</stem>
+                        </mw>
+                    </mor>
+                </w>
+            </replacement>
+        </w>
+        <t type="p" />
+        <postcode>sr</postcode>
+        <a type="explanation">vaatavad fotosid</a>
+    </u>
+    *CHI:   xxx .
+    <u who="CHI" uID="u37">
+        <w untranscribed="unintelligible">xxx</w>
+        <t type="p" />
+    </u>
+    *CHI:   eissaa [x 3] [= ei saa] .
+    <u who="CHI" uID="u48">
+        <g>
+            <w>eissaa
+                <mor type="mor">
+                    <mw>
+                        <pos>
+                            partofspeech
+                        </pos>
+                        <stem>tüvi</stem>
+                    </mw>
+                </mor>
+            </w>
+            <r times="3" />
+            <ga type="explanation">ei saa</ga>
+        </g>
+        <t type="p" />
+    </u>
+    *MOT:   [^ sosinal] Eiki .
+    <u who="MOT" uID="u24">
+        <freecode>sosinal</freecode>
+        <w>Eiki
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <t type="p" />
+    </u>
+    *CHI:   <tudu tudu tudu> [= magab] .
+    <u who="CHI" uID="u63">
+        <g>
+            <w>tudu
+
+            </w>
+            <w>tudu
+
+            </w>
+            <w>tudu
+
+            </w>
+            <ga type="explanation">magab</ga>
+        </g>
+        <t type="p" />
+    </u>
+    *MOT:   Antsu [= Andreas] on pisi+pisi [= väike] .
+    <u who="MOT" uID="u86">
+        <g>
+            <w>Antsu</w>
+            <ga type="explanation">Andreas</ga>
+        </g>
+        <w>on</w>
+        <g>
+            <w>
+                pisi
+                <wk type="cmp" />
+                pisi
+            </w>
+            <ga type="explanation">väike</ga>
+        </g>
+        <t type="p" />
+    </u>
+    *MOT:   sulla+sulla@c vann on see , väike vann .
+    <u who="MOT" uID="u93">
+        <w formType="child-invented">
+            sulla
+            <wk type="cmp" />
+            sulla
+        </w>
+        <w>vann</w>
+        <w>on</w>
+        <w>see</w>
+        <tagMarker type="comma" />
+        <w>väike</w>
+        <w>vann</w>
+        <t type="p" />
+    </u>
+    *CHI:   kaa^kaa@o .
+    <u who="CHI" uID="u474">
+        <w formType="onomatopoeia">
+            kaa
+            <p type="pause" />
+            kaa
+        </w>
+        <t type="p" />
+    </u>
+    <u who="MOT" uID="u475">
+        <w formType="onomatopoeia">
+            kaa
+            <p type="pause" />
+            kaa
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>jah</w>
+        <tagMarker type="comma" />
+        <w formType="onomatopoeia">kukerikii
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <w>jah
+            <mor type="mor">
+                <mw>
+                    <pos>
+                        partofspeech
+                    </pos>
+                    <stem>tüvi</stem>
+                </mw>
+            </mor>
+        </w>
+        <t type="p" />
+        <a type="paralinguistics">CHI naerab</a>
+    </u>
+    *MOT:   +< näe , mis see on ?
+    <u who="MOT" uID="u492">
+        <linker type="lazy overlap mark" />
+        <w>näe</w>
+        <tagMarker type="comma" />
+        <w>mis</w>
+        <w>see</w>
+        <w>on</w>
+        <t type="q" />
+    </u>
+    *CHI:   kenne+kenne [= kõnnib] . [+ imit]
+    <u who="CHI" uID="u648">
+        <g>
+            <w>
+                kenne
+                <wk type="cmp" />
+                kenne
+            </w>
+            <ga type="explanation">kõnnib</ga>
+        </g>
+        <t type="p" />
+        <postcode>imit</postcode>
+    </u>
+
+</CHAT>
