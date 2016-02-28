@@ -39,7 +39,7 @@
         {% endfor %}
         {#    #}
         {% for comment in utterance.comments %}
-        <a type="{{ comment.xml_type }}">{{ comment.value }}</a>
+        {{ comment.xml }}
         {% endfor %}
     </u>
     {% endfor %}

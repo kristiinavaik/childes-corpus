@@ -12,6 +12,41 @@ TEMPLATE_ENV = Environment(loader=FileSystemLoader('.'))
 TEMPLATE = TEMPLATE_ENV.get_template('template.xml')
 
 
+TAGS = [
+    # tehtud
+    # '<a',  # utterance comment
+    # '<comment', # chati kohta
+
+    # ???
+    '<action',  # 0 -> <e><action/></e>
+    '<e',  # 0 -> <e><action/></e>
+
+    '<g',
+    '<ga',
+    '<k',
+    '<linker',
+    '<overlap',
+    '<p',
+    '<pause',
+    '<quotation',
+    '<r',
+    '<replacement',
+    '<s',
+    '<shortening',
+    '<t',
+    '<tagMarker',
+    '<u',
+    '<w',
+    '<wk',
+
+    # Osaliselt tehtud
+    # '<freecode',  # [^ ...]
+
+    # TODO
+    '<error',  # [*] -> <error/>
+    '<postcode',  # [+ ...]
+]
+
 class Event(object):
 
     MAPPING = {
@@ -177,6 +212,9 @@ class UtteranceComment(object):
         self.value = comment_match.group('comment')
 
     @property
+    def xml(self):
+        return '<a type="%s">%s</a>' % (self.xml_type(), self.value)
+
     def xml_type(self):
         xml_type = {
             'act': 'actions',
