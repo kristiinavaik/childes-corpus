@@ -3,6 +3,7 @@
 import os
 import re
 import string
+import sys
 import time
 from datetime import datetime
 
@@ -354,7 +355,7 @@ class Chat(object):
         return '\n'.join((line for line in xml.split('\n') if line.split()))
 
     @classmethod
-    def read_chats(cls, chats_dir):
+    def read_chats_from_dir(cls, chats_dir):
         if not os.path.isdir(chats_dir):
             raise ValueError('Invalid chat directory: %s' % chats_dir)
         chats = []
@@ -365,11 +366,20 @@ class Chat(object):
         return chats
 
 
-chats = Chat.read_chats('./cha_transcripts/Vija')
-c = chats[-1]
-print(c)
-print('-'*50)
-print(c.create_xml())
-print(c.chat_path)
-# import ipdb
-# ipdb.set_trace()
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print("Add xml file path as argument")
+        sys.exit(1)
+    xml_path = sys.argv[1]
+    chat = Chat(xml_path)
+    result_path = '%s_converted.xml' % xml_path
+    with open(result_path, 'w') as f:
+        f.write(chat.create_xml())
+    print("Wrote xml to %s" % result_path)
+
+# chats = Chat.read_chats_from_dir('./cha_transcripts/Vija')
+# c = chats[-1]
+# print(c)
+# print('-'*50)
+# print(c.create_xml())
+# print(c.chat_path)
