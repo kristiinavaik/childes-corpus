@@ -33,9 +33,11 @@ class Analysaator(object):
 
     MORF_RE = re.compile(r'\s{4}([^/]+)\s//([^/]+), ')
 
-    def __init__(self, etana_path, dct_path):
+    def __init__(self, etana_path='etana', dct_path='', etfs2gt_path='etfs2gt'):
         self._analyysid = {}
-        self._cmd = '%s -path %s' % (etana_path, dct_path)
+        self._cmd = '%s | %s' % (etana_path, etfs2gt_path)
+        if dct_path:
+            self._cmd = '%s -path %s | %s' % (etana_path, dct_path, etfs2gt_path)
 
     def _call_etana(self, word):
         p = Popen('echo %s | %s' % (shlex.quote(word), self._cmd), shell=True, stdout=PIPE)
@@ -87,23 +89,31 @@ class Analysaator(object):
         stem = ET.SubElement(mw, 'stem')
         stem.text = morf_analyys.stem
 
+    def _handle_w_tag(self, element):
+        for w in element.findall(get_tag('w')):
+            replacement = w.find(get_tag('replacement'))
+            if replacement:
+                for replacement_word in replacement.findall(get_tag('w')):
+                    self._add_morf_elements(replacement_word)
+                continue
+            self._add_morf_elements(w)
+
+    def _handle_g_tag(self, element):
+        for g in element.findall(get_tag('g')):
+            self._handle_w_tag(g)
+
     def add_morf_to_xml(self, src_path, result_path):
         tree = ET.parse(src_path)
         root = tree.getroot()
         for utterance in root.findall(get_tag('u')):
-            for w in utterance.findall(get_tag('w')):
-                replacement = w.find(get_tag('replacement'))
-                if replacement:
-                    for replacement_word in replacement.findall(get_tag('w')):
-                        self._add_morf_elements(replacement_word)
-                    continue
-                self._add_morf_elements(w)
+            self._handle_w_tag(utterance)
+            self._handle_g_tag(utterance)
 
         tree.write(result_path, 'utf-8')
 
 
 if __name__ == '__main__':
-    analysaator = Analysaator('etana/etana', 'etana')
+    analysaator = Analysaator()
     src_dir = os.path.join('xml_files', 'Vija')
     result_dir = os.path.join(src_dir, 'with_morf')
     os.makedirs(result_dir, exist_ok=True)
@@ -111,3 +121,5 @@ if __name__ == '__main__':
         if not f.endswith('.xml'):
             continue
         analysaator.add_morf_to_xml(os.path.join(src_dir, f), os.path.join(result_dir, f))
+        print(os.path.join(src_dir, f), '=>', os.path.join(result_dir, f))
+        break
