@@ -31,11 +31,7 @@ class Unintelligible(Exception):
 
 class Analysaator(object):
 
-    MORF_RE = re.compile(
-        r'^ \s* (?P<stem>[^\s]+) \s+ // (?P<pos>.+) \s* $',
-        re.VERBOSE
-    )
-    SUFFIX_RE = re.compile(r', $')
+    MORF_RE = re.compile(r'\s{4}([^/]+)\s//([^/]+), ')
 
     def __init__(self, etana_path, dct_path):
         self._analyysid = {}
@@ -45,15 +41,14 @@ class Analysaator(object):
         p = Popen('echo %s | %s' % (shlex.quote(word), self._cmd), shell=True, stdout=PIPE)
         output, _ = p.communicate()
         output = output.decode()
-        parts = output.split('\n')
-        analyys = parts[1]
 
-        match = self.MORF_RE.match(analyys)
-        if not match:
+        matches = self.MORF_RE.findall(output)
+        if not matches:
             # sys.stderr.write("Invalid analyys for %r -> %r\n" % (word, analyys))
             return None
-        pos = re.sub(r'(,\s*)?//$', '', match.group('pos'))
-        return MorfAnalyys(match.group('stem'), pos)
+        pos = '; '.join([p for _, p in matches])
+        stem = '; '.join([m for m, _ in matches])
+        return MorfAnalyys(stem, pos)
 
     def analyysi(self, word):
         analyys = self._analyysid.get(word)
