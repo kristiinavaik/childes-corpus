@@ -2,7 +2,6 @@
 import os
 import re
 import shlex
-import sys
 from collections import namedtuple
 from subprocess import Popen, PIPE
 from xml.etree import ElementTree as ET
@@ -10,7 +9,8 @@ from xml.etree import ElementTree as ET
 try:
     from tqdm import tqdm
 except ImportError:
-    tqdm = lambda x: x
+    def tqdm(x):
+        return x
 
 NAMESPACE = "http://www.talkbank.org/ns/talkbank"
 ET.register_namespace('', NAMESPACE)
@@ -24,16 +24,15 @@ def get_tag(tag):
 
 
 class Unintelligible(Exception):
-    def __init__(self, word, result):
+    def __init__(self, word):
         self.word = word
-        self.result = result
         super(Unintelligible, self).__init__()
 
 
 class Analysaator(object):
 
     MORF_RE = re.compile(
-        r'^ \s* (?P<stem>[^\s]+) \s+ // (?P<pos>.+(?=//)) // \s* $',
+        r'^ \s* (?P<stem>[^\s]+) \s+ // (?P<pos>.+) \s* $',
         re.VERBOSE
     )
     SUFFIX_RE = re.compile(r', $')
@@ -53,7 +52,8 @@ class Analysaator(object):
         if not match:
             # sys.stderr.write("Invalid analyys for %r -> %r\n" % (word, analyys))
             return None
-        return MorfAnalyys(match.group('stem'), match.group('pos'))
+        pos = re.sub(r'(,\s*)?//$', '', match.group('pos'))
+        return MorfAnalyys(match.group('stem'), pos)
 
     def analyysi(self, word):
         analyys = self._analyysid.get(word)
@@ -64,7 +64,7 @@ class Analysaator(object):
 
         morf_analyys = self._call_etana(word)
         if morf_analyys is None:
-            error = Unintelligible(word, analyys)
+            error = Unintelligible(word)
             self._analyysid[word] = error
             raise error
         self._analyysid[word] = morf_analyys
@@ -74,23 +74,19 @@ class Analysaator(object):
         if not word.text:
             return
 
+        try:
+            morf_analyys = self.analyysi(word.text)
+        except Unintelligible:
+            if word.text.lower() == 'xxx':
+                word.set('untranscribed', "unintelligible")
+            morf_analyys = MorfAnalyys('####', '####')
+
         mor = ET.SubElement(word, 'mor')
         mor.set('type', 'mor')
         mw = ET.SubElement(mor, 'mw')
 
         pos = ET.SubElement(mw, 'pos')
         c = ET.SubElement(pos, 'c')
-
-        try:
-            morf_analyys = self.analyysi(word.text)
-        except Unintelligible as ui:
-            if word.text.lower() == 'xxx':
-                word.set('untranscribed', "unintelligible")
-            c.text = ui.result
-            return
-        except Exception as e:
-            import ipdb; ipdb.set_trace()
-            raise e
 
         c.text = morf_analyys.pos
         stem = ET.SubElement(mw, 'stem')
@@ -101,6 +97,11 @@ class Analysaator(object):
         root = tree.getroot()
         for utterance in root.findall(get_tag('u')):
             for w in utterance.findall(get_tag('w')):
+                replacement = w.find(get_tag('replacement'))
+                if replacement:
+                    for replacement_word in replacement.findall(get_tag('w')):
+                        self._add_morf_elements(replacement_word)
+                    continue
                 self._add_morf_elements(w)
 
         tree.write(result_path, 'utf-8')
