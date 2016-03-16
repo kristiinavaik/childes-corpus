@@ -31,7 +31,7 @@ class Unintelligible(Exception):
 
 class Analysaator(object):
 
-    MORF_RE = re.compile(r'\s{4}([^/]+)\s//([^/]+), ')
+    MORF_RE = re.compile(r'\s{4}([^/]+)\s//([^/]+) ')
 
     def __init__(self, etana_path='etana', dct_path='', etfs2gt_path='etfs2gt'):
         self._analyysid = {}
@@ -114,12 +114,10 @@ class Analysaator(object):
 
 if __name__ == '__main__':
     analysaator = Analysaator()
-    src_dir = os.path.join('xml_files', 'Vija')
+    src_dir = os.path.join('xml_files', 'Korgesaar')
     result_dir = os.path.join(src_dir, 'with_morf')
     os.makedirs(result_dir, exist_ok=True)
     for f in tqdm(os.listdir(src_dir)):
         if not f.endswith('.xml'):
             continue
         analysaator.add_morf_to_xml(os.path.join(src_dir, f), os.path.join(result_dir, f))
-        print(os.path.join(src_dir, f), '=>', os.path.join(result_dir, f))
-        break
