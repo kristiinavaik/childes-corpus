@@ -136,5 +136,6 @@ if __name__ == '__main__':
                     row = read_file(xml_path)
                 except NoChildException:
                     print("No child in chat %r" % xml_path)
+                    continue
                 print(row)
                 writer.writerow(row)
