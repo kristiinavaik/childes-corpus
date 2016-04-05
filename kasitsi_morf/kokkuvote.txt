@@ -1,0 +1,109 @@
+argus:
+        pähh    analüüsid: pähh+0 //_A_ Sg Nom,//    pähh+0 //_S_ Sg Nom//
+        a       analüüsid: a+0 //_Y_ ?//
+        ee      analüüsid: ee+0 //_I_//   esi+0 //_S_ Sg Gen//
+        eehe    analüüsid: #### ####
+        no      analüüsid: no+0 //_I_//
+        jaa     analüüsid: jaa+0 //_D_//    jaa+0 //_I_//
+        emm     analüüsid: emm+0 //_S_ Sg Nom,//
+        nämm    analüüsid nämm+0 //_S_ Sg Nom,//
+        viu     analüüsid: viu+0 //_I_//   viu+0 //_S_ Sg Gen,//    viu+0 //_S_ Sg Nom,//
+        aah     analüüsid: #### ####
+        venna   analüüsid: vend+0 //_S_ Sg Gen,//
+        viuviu  analüüsid: viu_viu+0 _S_ Sg Gen,//   viu_viu+0 //_S_ Sg Nom//
+        ata     analüüsid: ata+0 //_I_//
+        palun   analüüsid: palu+n //_V_ Pers Prs Ind Sg1 Aff//
+
+
+Beek:
+        amps            analüüsid: amps+0 //_S_ Sg Nom,//
+        päh             analüüsid: päh+0 //_I_//
+        patsu-patsu     analüüsid: patsu-patsu+0 //_V_ Pers Prs Imprt Sg2,//    patsu-patsu+0 //_V_ Pers Prs Ind Neg//
+        emmäääää        analüüsid: #### ####
+        vä              analüüsid: #### ####
+        kesse           analüüsid: kess+e //_S_ Pl Par,//
+        pisspissi       analüüsid: piss_piss+0 //_S_ Sg Ill,//    piss_piss+0 //_S_ Sg Gen,//    piss_piss+0 //_S_ Sg Par,//
+        emmmee          analüüsid: emm_mesi+0 //_S_ Sg Gen,//
+        tule-tule       analüüsid: tule-tule+0 //_V_ Pers Prs Imprt Sg2,//    tule-tule+0 //_V_ Pers Prs Ind Neg,//    tule-tuli+0 //_S_ Sg Gen,//
+        mine-mine       analüüsid: mine-mine+0 //_V_ Pers Prs Imprt Sg2//
+
+
+Kapanen:
+        tapa (tipa-tapa)     analüüsid: tap+0 //_V_ Pers Prs Imprt Sg2,//    tap+0 //_V_ Pers Prs Ind Neg,//    tapp+0 //_S_ Sg Gen//
+        tee     explanation(terve) analüüsid: tee+0 //_S_ Sg Gen,//    tege+0 //_V_ Pers Prs Imprt Sg2,//    tege+0 //_V_ Pers Prs Ind Neg,//    tee+0 //_S_ Sg Nom,//
+
+        <u uID="u93" who="CHI">
+            -<w>te<mor type="mor"><mw><pos><c>_P_ Pl Gen,; _P_ Pl Nom,</c></pos><stem>sina+0; sina+0</stem></mw></mor></w>
+            #<w>ki<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
+            #<w>ku<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
+            -<w>ka<mor type="mor"><mw><pos><c>_D_</c></pos><stem>ka+0</stem></mw></mor></w>
+            #<w>ki<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
+            #<w>ku<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
+        <t type="p" />
+    <a type="comments">CHI harjutab silphaaval sõna diktofon ütlemist.</a>
+
+Kohler 
+<g><g><w>auk</w><k type="retracing" /></g>
+    <pause symbolic-length="simple" />
+
+Kõrgesaar:
+<g><w>kurki<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,</c></pos><stem>kurk+0; kurk+0</stem></mw></mor></w><ga type="explanation">kurku</ga></g>
+
+Vija
+<g><w>tudu<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>tudu+0; tudu+0</stem></mw></mor></w>
+<w>näu<mor type="mor"><mw><pos><c>_I_; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näu+0; näugu+0; näugu+0</stem></mw></mor></w>
+<w>njau<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
+<g><w>mammu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mamm+0; mamm+0; mamm+0</stem></mw></mor></w><ga type="explanation">marjad</ga></g>
+
+
+
+Käsud:
+
+cat hend01.xml | grep -r '    #<' | sed 's/.\+<w[^>]*>\([^<]\+\)<mor.\+/\1/' | sort | uniq -c | sort -nr > argus_tundmatud.txt
+cat hend01.xml | grep -r '    -<' | sed 's/.\+<w[^>]*>\([^<]\+\)<mor.\+/\1/' | sort | uniq -c | sort -nr > argus_valed.txt
+
+cat 10724.xml| grep -r '    #<' | sed 's/.\+<w[^>]*>\([^<]\+\)\(<p[^<]\+\)\?<mor.\+/\1/' | wc -l
+
+
+Argus: 
+        kokku: 394
+        õiged: 334 --> 85%
+        valed: 12 --> 3%
+        tundmatud: 48 --> 12.2%
+
+Beek:
+        kokku: 1488
+        õiged:  933--> 63%
+        valed:  192--> 13%
+        tundmatud: 359--> 24%
+
+Kapanen:
+        kokku: 3794
+        õiged: 2901 --> 76%
+        valed: 289 --> 8%
+        tundmatud: 592--> 16%
+
+Kohler:
+        kokku: 1310
+        õiged: 1234 --> 94%
+        valed: 28--> 2%
+        tundmatud: 39 --> 3%
+
+Kõrgesaar:
+        kokku: 2367
+        õiged: 2074 --> 88%
+        valed: 62 --> 3%
+        tundmatud: 230 --> 10%
+
+Vija:
+        kokku: 2197
+        õiged: 1756 --> 80%
+        valed: 153 --> 7%
+        tundmatud: 288 --> 13%
+
+Zupping:
+        kokku: 2114
+        õiged: 2032 --> 96%
+        valed: 18 --> 1%
+        tundmatud: 64 --> 3%
+
