@@ -2,7 +2,6 @@
 import os
 import re
 import shlex
-from collections import namedtuple
 from subprocess import Popen, PIPE
 from xml.etree import ElementTree as ET
 
@@ -14,9 +13,6 @@ except ImportError:
 
 NAMESPACE = "http://www.talkbank.org/ns/talkbank"
 ET.register_namespace('', NAMESPACE)
-
-
-MorfAnalyys = namedtuple('MorfAnalyys', ['stem', 'pos'])
 
 
 def get_tag(tag):
@@ -40,6 +36,10 @@ class Analysaator(object):
             self._cmd = '%s -path %s | %s' % (etana_path, dct_path, etfs2gt_path)
 
     def _call_etana(self, word):
+        """
+        :param word: string
+        :return: matches, [(stem: string, pos: string), ...]
+        """
         p = Popen('echo %s | %s' % (shlex.quote(word), self._cmd), shell=True, stdout=PIPE)
         output, _ = p.communicate()
         output = output.decode()
@@ -48,9 +48,7 @@ class Analysaator(object):
         if not matches:
             # sys.stderr.write("Invalid analyys for %r -> %r\n" % (word, analyys))
             return None
-        pos = '; '.join([p for _, p in matches])
-        stem = '; '.join([m for m, _ in matches])
-        return MorfAnalyys(stem, pos)
+        return matches
 
     def analyysi(self, word):
         analyys = self._analyysid.get(word)
@@ -76,18 +74,18 @@ class Analysaator(object):
         except Unintelligible:
             if word.text.lower() == 'xxx':
                 word.set('untranscribed', "unintelligible")
-            morf_analyys = MorfAnalyys('####', '####')
+            morf_analyys = [('####', '####')]
 
-        mor = ET.SubElement(word, 'mor')
-        mor.set('type', 'mor')
-        mw = ET.SubElement(mor, 'mw')
+        for stem, pos in morf_analyys:
+            mor = ET.SubElement(word, 'mor')
+            mor.set('type', 'mor')
+            mw = ET.SubElement(mor, 'mw')
 
-        pos = ET.SubElement(mw, 'pos')
-        c = ET.SubElement(pos, 'c')
-
-        c.text = morf_analyys.pos
-        stem = ET.SubElement(mw, 'stem')
-        stem.text = morf_analyys.stem
+            pos_element = ET.SubElement(mw, 'pos')
+            c_element = ET.SubElement(pos_element, 'c')
+            c_element.text = pos.rstrip(',')
+            stem_element = ET.SubElement(mw, 'stem')
+            stem_element.text = stem
 
     def _handle_w_tag(self, element):
         for w in element.findall(get_tag('w')):
@@ -101,6 +99,7 @@ class Analysaator(object):
     def _handle_g_tag(self, element):
         for g in element.findall(get_tag('g')):
             self._handle_w_tag(g)
+            self._handle_g_tag(g)
 
     def add_morf_to_xml(self, src_path, result_path):
         tree = ET.parse(src_path)
@@ -112,12 +111,24 @@ class Analysaator(object):
         tree.write(result_path, 'utf-8')
 
 
+# if __name__ == '__main__':
+#     analysaator = Analysaator()
+#     src_dir = os.path.join('xml_files', 'Korgesaar')
+#     result_dir = os.path.join(src_dir, 'with_morf')
+#     os.makedirs(result_dir, exist_ok=True)
+#     for f in tqdm(os.listdir(src_dir)):
+#         if not f.endswith('.xml'):
+#             continue
+#         analysaator.add_morf_to_xml(os.path.join(src_dir, f), os.path.join(result_dir, f))
+
+
 if __name__ == '__main__':
     analysaator = Analysaator()
-    src_dir = os.path.join('xml_files', 'Korgesaar')
-    result_dir = os.path.join(src_dir, 'with_morf')
-    os.makedirs(result_dir, exist_ok=True)
-    for f in tqdm(os.listdir(src_dir)):
-        if not f.endswith('.xml'):
-            continue
-        analysaator.add_morf_to_xml(os.path.join(src_dir, f), os.path.join(result_dir, f))
+    src_dirs = [os.path.join('xml_files', src_dir) for src_dir in os.listdir('xml_files')]
+    for src_dir in src_dirs:
+        result_dir = os.path.join(src_dir, 'with_morf')
+        os.makedirs(result_dir, exist_ok=True)
+        for f in tqdm(os.listdir(src_dir)):
+            if not f.endswith('.xml'):
+                continue
+            analysaator.add_morf_to_xml(os.path.join(src_dir, f), os.path.join(result_dir, f))
