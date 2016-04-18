@@ -1,4 +1,4 @@
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Corpus="Kohler" Date="2000-09-04" Id="ste040900" Lang="est" PID="11312/c-00026690-1" Version="2.0.2" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Corpus="Kohler" Date="2000-09-04" Lang="est" PID="11312/c-00026690-1" Version="2.1.0" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd">
   <Participants>
     <participant age="P1Y2M4D" id="CHI" language="est" name="Stella" role="Target_Child" />
     <participant id="MOT" language="est" role="Mother" />
@@ -15,40 +15,40 @@
   </u>
   <u uID="u1" who="KAJ">
     <w>oi<mor type="mor"><mw><pos><c>_I_</c></pos><stem>oi+0</stem></mw></mor></w>
-    <w>kui<mor type="mor"><mw><pos><c>_D_; _J_</c></pos><stem>kui+0; kui+0</stem></mw></mor></w>
-    <w>ilus<mor type="mor"><mw><pos><c>_S_ Sg Ine,; _A_ Sg Nom,</c></pos><stem>ilu+s; ilus+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade,</c></pos><stem>sina+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kui<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kui+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>kui+0</stem></mw></mor></w>
+    <w>ilus<mor type="mor"><mw><pos><c>_S_ Sg Ine</c></pos><stem>ilu+s</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>ilus+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade</c></pos><stem>sina+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u2" who="KAJ">
-    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,</c></pos><stem>tule+0; tule+0; tuli+0</stem></mw></mor></w>
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
+    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tuli+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>silm+d; silma+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>silm+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>silma+d</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u3" who="MOT">
-    <w>need<mor type="mor"><mw><pos><c>_P_ Pl Nom,</c></pos><stem>see+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tema<mor type="mor"><mw><pos><c>_P_ Sg Gen,; _P_ Sg Nom,</c></pos><stem>tema+0; tema+0</stem></mw></mor></w>
-    <w>enda<mor type="mor"><mw><pos><c>_P_ Sg Gen,</c></pos><stem>ise+0</stem></mw></mor></w>
-    <w>riided<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>riie+d</stem></mw></mor></w>
+    <w>need<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>see+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tema<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>tema+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>tema+0</stem></mw></mor></w>
+    <w>enda<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>ise+0</stem></mw></mor></w>
+    <w>riided<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>riie+d</stem></mw></mor></w>
     <tagMarker type="comma" />
-    <w>kui<mor type="mor"><mw><pos><c>_D_; _J_</c></pos><stem>kui+0; kui+0</stem></mw></mor></w>
-    <w>tulime<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Pl1 Aff,</c></pos><stem>tule+ime</stem></mw></mor></w>
-    <w>haiglast<mor type="mor"><mw><pos><c>_S_ Sg Ela,; _A_ Sg Par,</c></pos><stem>haigla+st; haiglane+t</stem></mw></mor></w>
-    <w>koju<mor type="mor"><mw><pos><c>_S_ Sg Ill,</c></pos><stem>kodu+0</stem></mw></mor></w>
+    <w>kui<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kui+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>kui+0</stem></mw></mor></w>
+    <w>tulime<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Pl1 Aff</c></pos><stem>tule+ime</stem></mw></mor></w>
+    <w>haiglast<mor type="mor"><mw><pos><c>_S_ Sg Ela</c></pos><stem>haigla+st</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Par</c></pos><stem>haiglane+t</stem></mw></mor></w>
+    <w>koju<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>kodu+0</stem></mw></mor></w>
     <tagMarker type="comma" />
     <w>nüüd<mor type="mor"><mw><pos><c>_D_</c></pos><stem>nüüd+0</stem></mw></mor></w>
-    <w>panime<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Pl1 Aff,</c></pos><stem>pane+ime</stem></mw></mor></w>
-    <w>titale<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tita+le</stem></mw></mor></w>
-    <w>selga<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,</c></pos><stem>selg+0; selg+0</stem></mw></mor></w>
+    <w>panime<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Pl1 Aff</c></pos><stem>pane+ime</stem></mw></mor></w>
+    <w>titale<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tita+le</stem></mw></mor></w>
+    <w>selga<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>selg+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>selg+0</stem></mw></mor></w>
     <t type="p" />
 
     <a type="addressee">KAJ</a>
@@ -59,9 +59,9 @@
 
   </u>
   <u uID="u5" who="MOT">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -73,17 +73,17 @@
     <a type="actions">vokalisiert</a>
   </u>
   <u uID="u7" who="KAJ">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u8" who="KAJ">
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -93,11 +93,11 @@
 
   </u>
   <u uID="u10" who="KAJ">
-    <w>tee<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>tee+0; tege+0; tege+0; tee+0</stem></mw></mor></w>
-    <w>titale<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tita+le</stem></mw></mor></w>
-    <w>pai<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _A_ Sg Nom,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>pai+0; pai+0; pai+0; pai+0</stem></mw></mor></w>
+    <w>tee<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tee+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tege+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tege+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tee+0</stem></mw></mor></w>
+    <w>titale<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tita+le</stem></mw></mor></w>
+    <w>pai<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>pai+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>pai+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>pai+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pai+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>pai<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _A_ Sg Nom,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>pai+0; pai+0; pai+0; pai+0</stem></mw></mor></w>
+    <w>pai<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>pai+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>pai+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>pai+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pai+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -115,14 +115,14 @@
     <a type="actions">tõstab nuku üles</a>
   </u>
   <u uID="u13" who="KAJ">
-    <w>tuled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,; _S_ Pl Nom,</c></pos><stem>tule+d; tuli+d</stem></mw></mor></w>
-    <w>näitad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>näita+d</stem></mw></mor></w>
-    <w>mulle<mor type="mor"><mw><pos><c>_P_ Sg All,; _S_ Pl Par,; _S_ Sg Nom,</c></pos><stem>mina+lle; mull+e; mulle+0</stem></mw></mor></w>
-    <w>titat<mor type="mor"><mw><pos><c>_S_ Sg Par,</c></pos><stem>tita+t</stem></mw></mor></w>
-    <w>või<mor type="mor"><mw><pos><c>_D_; _J_; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>või+0; või+0; või+0; või+0; või+0; või+0</stem></mw></mor></w>
+    <w>tuled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>tule+d</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>tuli+d</stem></mw></mor></w>
+    <w>näitad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>näita+d</stem></mw></mor></w>
+    <w>mulle<mor type="mor"><mw><pos><c>_P_ Sg All</c></pos><stem>mina+lle</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>mull+e</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>mulle+0</stem></mw></mor></w>
+    <w>titat<mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>tita+t</stem></mw></mor></w>
+    <w>või<mor type="mor"><mw><pos><c>_D_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>või+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>jalgu<mor type="mor"><mw><pos><c>_S_ Pl Par,; _D_</c></pos><stem>jalg+u; jalgu+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>jalgu<mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>jalg+u</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>jalgu+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -134,32 +134,32 @@
   <u uID="u15" who="MOT">
     <w>aga<mor type="mor"><mw><pos><c>_J_</c></pos><stem>aga+0</stem></mw></mor></w>
     <g><w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>naer+b</stem></mw></mor></w><k type="retracing" /></g>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>naer+b</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>naer+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>naer+b</stem></mw></mor></w>
     <t type="q" />
 
     <a type="comments">uks käib ja tuleb HEN</a>
   </u>
   <u uID="u16" who="MOT">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>tuli<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,; _S_ Sg Nom,</c></pos><stem>tule+i; tuli+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>tuli<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>tule+i</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tuli+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u17" who="MOT">
-    <w>mine<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,</c></pos><stem>mine+0</stem></mw></mor></w>
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>tuli<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,; _S_ Sg Nom,</c></pos><stem>tule+i; tuli+0</stem></mw></mor></w>
+    <w>mine<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>mine+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>tuli<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>tule+i</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tuli+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,; _D_</c></pos><stem>rutt+0; rutt+0; ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
-    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,; _D_</c></pos><stem>rutt+0; rutt+0; ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
-    <w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,; _D_</c></pos><stem>rutt+0; rutt+0; ruttu+0</stem></mw></mor></w>
+    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
+    <w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>ruttu+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -169,23 +169,23 @@
 
   </u>
   <u uID="u19" who="MOT">
-    <w>tere<mor type="mor"><mw><pos><c>_I_; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tere+0; tere+0; tere+0</stem></mw></mor></w>
+    <w>tere<mor type="mor"><mw><pos><c>_I_</c></pos><stem>tere+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tere+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tere+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u20" who="CHI">
-    <g><g><w>tee<replacement><w>tere</w></replacement></w><k type="retracing" /></g>
-    <w>tee<replacement><w>tere<mor type="mor"><mw><pos><c>_I_; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tere+0; tere+0; tere+0</stem></mw></mor></w></replacement></w><ga type="comments">imit</ga></g>
+    <g><g><w>tee<replacement><w>tere<mor type="mor"><mw><pos><c>_I_</c></pos><stem>tere+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tere+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tere+0</stem></mw></mor></w></replacement></w><k type="retracing" /></g>
+    <w>tee<replacement><w>tere<mor type="mor"><mw><pos><c>_I_</c></pos><stem>tere+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tere+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tere+0</stem></mw></mor></w></replacement></w><ga type="comments">imit</ga></g>
     <t type="p" />
 
   </u>
   <u uID="u21" who="BRO">
-    <w>mul<mor type="mor"><mw><pos><c>_P_ Sg Ade,</c></pos><stem>mina+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>täna<mor type="mor"><mw><pos><c>_D_; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>täna+0; täna+0; täna+0</stem></mw></mor></w>
-    <w>trenn<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>trenn+0</stem></mw></mor></w>
-    <w>viisteist<mor type="mor"><mw><pos><c>_N_ Sg Nom,</c></pos><stem>viis_teist+0</stem></mw></mor></w>
-    <w>kolmkümmend<mor type="mor"><mw><pos><c>_N_ Sg Nom,</c></pos><stem>kolm_kümmend+0</stem></mw></mor></w>
+    <w>mul<mor type="mor"><mw><pos><c>_P_ Sg Ade</c></pos><stem>mina+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>täna<mor type="mor"><mw><pos><c>_D_</c></pos><stem>täna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>täna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>täna+0</stem></mw></mor></w>
+    <w>trenn<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>trenn+0</stem></mw></mor></w>
+    <w>viisteist<mor type="mor"><mw><pos><c>_N_ Sg Nom</c></pos><stem>viis_teist+0</stem></mw></mor></w>
+    <w>kolmkümmend<mor type="mor"><mw><pos><c>_N_ Sg Nom</c></pos><stem>kolm_kümmend+0</stem></mw></mor></w>
     <t type="p" />
 
     <a type="addressee">MAI</a>
@@ -197,19 +197,19 @@
     <a type="actions">keerutab</a>
   </u>
   <u uID="u23" who="KAJ">
-    <w>tantsi<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>tantsi+0; tantsi+0</stem></mw></mor></w>
+    <w>tantsi<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tantsi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tantsi+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <pause symbolic-length="simple" />
-    <w>tantsid<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>tantsi+d</stem></mw></mor></w>
+    <w>tantsid<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>tantsi+d</stem></mw></mor></w>
     <w>ilusti<mor type="mor"><mw><pos><c>_D_</c></pos><stem>ilusti+0</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u24" who="MOT">
     <freecode>lauldes</freecode>
-    <w>keeruta<mor type="mor"><mw><pos><c>_A_ Sg Abe,; _S_ Sg Abe,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>keerd+ta; keerd+ta; keeruta+0; keeruta+0</stem></mw></mor></w>
-    <w>keeruta<mor type="mor"><mw><pos><c>_A_ Sg Abe,; _S_ Sg Abe,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>keerd+ta; keerd+ta; keeruta+0; keeruta+0</stem></mw></mor></w>
+    <w>keeruta<mor type="mor"><mw><pos><c>_A_ Sg Abe</c></pos><stem>keerd+ta</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Abe</c></pos><stem>keerd+ta</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>keeruta+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>keeruta+0</stem></mw></mor></w>
+    <w>keeruta<mor type="mor"><mw><pos><c>_A_ Sg Abe</c></pos><stem>keerd+ta</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Abe</c></pos><stem>keerd+ta</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>keeruta+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>keeruta+0</stem></mw></mor></w>
     <g><w>lallala<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w><k type="retracing" /></g>
     <w>lallala<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <t type="p" />
@@ -229,10 +229,10 @@
 
   </u>
   <u uID="u27" who="MOT">
-    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?,</c></pos><stem>a+0</stem></mw></mor></w>
+    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?</c></pos><stem>a+0</stem></mw></mor></w>
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>laulab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>laul+b</stem></mw></mor></w>
+    <w>laulab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>laul+b</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -243,8 +243,8 @@
   </u>
   <u uID="u29" who="KAJ">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>laulad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>laul+d</stem></mw></mor></w>
+    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>laulad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>laul+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -255,11 +255,11 @@
   </u>
   <u uID="u31" who="MOT">
     <w>no<mor type="mor"><mw><pos><c>_I_</c></pos><stem>no+0</stem></mw></mor></w>
-    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,</c></pos><stem>tule+0; tule+0; tuli+0</stem></mw></mor></w>
-    <w>näitame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff,</c></pos><stem>näita+me</stem></mw></mor></w>
-    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par,</c></pos><stem>raamat+t</stem></mw></mor></w>
+    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tuli+0</stem></mw></mor></w>
+    <w>näitame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff</c></pos><stem>näita+me</stem></mw></mor></w>
+    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>raamat+t</stem></mw></mor></w>
     <w>ka<mor type="mor"><mw><pos><c>_D_</c></pos><stem>ka+0</stem></mw></mor></w>
-    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tädi+le</stem></mw></mor></w>
+    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tädi+le</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -269,31 +269,31 @@
 
   </u>
   <u uID="u33" who="MOT">
-    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par,</c></pos><stem>raamat+t</stem></mw></mor></w>
+    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>raamat+t</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>su<mor type="mor"><mw><pos><c>_P_ Sg Gen,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>raamatud<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>raamat+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>su<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>raamatud<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>raamat+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>näitame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff,</c></pos><stem>näita+me</stem></mw></mor></w>
-    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tädi+le</stem></mw></mor></w>
+    <w>näitame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff</c></pos><stem>näita+me</stem></mw></mor></w>
+    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tädi+le</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>kutsud<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>kutsu+d; kutsu+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kutsud<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>kutsu+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>kutsu+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u34" who="KAJ">
-    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,</c></pos><stem>tule+0; tule+0; tuli+0</stem></mw></mor></w>
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
-    <w>mulle<mor type="mor"><mw><pos><c>_P_ Sg All,; _S_ Pl Par,; _S_ Sg Nom,</c></pos><stem>mina+lle; mull+e; mulle+0</stem></mw></mor></w>
-    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par,</c></pos><stem>raamat+t</stem></mw></mor></w>
+    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tuli+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
+    <w>mulle<mor type="mor"><mw><pos><c>_P_ Sg All</c></pos><stem>mina+lle</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>mull+e</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>mulle+0</stem></mw></mor></w>
+    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>raamat+t</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>raamat+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>raamat+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -304,9 +304,9 @@
   </u>
   <u uID="u36" who="MOT">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>su<mor type="mor"><mw><pos><c>_P_ Sg Gen,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>raamatud<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>raamat+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>su<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>raamatud<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>raamat+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -318,15 +318,15 @@
     <a type="actions">läheb oma mänguasjade juurde ja toob pangi</a>
   </u>
   <u uID="u38" who="MOT">
-    <w>pangi<mor type="mor"><mw><pos><c>_S_ Sg Nom,; _S_ Pl Par,</c></pos><stem>pan+gi; pang+i</stem></mw></mor></w>
-    <w>tood<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>too+d</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>pangi<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pan+gi</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>pang+i</stem></mw></mor></w>
+    <w>tood<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>too+d</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u39" who="MOT">
-    <w>too<mor type="mor"><mw><pos><c>_P_ Sg Nom,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>too+0; too+0; too+0</stem></mw></mor></w>
-    <w>pang<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pang+0</stem></mw></mor></w>
+    <w>too<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>too+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>too+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>too+0</stem></mw></mor></w>
+    <w>pang<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pang+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -343,10 +343,10 @@
 
   </u>
   <u uID="u42" who="MOT">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
     <a type="actions">võtab pangist asjad</a>
@@ -359,9 +359,9 @@
   <u uID="u44" who="MOT">
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -371,22 +371,22 @@
 
   </u>
   <u uID="u46" who="KAJ">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade,</c></pos><stem>sina+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade</c></pos><stem>sina+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>klots<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>klots+0</stem></mw></mor></w>
+    <w>klots<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>klots+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u47" who="KAJ">
     <w>aga<mor type="mor"><mw><pos><c>_J_</c></pos><stem>aga+0</stem></mw></mor></w>
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>emmel<mor type="mor"><mw><pos><c>_S_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>emm+l; emme+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>emmel<mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>emm+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>emme+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -396,22 +396,22 @@
 
   </u>
   <u uID="u49" who="MOT">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u50" who="KAJ">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u51" who="KAJ">
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -422,13 +422,13 @@
     <a type="actions">võtab pangist klotse välja</a>
   </u>
   <u uID="u53" who="KAJ">
-    <w>veel<mor type="mor"><mw><pos><c>_D_; _S_ Sg Ade,</c></pos><stem>veel+0; vesi+l</stem></mw></mor></w>
-    <w>üks<mor type="mor"><mw><pos><c>_N_ Sg Nom,; _P_ Sg Nom,</c></pos><stem>üks+0; üks+0</stem></mw></mor></w>
-    <w>klots<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>klots+0</stem></mw></mor></w>
+    <w>veel<mor type="mor"><mw><pos><c>_D_</c></pos><stem>veel+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>vesi+l</stem></mw></mor></w>
+    <w>üks<mor type="mor"><mw><pos><c>_N_ Sg Nom</c></pos><stem>üks+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>üks+0</stem></mw></mor></w>
+    <w>klots<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>klots+0</stem></mw></mor></w>
     <tagMarker type="comma" />
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>lill+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>lill+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -439,11 +439,11 @@
   </u>
   <u uID="u55" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <g><w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w><k type="retracing with correction" /></g>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <g><w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w><k type="retracing with correction" /></g>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -455,14 +455,14 @@
     <a type="actions">otsib</a>
   </u>
   <u uID="u57" who="KAJ">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u58" who="KAJ">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <w>tudub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tudu+b</stem></mw></mor></w>
-    <w>või<mor type="mor"><mw><pos><c>_D_; _J_; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>või+0; või+0; või+0; või+0; või+0; või+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <w>tudub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tudu+b</stem></mw></mor></w>
+    <w>või<mor type="mor"><mw><pos><c>_D_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>või+0</stem></mw></mor></w>
     <t type="q" />
 
     <a type="actions">näitab karule</a>
@@ -474,14 +474,14 @@
     <a type="actions">teeb nagu annaks karule süüa</a>
   </u>
   <u uID="u60" who="MOT">
-    <w>annad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,; _S_ Pl Nom,</c></pos><stem>and+d; anna+d</stem></mw></mor></w>
-    <w>mõmmile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>mõmm+le</stem></mw></mor></w>
-    <w>süüa<mor type="mor"><mw><pos><c>_V_ Inf,</c></pos><stem>söö+a</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>annad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>and+d</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>anna+d</stem></mw></mor></w>
+    <w>mõmmile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>mõmm+le</stem></mw></mor></w>
+    <w>süüa<mor type="mor"><mw><pos><c>_V_ Inf</c></pos><stem>söö+a</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>annad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,; _S_ Pl Nom,</c></pos><stem>and+d; anna+d</stem></mw></mor></w>
-    <w>süüa<mor type="mor"><mw><pos><c>_V_ Inf,</c></pos><stem>söö+a</stem></mw></mor></w>
-    <w>mõmmile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>mõmm+le</stem></mw></mor></w>
+    <w>annad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>and+d</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>anna+d</stem></mw></mor></w>
+    <w>süüa<mor type="mor"><mw><pos><c>_V_ Inf</c></pos><stem>söö+a</stem></mw></mor></w>
+    <w>mõmmile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>mõmm+le</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -492,8 +492,8 @@
   </u>
   <u uID="u62" who="MOT">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <w>sööb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>söö+b</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <w>sööb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>söö+b</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -504,10 +504,10 @@
     <a type="actions">tuleb makki uurima</a>
   </u>
   <u uID="u64" who="KAJ">
-    <g><w>liigub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>liiku+b</stem></mw></mor></w><k type="retracing with correction" /></g>
+    <g><w>liigub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>liiku+b</stem></mw></mor></w><k type="retracing with correction" /></g>
     <w>las<mor type="mor"><mw><pos><c>_D_</c></pos><stem>las+0</stem></mw></mor></w>
-    <w>ta<mor type="mor"><mw><pos><c>_P_ Sg Gen,; _P_ Sg Nom,</c></pos><stem>tema+0; tema+0</stem></mw></mor></w>
-    <w>liigub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>liiku+b</stem></mw></mor></w>
+    <w>ta<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>tema+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>tema+0</stem></mw></mor></w>
+    <w>liigub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>liiku+b</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -532,17 +532,17 @@
   <u uID="u68" who="MOT">
     <w>aitäh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>aitäh+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>too<mor type="mor"><mw><pos><c>_P_ Sg Nom,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>too+0; too+0; too+0</stem></mw></mor></w>
+    <w>too<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>too+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>too+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>too+0</stem></mw></mor></w>
     <w>nüüd<mor type="mor"><mw><pos><c>_D_</c></pos><stem>nüüd+0</stem></mw></mor></w>
-    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>raamat+0</stem></mw></mor></w>
+    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>raamat+0</stem></mw></mor></w>
     <w>ka<mor type="mor"><mw><pos><c>_D_</c></pos><stem>ka+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u69" who="KAJ">
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
-    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par,</c></pos><stem>raamat+t</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
+    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>raamat+t</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -554,14 +554,14 @@
   </u>
   <u uID="u71" who="MOT">
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,</c></pos><stem>tule+0; tule+0; tuli+0</stem></mw></mor></w>
-    <w>tagasi<mor type="mor"><mw><pos><c>_D_; _K_</c></pos><stem>tagasi+0; tagasi+0</stem></mw></mor></w>
+    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tuli+0</stem></mw></mor></w>
+    <w>tagasi<mor type="mor"><mw><pos><c>_D_</c></pos><stem>tagasi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>tagasi+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u72" who="KAJ">
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
-    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par,</c></pos><stem>raamat+t</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
+    <w>raamatut<mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>raamat+t</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -569,26 +569,26 @@
     <w>oi<mor type="mor"><mw><pos><c>_I_</c></pos><stem>oi+0</stem></mw></mor></w>
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>hüppas<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,</c></pos><stem>hüppa+s</stem></mw></mor></w>
+    <w>hüppas<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>hüppa+s</stem></mw></mor></w>
     <t type="e" />
 
     <a type="actions">võtab raamatu</a>
   </u>
   <u uID="u74" who="MOT">
-    <w>vaatame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff,</c></pos><stem>vaata+me</stem></mw></mor></w>
+    <w>vaatame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff</c></pos><stem>vaata+me</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>linnuke+d</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>raamatus<mor type="mor"><mw><pos><c>_S_ Sg Ine,</c></pos><stem>raamat+s</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>linnuke+d</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>raamatus<mor type="mor"><mw><pos><c>_S_ Sg Ine</c></pos><stem>raamat+s</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>emmel<mor type="mor"><mw><pos><c>_S_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>emm+l; emme+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>raamat+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>emmel<mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>emm+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>emme+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>raamat+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,</c></pos><stem>tule+0; tule+0; tuli+0</stem></mw></mor></w>
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tuli+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -599,36 +599,36 @@
     <a type="actions">vaatab raamatut</a>
   </u>
   <u uID="u76" who="MOT">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u77" who="CHI">
-    <w>õmm<replacement><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w></replacement></w>
+    <w>õmm<replacement><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w></replacement></w>
     <t type="p" />
 
   </u>
   <u uID="u78" who="MOT">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u79" who="MOT">
-    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tädi+le</stem></mw></mor></w>
-    <w>näitame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff,</c></pos><stem>näita+me</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tädi+le</stem></mw></mor></w>
+    <w>näitame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff</c></pos><stem>näita+me</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u80" who="MOT">
     <w>oi<mor type="mor"><mw><pos><c>_I_</c></pos><stem>oi+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>need<mor type="mor"><mw><pos><c>_P_ Pl Nom,</c></pos><stem>see+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>need<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>see+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>kutsu<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>kutsu+0; kutsu+0; kutsu+0; kutsu+0</stem></mw></mor></w>
+    <w>kutsu<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>kutsu+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>kutsu+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>kutsu+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kutsu+0</stem></mw></mor></w>
     <w>auh<wk type="cmp" />auh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>auh+0</stem></mw></mor></w>
     <t type="p" />
 
@@ -640,8 +640,8 @@
   </u>
   <u uID="u82" who="KAJ">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>kutsu<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>kutsu+0; kutsu+0; kutsu+0; kutsu+0</stem></mw></mor></w>
-    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tege+b</stem></mw></mor></w>
+    <w>kutsu<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>kutsu+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>kutsu+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>kutsu+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kutsu+0</stem></mw></mor></w>
+    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tege+b</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -656,10 +656,10 @@
 
   </u>
   <u uID="u85" who="KAJ">
-    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?,</c></pos><stem>a+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?</c></pos><stem>a+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -669,9 +669,9 @@
 
   </u>
   <u uID="u87" who="KAJ">
-    <g><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -682,16 +682,16 @@
     <a type="actions">vokalisiert</a>
   </u>
   <u uID="u89" who="MOT">
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>ujub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>uju+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>ujub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>uju+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>sulla<wk type="cmp" />sulla<mor type="mor"><mw><pos><c>_D_</c></pos><stem>sulla+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u90" who="MOT">
-    <w>kutsud<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>kutsu+d; kutsu+d</stem></mw></mor></w>
-    <w>vaatavad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff,; _A_ Pl Nom,</c></pos><stem>vaata+vad; vaatav+d</stem></mw></mor></w>
+    <w>kutsud<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>kutsu+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>kutsu+d</stem></mw></mor></w>
+    <w>vaatavad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>vaata+vad</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Pl Nom</c></pos><stem>vaatav+d</stem></mw></mor></w>
     <w>auh<wk type="cmp" />auh<wk type="cmp" />auh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>auh+0</stem></mw></mor></w>
     <t type="p" />
 
@@ -703,58 +703,58 @@
     <a type="actions">lehitseb raamatut</a>
   </u>
   <u uID="u92" who="MOT">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>rebane<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>rebane+0</stem></mw></mor></w>
+    <w>rebane<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>rebane+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u93" who="MOT">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u94" who="MOT">
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>ujub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>uju+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>ujub<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>uju+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>sulla<wk type="cmp" />sulla<mor type="mor"><mw><pos><c>_D_</c></pos><stem>sulla+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u95" who="CHI">
-    <w>näei<replacement><w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näge+0; näge+0</stem></mw></mor></w></replacement></w>
+    <w>näei<replacement><w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näge+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näge+0</stem></mw></mor></w></replacement></w>
     <t type="e" />
 
     <a type="actions">paneb raamatu kinni</a>
   </u>
   <u uID="u96" who="KAJ">
-    <g><w>läbi<mor type="mor"><mw><pos><c>_D_; _K_; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>läbi+0; läbi+0; läbi+0; läbi+0</stem></mw></mor></w>
-    <w>sai<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,; _S_ Sg Nom,</c></pos><stem>saa+i; sai+0</stem></mw></mor></w><k type="retracing with correction" /></g>
-    <w>läbi<mor type="mor"><mw><pos><c>_D_; _K_; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>läbi+0; läbi+0; läbi+0; läbi+0</stem></mw></mor></w>
-    <w>sai<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,; _S_ Sg Nom,</c></pos><stem>saa+i; sai+0</stem></mw></mor></w>
-    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>raamat+0</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <g><w>läbi<mor type="mor"><mw><pos><c>_D_</c></pos><stem>läbi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>läbi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>läbi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>läbi+0</stem></mw></mor></w>
+    <w>sai<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>saa+i</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>sai+0</stem></mw></mor></w><k type="retracing with correction" /></g>
+    <w>läbi<mor type="mor"><mw><pos><c>_D_</c></pos><stem>läbi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>läbi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>läbi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>läbi+0</stem></mw></mor></w>
+    <w>sai<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>saa+i</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>sai+0</stem></mw></mor></w>
+    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>raamat+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>ettepoole<mor type="mor"><mw><pos><c>_D_; _K_</c></pos><stem>ette_poole+0; ette_poole+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>ettepoole<mor type="mor"><mw><pos><c>_D_</c></pos><stem>ette_poole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>ette_poole+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u97" who="MOT">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <w>kukkus<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,</c></pos><stem>kukku+s</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <w>kukkus<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>kukku+s</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u98" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -771,13 +771,13 @@
 
   </u>
   <u uID="u101" who="MOT">
-    <w>konnake<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Pl2,</c></pos><stem>konda+ke</stem></mw></mor></w>
+    <w>konnake<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Pl2</c></pos><stem>konda+ke</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <pause symbolic-length="simple" />
-    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?,</c></pos><stem>a+0</stem></mw></mor></w>
+    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?</c></pos><stem>a+0</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>lill+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>lill+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -787,11 +787,11 @@
 
   </u>
   <u uID="u103" who="MOT">
-    <g><w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>lill+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>lill+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <g><w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>lill+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>lill+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>lill+0</stem></mw></mor></w>
+    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>lill+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -801,7 +801,7 @@
 
   </u>
   <u uID="u105" who="MOT">
-    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>lill+0</stem></mw></mor></w>
+    <w>lill<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>lill+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -813,36 +813,36 @@
     <a type="actions">keerab lehti</a>
   </u>
   <u uID="u107" who="MOT">
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u108" who="CHI">
-    <g><w>õmm<replacement><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w></replacement></w><ga type="comments">imit</ga></g>
+    <g><w>õmm<replacement><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w></replacement></w><ga type="comments">imit</ga></g>
     <t type="p" />
 
   </u>
   <u uID="u109" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u110" who="KAJ">
-    <w>seal<mor type="mor"><mw><pos><c>_D_; _A_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>seal+0; siga+l; siga+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>seal<mor type="mor"><mw><pos><c>_D_</c></pos><stem>seal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>näed<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>näge+d</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>näed<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>näge+d</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>onju<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -852,33 +852,33 @@
 
   </u>
   <u uID="u112" who="MOT">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u113" who="KAJ">
     <w>aga<mor type="mor"><mw><pos><c>_J_</c></pos><stem>aga+0</stem></mw></mor></w>
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>taga<mor type="mor"><mw><pos><c>_D_; _K_; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>taga+0; taga+0; taga+0; taga+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>taga<mor type="mor"><mw><pos><c>_D_</c></pos><stem>taga+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>taga+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>taga+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>taga+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>taga<mor type="mor"><mw><pos><c>_D_; _K_; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>taga+0; taga+0; taga+0; taga+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>teise<mor type="mor"><mw><pos><c>_O_ Sg Ill,; _O_ Sg Gen,; _P_ Sg Ill,; _P_ Sg Gen,</c></pos><stem>teine+0; teine+0; teine+0; teine+0</stem></mw></mor></w>
-    <w>poole<mor type="mor"><mw><pos><c>_N_ Sg Gen,; _S_ Sg Gen,; _S_ Pl Par,; _K_; _S_ Sg Nom,</c></pos><stem>pool+0; pool+0; pool+e; poole+0; poole+0</stem></mw></mor></w>
-    <w>peal<mor type="mor"><mw><pos><c>_S_ Sg Ade,; _D_; _K_</c></pos><stem>pea+l; peal+0; peal+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>taga<mor type="mor"><mw><pos><c>_D_</c></pos><stem>taga+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>taga+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>taga+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>taga+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>teise<mor type="mor"><mw><pos><c>_O_ Sg Ill</c></pos><stem>teine+0</stem></mw></mor><mor type="mor"><mw><pos><c>_O_ Sg Gen</c></pos><stem>teine+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Ill</c></pos><stem>teine+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>teine+0</stem></mw></mor></w>
+    <w>poole<mor type="mor"><mw><pos><c>_N_ Sg Gen</c></pos><stem>pool+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>pool+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>pool+e</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>poole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>poole+0</stem></mw></mor></w>
+    <w>peal<mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>pea+l</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>peal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>peal+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <t type="e" />
 
     <a type="actions">näitab kaane peale</a>
   </u>
   <u uID="u114" who="MOT">
-    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>linnuke+d</stem></mw></mor></w>
+    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>linnuke+d</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -889,12 +889,12 @@
   </u>
   <u uID="u116" who="MOT">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>linnuke+d</stem></mw></mor></w>
-    <w>teevad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>tege+vad</stem></mw></mor></w>
+    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>linnuke+d</stem></mw></mor></w>
+    <w>teevad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>tege+vad</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>teevad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>tege+vad</stem></mw></mor></w>
-    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>linnuke+d</stem></mw></mor></w>
+    <w>teevad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>tege+vad</stem></mw></mor></w>
+    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>linnuke+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -904,8 +904,8 @@
 
   </u>
   <u uID="u118" who="MOT">
-    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>linnuke+d</stem></mw></mor></w>
-    <w>teevad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>tege+vad</stem></mw></mor></w>
+    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>linnuke+d</stem></mw></mor></w>
+    <w>teevad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>tege+vad</stem></mw></mor></w>
     <g><w>tsiu<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w><k type="retracing" /></g>
     <g><w>tsiu<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w><k type="retracing" /></g>
     <g><w>tsiu<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w><k type="retracing" /></g>
@@ -919,28 +919,28 @@
 
   </u>
   <u uID="u120" who="MOT">
-    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>linnuke+d</stem></mw></mor></w>
+    <w>linnukesed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>linnuke+d</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u121" who="CHI">
-    <w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näge+0; näge+0</stem></mw></mor></w>
+    <w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näge+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näge+0</stem></mw></mor></w>
     <t type="p" />
 
     <a type="actions">vaatab raamatut edasi</a>
   </u>
   <u uID="u122" who="MOT">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u123" who="MOT">
-    <w>tubli<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _A_ Sg Nom,</c></pos><stem>tubli+0; tubli+0</stem></mw></mor></w>
-    <w>oled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>ole+d</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>tubli<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>tubli+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>tubli+0</stem></mw></mor></w>
+    <w>oled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>ole+d</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>oled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>ole+d</stem></mw></mor></w>
-    <w>tubli<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _A_ Sg Nom,</c></pos><stem>tubli+0; tubli+0</stem></mw></mor></w>
+    <w>oled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>ole+d</stem></mw></mor></w>
+    <w>tubli<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>tubli+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>tubli+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -951,15 +951,15 @@
     <a type="actions">näitab riiuli poole</a>
   </u>
   <u uID="u125" who="MOT">
-    <w>veel<mor type="mor"><mw><pos><c>_D_; _S_ Sg Ade,</c></pos><stem>veel+0; vesi+l</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>veel<mor type="mor"><mw><pos><c>_D_</c></pos><stem>veel+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>vesi+l</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="q" />
 
     <a type="actions">võtab teised raamatud</a>
   </u>
   <u uID="u126" who="KAJ">
     <w>oi<mor type="mor"><mw><pos><c>_I_</c></pos><stem>oi+0</stem></mw></mor></w>
-    <w>jänkupoiss<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>jänku_poiss+0</stem></mw></mor></w>
+    <w>jänkupoiss<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>jänku_poiss+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -980,13 +980,13 @@
     <a type="actions">keerab lehti ja näitab piltidele</a>
   </u>
   <u uID="u130" who="MOT">
-    <w>auto<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>auto+0; auto+0</stem></mw></mor></w>
+    <w>auto<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>auto+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>auto+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u131" who="MOT">
-    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>jänku+0; jänku+0</stem></mw></mor></w>
-    <w>hüppab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>hüppa+b</stem></mw></mor></w>
+    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>jänku+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>jänku+0</stem></mw></mor></w>
+    <w>hüppab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>hüppa+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>hops<wk type="cmp" />hops<mor type="mor"><mw><pos><c>_I_</c></pos><stem>hops+0</stem></mw></mor></w>
     <t type="p" />
@@ -998,77 +998,77 @@
 
   </u>
   <u uID="u133" who="MOT">
-    <w>vaatame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff,</c></pos><stem>vaata+me</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>vaatame<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl1 Aff</c></pos><stem>vaata+me</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u134" who="MOT">
-    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w>
+    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u135" who="CHI">
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u136" who="MOT">
-    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w>
+    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u137" who="KAJ">
-    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w>
+    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u138" who="KAJ">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade,</c></pos><stem>sina+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade</c></pos><stem>sina+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
     <a type="actions">näitab koerapildile</a>
   </u>
   <u uID="u139" who="CHI">
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u140" who="KAJ">
     <w>auh<wk type="cmp" />auh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>auh+0</stem></mw></mor></w>
-    <w>oli<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,</c></pos><stem>ole+i</stem></mw></mor></w>
+    <w>oli<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>ole+i</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u141" who="CHI">
-    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>and+0; and+0; anna+0; anna+0</stem></mw></mor></w>
+    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>anna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>anna+0</stem></mw></mor></w>
     <t type="e" />
 
     <a type="actions">tahab teist raamatut</a>
   </u>
   <u uID="u142" who="CHI">
-    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>and+0; and+0; anna+0; anna+0</stem></mw></mor></w>
+    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>anna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>anna+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u143" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>su<mor type="mor"><mw><pos><c>_P_ Sg Gen,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>su<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1079,15 +1079,15 @@
     <a type="actions">vokalisiert</a>
   </u>
   <u uID="u145" who="KAJ">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u146" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <g><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1098,29 +1098,29 @@
     <a type="actions">uurib makki</a>
   </u>
   <u uID="u148" who="MOT">
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tädi<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>tädi+0; tädi+0; tädi+0</stem></mw></mor></w>
-    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _D_; _P_ Sg Gen,; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _A_ Sg Nom,; _A_ Sg Par,; _P_ Sg Nom,; _P_ Sg Par,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tädi<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tädi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tädi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>tädi+0</stem></mw></mor></w>
+    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>oma+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>laulu<wk type="cmp" />laulu<replacement><w>makk<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>makk+0</stem></mw></mor></w></replacement></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>laulu<wk type="cmp" />laulu<replacement><w>makk<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>makk+0</stem></mw></mor></w></replacement></w>
     <t type="p" />
 
     <a type="actions">näitab teist raamatut</a>
   </u>
   <u uID="u149" who="MOT">
-    <w>piilupart<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>piilu_part+0</stem></mw></mor></w>
-    <w>Donald<mor type="mor"><mw><pos><c>_H_ Sg Nom,</c></pos><stem>Donald+0</stem></mw></mor></w>
+    <w>piilupart<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>piilu_part+0</stem></mw></mor></w>
+    <w>Donald<mor type="mor"><mw><pos><c>_H_ Sg Nom</c></pos><stem>Donald+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u150" who="MOT">
-    <w>ilusad<mor type="mor"><mw><pos><c>_A_ Pl Nom,</c></pos><stem>ilus+d</stem></mw></mor></w>
-    <w>kiisud<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>kiisu+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
+    <w>ilusad<mor type="mor"><mw><pos><c>_A_ Pl Nom</c></pos><stem>ilus+d</stem></mw></mor></w>
+    <w>kiisud<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>kiisu+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -1132,16 +1132,16 @@
     <a type="actions">vaatab</a>
   </u>
   <u uID="u152" who="MOT">
-    <w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näge+0; näge+0</stem></mw></mor></w>
+    <w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näge+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näge+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>väike<mor type="mor"><mw><pos><c>_A_ Sg Nom,</c></pos><stem>väike+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>väike<mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>väike+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>naer+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>naer+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <t type="q" />
@@ -1155,42 +1155,42 @@
   <u uID="u154" who="MOT">
     <w>ahahaa<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <w>nii<mor type="mor"><mw><pos><c>_D_</c></pos><stem>nii+0</stem></mw></mor></w>
-    <w>või<mor type="mor"><mw><pos><c>_D_; _J_; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>või+0; või+0; või+0; või+0; või+0; või+0</stem></mw></mor></w>
+    <w>või<mor type="mor"><mw><pos><c>_D_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>või+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u155" who="MOT">
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>naer+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>naerab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>naer+b</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u156" who="CHI">
-    <w>näh<replacement><w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näge+0; näge+0</stem></mw></mor></w></replacement></w>
+    <w>näh<replacement><w>näe<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näge+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näge+0</stem></mw></mor></w></replacement></w>
     <t type="e" />
 
     <a type="actions">näitab pildile</a>
   </u>
   <u uID="u157" who="MOT">
-    <g><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w><k type="retracing with correction" /></g>
-    <w>suur<mor type="mor"><mw><pos><c>_A_ Sg Nom,</c></pos><stem>suur+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <g><w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w><k type="retracing with correction" /></g>
+    <w>suur<mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>suur+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u158" who="KAJ">
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1200,7 +1200,7 @@
 
   </u>
   <u uID="u160" who="KAJ">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1218,69 +1218,69 @@
     <a type="actions">vokalisiert</a>
   </u>
   <u uID="u163" who="MOT">
-    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w>
+    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u164" who="CHI">
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u165" who="MOT">
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u166" who="CHI">
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u167" who="CHI">
-    <g><w>ass<replacement><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w></replacement></w><ga type="comments">imit</ga></g>
+    <g><w>ass<replacement><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w></replacement></w><ga type="comments">imit</ga></g>
     <t type="p" />
 
   </u>
   <u uID="u168" who="MOT">
-    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w>
+    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u169" who="CHI">
-    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w><ga type="comments">imit</ga></g>
+    <g><w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w><ga type="comments">imit</ga></g>
     <t type="p" />
 
   </u>
   <u uID="u170" who="MOT">
-    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kass+0</stem></mw></mor></w>
+    <w>kass<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kass+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u171" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u172" who="CHI">
-    <w>ann<replacement><w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>and+0; and+0; anna+0; anna+0</stem></mw></mor></w></replacement></w>
+    <w>ann<replacement><w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>anna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>anna+0</stem></mw></mor></w></replacement></w>
     <t type="e" />
 
   </u>
   <u uID="u173" who="MOT">
-    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>and+0; and+0; anna+0; anna+0</stem></mw></mor></w>
+    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>anna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>anna+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>mis+0; mis+0</stem></mw></mor></w>
-    <w>ma<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>mina+0</stem></mw></mor></w>
-    <w>sulle<mor type="mor"><mw><pos><c>_P_ Sg All,</c></pos><stem>sina+lle</stem></mw></mor></w>
-    <w>annan<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff,</c></pos><stem>and+n</stem></mw></mor></w>
+    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>mis+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>mis+0</stem></mw></mor></w>
+    <w>ma<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>mina+0</stem></mw></mor></w>
+    <w>sulle<mor type="mor"><mw><pos><c>_P_ Sg All</c></pos><stem>sina+lle</stem></mw></mor></w>
+    <w>annan<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff</c></pos><stem>and+n</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u174" who="MOT">
-    <w>palun<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff,</c></pos><stem>palu+n</stem></mw></mor></w>
+    <w>palun<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff</c></pos><stem>palu+n</stem></mw></mor></w>
     <t type="e" />
 
     <a type="actions">annab mänguasja</a>
@@ -1288,10 +1288,10 @@
   <u uID="u175" who="MOT">
     <w>no<mor type="mor"><mw><pos><c>_I_</c></pos><stem>no+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>mis+0; mis+0</stem></mw></mor></w>
-    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>mis+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>mis+0</stem></mw></mor></w>
+    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>sina+0</stem></mw></mor></w>
     <w>nüüd<mor type="mor"><mw><pos><c>_D_</c></pos><stem>nüüd+0</stem></mw></mor></w>
-    <w>teed<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,; _S_ Sg Par,</c></pos><stem>tee+d; tege+d; tee+d</stem></mw></mor></w>
+    <w>teed<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>tee+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>tege+d</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>tee+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1303,9 +1303,9 @@
   </u>
   <u uID="u177" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pall+0</stem></mw></mor></w>
+    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pall+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1318,36 +1318,36 @@
   </u>
   <u uID="u179" who="KAJ">
     <w>vat<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>ongi<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+gi; ole+gi</stem></mw></mor></w>
-    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pall+0</stem></mw></mor></w>
-    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade,</c></pos><stem>sina+l</stem></mw></mor></w>
-    <w>või<mor type="mor"><mw><pos><c>_D_; _J_; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>või+0; või+0; või+0; või+0; või+0; või+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>ongi<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+gi</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+gi</stem></mw></mor></w>
+    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pall+0</stem></mw></mor></w>
+    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade</c></pos><stem>sina+l</stem></mw></mor></w>
+    <w>või<mor type="mor"><mw><pos><c>_D_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>või+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u180" who="KAJ">
-    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>silm+d; silma+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>kõik<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _S_ Sg Nom,; _P_ Sg Nom,</c></pos><stem>kõik+0; kõik+0; kõik+0</stem></mw></mor></w>
+    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>silm+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>silma+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>kõik<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kõik+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kõik+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kõik+0</stem></mw></mor></w>
     <w>ja<mor type="mor"><mw><pos><c>_J_</c></pos><stem>ja+0</stem></mw></mor></w>
     <tagMarker type="comma" />
-    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,</c></pos><stem>tule+0; tule+0; tuli+0</stem></mw></mor></w>
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
+    <w>tule<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>tule+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tuli+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u181" who="KAJ">
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
-    <w>ma<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>mina+0</stem></mw></mor></w>
-    <w>viskan<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff,</c></pos><stem>viska+n</stem></mw></mor></w>
-    <w>sulle<mor type="mor"><mw><pos><c>_P_ Sg All,</c></pos><stem>sina+lle</stem></mw></mor></w>
+    <w>ma<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>mina+0</stem></mw></mor></w>
+    <w>viskan<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff</c></pos><stem>viska+n</stem></mw></mor></w>
+    <w>sulle<mor type="mor"><mw><pos><c>_P_ Sg All</c></pos><stem>sina+lle</stem></mw></mor></w>
     <w>kas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kas+0</stem></mw></mor></w>
-    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>püüad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>püüd+d</stem></mw></mor></w>
-    <w>siis<mor type="mor"><mw><pos><c>_D_; _J_</c></pos><stem>siis+0; siis+0</stem></mw></mor></w>
+    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>püüad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>püüd+d</stem></mw></mor></w>
+    <w>siis<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siis+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>siis+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <t type="q" />
@@ -1355,19 +1355,19 @@
     <a type="actions">viskab</a>
   </u>
   <u uID="u182" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pall+0</stem></mw></mor></w>
-    <w>tuleb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tule+b</stem></mw></mor></w>
-    <w>sinu<mor type="mor"><mw><pos><c>_P_ Sg Gen,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>juurde<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _D_; _K_</c></pos><stem>juur+de; juurde+0; juurde+0</stem></mw></mor></w>
+    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pall+0</stem></mw></mor></w>
+    <w>tuleb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tule+b</stem></mw></mor></w>
+    <w>sinu<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>juurde<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>juur+de</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>juurde+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>juurde+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u183" who="KAJ">
-    <w>viska<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>viska+0; viska+0</stem></mw></mor></w>
-    <g><w>emmele<mor type="mor"><mw><pos><c>_S_ Sg All,; _S_ Sg All,</c></pos><stem>emm+le; emme+le</stem></mw></mor></w><k type="retracing" /></g>
-    <w>emmele<mor type="mor"><mw><pos><c>_S_ Sg All,; _S_ Sg All,</c></pos><stem>emm+le; emme+le</stem></mw></mor></w>
+    <w>viska<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>viska+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>viska+0</stem></mw></mor></w>
+    <g><w>emmele<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>emm+le</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>emme+le</stem></mw></mor></w><k type="retracing" /></g>
+    <w>emmele<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>emm+le</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>emme+le</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -1393,12 +1393,12 @@
   </u>
   <u uID="u187" who="MOT">
     <w>nüüd<mor type="mor"><mw><pos><c>_D_</c></pos><stem>nüüd+0</stem></mw></mor></w>
-    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tädi+le</stem></mw></mor></w>
-    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pall+0</stem></mw></mor></w>
+    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tädi+le</stem></mw></mor></w>
+    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pall+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>viska<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>viska+0; viska+0</stem></mw></mor></w>
-    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pall+0</stem></mw></mor></w>
-    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All,</c></pos><stem>tädi+le</stem></mw></mor></w>
+    <w>viska<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>viska+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>viska+0</stem></mw></mor></w>
+    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pall+0</stem></mw></mor></w>
+    <w>tädile<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>tädi+le</stem></mw></mor></w>
     <w>nüüd<mor type="mor"><mw><pos><c>_D_</c></pos><stem>nüüd+0</stem></mw></mor></w>
     <t type="e" />
 
@@ -1411,14 +1411,14 @@
     <a type="actions">viskab KAJ-le</a>
   </u>
   <u uID="u189" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>ta<mor type="mor"><mw><pos><c>_P_ Sg Gen,; _P_ Sg Nom,</c></pos><stem>tema+0; tema+0</stem></mw></mor></w>
-    <w>läks<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff,</c></pos><stem>mine+s</stem></mw></mor></w>
+    <w>ta<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>tema+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>tema+0</stem></mw></mor></w>
+    <w>läks<mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg3 Aff</c></pos><stem>mine+s</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,; _D_</c></pos><stem>rutt+0; rutt+0; ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
-    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,; _D_</c></pos><stem>rutt+0; rutt+0; ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
-    <w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Par,; _D_</c></pos><stem>rutt+0; rutt+0; ruttu+0</stem></mw></mor></w>
+    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>ruttu+0</stem></mw></mor></w><k type="retracing" /></g>
+    <w>ruttu<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>rutt+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>ruttu+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -1430,25 +1430,25 @@
   </u>
   <u uID="u191" who="KAJ">
     <w>jälle<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jälle+0</stem></mw></mor></w>
-    <w>tuleb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tule+b</stem></mw></mor></w>
-    <w>mulle<mor type="mor"><mw><pos><c>_P_ Sg All,; _S_ Pl Par,; _S_ Sg Nom,</c></pos><stem>mina+lle; mull+e; mulle+0</stem></mw></mor></w>
-    <w>ve<replacement><w>või<mor type="mor"><mw><pos><c>_D_; _J_; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Nom,</c></pos><stem>või+0; või+0; või+0; või+0; või+0; või+0</stem></mw></mor></w></replacement></w>
+    <w>tuleb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tule+b</stem></mw></mor></w>
+    <w>mulle<mor type="mor"><mw><pos><c>_P_ Sg All</c></pos><stem>mina+lle</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>mull+e</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>mulle+0</stem></mw></mor></w>
+    <w>ve<replacement><w>või<mor type="mor"><mw><pos><c>_D_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_J_</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>või+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>või+0</stem></mw></mor></w></replacement></w>
     <t type="q" />
 
   </u>
   <u uID="u192" who="KAJ">
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>silm+d; silma+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>silm+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>silma+d</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
-    <w>silma<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Par,</c></pos><stem>silm+0; silm+0; silma+0; silma+0; silm+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
+    <w>silma<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>silm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>silm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>silma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>silma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>silm+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>pallil<mor type="mor"><mw><pos><c>_S_ Sg Ade,</c></pos><stem>pall+l</stem></mw></mor></w>
-    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>silm+d; silma+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>pallil<mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>pall+l</stem></mw></mor></w>
+    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>silm+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>silma+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1461,11 +1461,11 @@
   <u uID="u194" who="MOT">
     <w>aitäh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>aitäh+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>palun<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff,</c></pos><stem>palu+n</stem></mw></mor></w>
+    <w>palun<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg1 Aff</c></pos><stem>palu+n</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>mis+0; mis+0</stem></mw></mor></w>
-    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>ütled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>ütle+d</stem></mw></mor></w>
+    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>mis+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>mis+0</stem></mw></mor></w>
+    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>ütled<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>ütle+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1475,28 +1475,28 @@
 
   </u>
   <u uID="u196" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <tagMarker type="comma" />
-    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>silm+d; silma+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>silmad<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>silm+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>silma+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="e" />
 
     <a type="actions">näitab palli silmi</a>
   </u>
   <u uID="u197" who="KAJ">
-    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?,</c></pos><stem>a+0</stem></mw></mor></w>
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade,</c></pos><stem>sina+l</stem></mw></mor></w>
-    <w>seal<mor type="mor"><mw><pos><c>_D_; _A_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>seal+0; siga+l; siga+l</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>a'<mor type="mor"><mw><pos><c>_Y_ ?</c></pos><stem>a+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>sul<mor type="mor"><mw><pos><c>_P_ Sg Ade</c></pos><stem>sina+l</stem></mw></mor></w>
+    <w>seal<mor type="mor"><mw><pos><c>_D_</c></pos><stem>seal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>seal<mor type="mor"><mw><pos><c>_D_; _A_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>seal+0; siga+l; siga+l</stem></mw></mor></w>
-    <w>diivani<mor type="mor"><mw><pos><c>_S_ Sg Trm,; _S_ Sg Gen,</c></pos><stem>diiva+ni; diivan+0</stem></mw></mor></w>
-    <w>peal<mor type="mor"><mw><pos><c>_S_ Sg Ade,; _D_; _K_</c></pos><stem>pea+l; peal+0; peal+0</stem></mw></mor></w>
+    <w>seal<mor type="mor"><mw><pos><c>_D_</c></pos><stem>seal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor></w>
+    <w>diivani<mor type="mor"><mw><pos><c>_S_ Sg Trm</c></pos><stem>diiva+ni</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>diivan+0</stem></mw></mor></w>
+    <w>peal<mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>pea+l</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>peal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>peal+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>kes+0; kes+0</stem></mw></mor></w>
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>kes<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>kes+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>kes+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
     <a type="actions">näitab diivani peale</a>
@@ -1508,8 +1508,8 @@
   </u>
   <u uID="u199" who="MOT">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tiiger<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>tiiger+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tiiger<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tiiger+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>urr<wk type="cmp" />urr<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <t type="q" />
@@ -1517,13 +1517,13 @@
   </u>
   <u uID="u200" who="MOT">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tiiger<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>tiiger+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tiiger<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tiiger+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u201" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -1533,22 +1533,22 @@
 
   </u>
   <u uID="u203" who="MOT">
-    <w>tiiger<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>tiiger+0</stem></mw></mor></w>
+    <w>tiiger<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tiiger+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u204" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom,; _P_ Sg Nom,</c></pos><stem>mis+0; mis+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tege+b</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>mis<mor type="mor"><mw><pos><c>_P_ Pl Nom</c></pos><stem>mis+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>mis+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tege+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <w>kas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kas+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>magab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>maga+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>magab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>maga+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -1558,17 +1558,17 @@
 
   </u>
   <u uID="u206" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <w>kas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kas+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>magab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>maga+b</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>magab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>maga+b</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u207" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1578,7 +1578,7 @@
 
   </u>
   <u uID="u209" who="MOT">
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -1589,11 +1589,11 @@
     <a type="actions">uurib laual pinalit</a>
   </u>
   <u uID="u211" who="MOT">
-    <g><w>tädi<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>tädi+0; tädi+0; tädi+0</stem></mw></mor></w>
-    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _D_; _P_ Sg Gen,; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _A_ Sg Nom,; _A_ Sg Par,; _P_ Sg Nom,; _P_ Sg Par,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0</stem></mw></mor></w><k type="retracing" /></g>
+    <g><w>tädi<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tädi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tädi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>tädi+0</stem></mw></mor></w>
+    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>oma+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
-    <w>tädi<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>tädi+0; tädi+0; tädi+0</stem></mw></mor></w>
-    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _D_; _P_ Sg Gen,; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _A_ Sg Nom,; _A_ Sg Par,; _P_ Sg Nom,; _P_ Sg Par,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0</stem></mw></mor></w>
+    <w>tädi<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tädi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tädi+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>tädi+0</stem></mw></mor></w>
+    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>oma+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -1610,7 +1610,7 @@
 
   </u>
   <u uID="u214" who="MOT">
-    <w>laula<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>laul+0; laul+0</stem></mw></mor></w>
+    <w>laula<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>laul+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>laul+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
@@ -1622,13 +1622,13 @@
   </u>
   <u uID="u216" who="MOT">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>laulad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff,</c></pos><stem>laul+d</stem></mw></mor></w>
+    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>laulad<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg2 Aff</c></pos><stem>laul+d</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u217" who="CHI">
-    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>and+0; and+0; anna+0; anna+0</stem></mw></mor></w>
+    <w>anna<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>and+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>anna+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>anna+0</stem></mw></mor></w>
     <t type="e" />
 
     <a type="actions">annab KAJ-le märkmiku</a>
@@ -1639,16 +1639,16 @@
 
   </u>
   <u uID="u219" who="KAJ">
-    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>see+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>minu<mor type="mor"><mw><pos><c>_P_ Sg Gen,</c></pos><stem>mina+0</stem></mw></mor></w>
-    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen,; _D_; _P_ Sg Gen,; _S_ Sg Gen,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,; _A_ Sg Nom,; _A_ Sg Par,; _P_ Sg Nom,; _P_ Sg Par,; _S_ Sg Nom,; _S_ Sg Par,</c></pos><stem>oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0; oma+0</stem></mw></mor></w>
-    <w>jah<mor type="mor"><mw><pos><c>_D_; _I_</c></pos><stem>jah+0; jah+0</stem></mw></mor></w>
+    <w>see<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>see+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>minu<mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>mina+0</stem></mw></mor></w>
+    <w>oma<mor type="mor"><mw><pos><c>_A_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_P_ Sg Par</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>oma+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>oma+0</stem></mw></mor></w>
+    <w>jah<mor type="mor"><mw><pos><c>_D_</c></pos><stem>jah+0</stem></mw></mor><mor type="mor"><mw><pos><c>_I_</c></pos><stem>jah+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u220" who="MOT">
-    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>pall+0</stem></mw></mor></w>
+    <w>pall<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>pall+0</stem></mw></mor></w>
     <t type="p" />
 
     <a type="actions">võtab palli</a>
@@ -1660,21 +1660,21 @@
     <a type="actions">püüab klotsi palli peale panna</a>
   </u>
   <u uID="u222" who="KAJ">
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
-    <w>pane<mor type="mor"><mw><pos><c>_S_ Pl Par,; _V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>pan+e; pane+0; pane+0</stem></mw></mor></w>
-    <w>kutsade<mor type="mor"><mw><pos><c>_S_ Pl Gen,</c></pos><stem>kutsa+de</stem></mw></mor></w>
-    <w>peale<mor type="mor"><mw><pos><c>_S_ Sg All,; _D_; _K_</c></pos><stem>pea+le; peale+0; peale+0</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
+    <w>pane<mor type="mor"><mw><pos><c>_S_ Pl Par</c></pos><stem>pan+e</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>pane+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>pane+0</stem></mw></mor></w>
+    <w>kutsade<mor type="mor"><mw><pos><c>_S_ Pl Gen</c></pos><stem>kutsa+de</stem></mw></mor></w>
+    <w>peale<mor type="mor"><mw><pos><c>_S_ Sg All</c></pos><stem>pea+le</stem></mw></mor><mor type="mor"><mw><pos><c>_D_</c></pos><stem>peale+0</stem></mw></mor><mor type="mor"><mw><pos><c>_K_</c></pos><stem>peale+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>kutsad<mor type="mor"><mw><pos><c>_S_ Pl Nom,</c></pos><stem>kutsa+d</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>siin<mor type="mor"><mw><pos><c>_D_; _S_ Sg Nom,</c></pos><stem>siin+0; siin+0</stem></mw></mor></w>
+    <w>kutsad<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>kutsa+d</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>siin<mor type="mor"><mw><pos><c>_D_</c></pos><stem>siin+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>siin+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>kutsadele<mor type="mor"><mw><pos><c>_S_ Pl All,</c></pos><stem>kutsa+dele</stem></mw></mor></w>
+    <w>kutsadele<mor type="mor"><mw><pos><c>_S_ Pl All</c></pos><stem>kutsa+dele</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u223" who="KAJ">
-    <w>kutsa<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>kutsa+0; kutsa+0</stem></mw></mor></w>
+    <w>kutsa<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>kutsa+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kutsa+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>auh<wk type="cmp" />auh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>auh+0</stem></mw></mor></w>
     <t type="p" />
@@ -1689,13 +1689,13 @@
   <u uID="u225" who="MOT">
     <w>mhmh<mor type="mor"><mw><pos><c>_I_</c></pos><stem>mhmh+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>raamat+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>raamat<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>raamat+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="p" />
 
   </u>
   <u uID="u226" who="KAJ">
-    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>näita+0; näita+0</stem></mw></mor></w>
+    <w>näita<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>näita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>näita+0</stem></mw></mor></w>
     <w>mõmmit<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <t type="e" />
 
@@ -1706,9 +1706,9 @@
 
   </u>
   <u uID="u228" who="KAJ">
-    <w>mus<mor type="mor"><mw><pos><c>_P_ Sg Ine,</c></pos><stem>mina+s</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mus<mor type="mor"><mw><pos><c>_P_ Sg Ine</c></pos><stem>mina+s</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1720,26 +1720,26 @@
     <a type="actions">otsib mõmmi pildi</a>
   </u>
   <u uID="u230" who="KAJ">
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>väga<mor type="mor"><mw><pos><c>_D_</c></pos><stem>väga+0</stem></mw></mor></w>
-    <w>ilus<mor type="mor"><mw><pos><c>_S_ Sg Ine,; _A_ Sg Nom,</c></pos><stem>ilu+s; ilus+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
+    <w>ilus<mor type="mor"><mw><pos><c>_S_ Sg Ine</c></pos><stem>ilu+s</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>ilus+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>ilus<mor type="mor"><mw><pos><c>_S_ Sg Ine,; _A_ Sg Nom,</c></pos><stem>ilu+s; ilus+0</stem></mw></mor></w>
-    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill,; _S_ Sg Gen,; _S_ Sg Par,</c></pos><stem>mõmm+0; mõmm+0; mõmm+0</stem></mw></mor></w>
-    <w>seal<mor type="mor"><mw><pos><c>_D_; _A_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>seal+0; siga+l; siga+l</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>ilus<mor type="mor"><mw><pos><c>_S_ Sg Ine</c></pos><stem>ilu+s</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Nom</c></pos><stem>ilus+0</stem></mw></mor></w>
+    <w>mõmmi<mor type="mor"><mw><pos><c>_S_ Sg Ill</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>mõmm+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Par</c></pos><stem>mõmm+0</stem></mw></mor></w>
+    <w>seal<mor type="mor"><mw><pos><c>_D_</c></pos><stem>seal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor></w>
     <t type="e" />
 
   </u>
   <u uID="u231" who="KAJ">
     <w>aga<mor type="mor"><mw><pos><c>_J_</c></pos><stem>aga+0</stem></mw></mor></w>
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>jänku+0; jänku+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>jänku+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>jänku+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
-    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>jänku+0; jänku+0</stem></mw></mor></w>
+    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>jänku+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>jänku+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1752,8 +1752,8 @@
   </u>
   <u uID="u233" who="KAJ">
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>jänku+0; jänku+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>jänku<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>jänku+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>jänku+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1765,12 +1765,12 @@
   </u>
   <u uID="u235" who="KAJ">
     <g><w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w><k type="retracing" /></g>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w><k type="retracing" /></g>
     <pause symbolic-length="simple" />
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1783,21 +1783,21 @@
     <w>Stella<mor type="mor"><mw><pos><c>####</c></pos><stem>####</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,; _V_ Pers Prs Ind Pl3 Aff,</c></pos><stem>ole+0; ole+0</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>on<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>ole+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Pl3 Aff</c></pos><stem>ole+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kus<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kus+0</stem></mw></mor></w>
-    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom,</c></pos><stem>sina+0</stem></mw></mor></w>
-    <w>panid<mor type="mor"><mw><pos><c>_S_ Pl Nom,; _V_ Pers Prt Ind Pl3 Aff,; _V_ Pers Prt Ind Sg2 Aff,; _S_ Pl Nom,</c></pos><stem>pan+d; pane+id; pane+id; pani+d</stem></mw></mor></w>
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
+    <w>sa<mor type="mor"><mw><pos><c>_P_ Sg Nom</c></pos><stem>sina+0</stem></mw></mor></w>
+    <w>panid<mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>pan+d</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Pl3 Aff</c></pos><stem>pane+id</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prt Ind Sg2 Aff</c></pos><stem>pane+id</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Pl Nom</c></pos><stem>pani+d</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
   <u uID="u238" who="KAJ">
-    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen,; _S_ Sg Nom,</c></pos><stem>tita+0; tita+0</stem></mw></mor></w>
-    <w>magab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>maga+b</stem></mw></mor></w>
-    <w>seal<mor type="mor"><mw><pos><c>_D_; _A_ Sg Ade,; _S_ Sg Ade,</c></pos><stem>seal+0; siga+l; siga+l</stem></mw></mor></w>
-    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2,; _V_ Pers Prs Ind Neg,</c></pos><stem>vaata+0; vaata+0</stem></mw></mor></w>
+    <w>tita<mor type="mor"><mw><pos><c>_S_ Sg Gen</c></pos><stem>tita+0</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>tita+0</stem></mw></mor></w>
+    <w>magab<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>maga+b</stem></mw></mor></w>
+    <w>seal<mor type="mor"><mw><pos><c>_D_</c></pos><stem>seal+0</stem></mw></mor><mor type="mor"><mw><pos><c>_A_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor><mor type="mor"><mw><pos><c>_S_ Sg Ade</c></pos><stem>siga+l</stem></mw></mor></w>
+    <w>vaata<mor type="mor"><mw><pos><c>_V_ Pers Prs Imprt Sg2</c></pos><stem>vaata+0</stem></mw></mor><mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Neg</c></pos><stem>vaata+0</stem></mw></mor></w>
     <t type="e" />
 
   </u>
@@ -1809,12 +1809,12 @@
   </u>
   <u uID="u240" who="MOT">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>kell<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kell+0</stem></mw></mor></w>
-    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tege+b</stem></mw></mor></w>
+    <w>kell<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kell+0</stem></mw></mor></w>
+    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tege+b</stem></mw></mor></w>
     <pause symbolic-length="simple" />
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tege+b</stem></mw></mor></w>
-    <w>kell<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kell+0</stem></mw></mor></w>
+    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tege+b</stem></mw></mor></w>
+    <w>kell<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kell+0</stem></mw></mor></w>
     <t type="q" />
 
   </u>
@@ -1825,8 +1825,8 @@
   </u>
   <u uID="u242" who="MOT">
     <w>kuidas<mor type="mor"><mw><pos><c>_D_</c></pos><stem>kuidas+0</stem></mw></mor></w>
-    <w>kell<mor type="mor"><mw><pos><c>_S_ Sg Nom,</c></pos><stem>kell+0</stem></mw></mor></w>
-    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff,</c></pos><stem>tege+b</stem></mw></mor></w>
+    <w>kell<mor type="mor"><mw><pos><c>_S_ Sg Nom</c></pos><stem>kell+0</stem></mw></mor></w>
+    <w>teeb<mor type="mor"><mw><pos><c>_V_ Pers Prs Ind Sg3 Aff</c></pos><stem>tege+b</stem></mw></mor></w>
     <t type="q" />
 
   </u>
